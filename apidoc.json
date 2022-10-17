@@ -1,0 +1,10 @@
+{
+    "name": "字幕组",
+    "version": "0.1.0",
+    "description": "字幕组",
+    "apidoc": {
+      "title": "字幕组",
+      "url" : "https://api.github.com/v1"
+    }
+  }
+  

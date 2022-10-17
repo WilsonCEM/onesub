@@ -1,0 +1,6610 @@
+﻿1
+00:00:04,000 --> 00:00:10,000
+翻译、校对： 韩非XF
+请勿用于商业用途，尊重他人劳动成果
+
+2
+00:01:13,626 --> 00:01:15,417
+<i>在意大利，要定义一种东西为毒品</i>
+<i>In Italy to be defined as a drug</i>
+
+3
+00:01:15,626 --> 00:01:19,209
+<i>就必须列在卫生部非法制剂的清单上</i>
+<i>a substance has to be on the Ministry of Health's illegal molecules list.</i>
+
+4
+00:01:19,417 --> 00:01:22,126
+<i>比如可卡因、海洛因、冰毒、美沙酮、摇头丸等</i>
+<i>Cocaine, heroin, amphetamines, methadone, ecstasy,</i>
+
+5
+00:01:22,334 --> 00:01:25,167
+<i>清单里还列出了约200种其它制剂</i>
+<i>and more or less 200 other molecules make up that list.</i>
+
+6
+00:01:25,751 --> 00:01:27,584
+<i>假如一种制剂不在清单上</i>
+<i>If a molecule isn't on that list,</i>
+
+7
+00:01:27,751 --> 00:01:32,376
+<i>那么你就可以制造和服用它。不过，最重要的是，你可以出售它</i>
+<i>then you can make it, take it, but, above all, you can sell it.</i>
+
+8
+00:01:32,709 --> 00:01:36,251
+<i>我在24岁那年以最高成绩从生物专业毕业</i>
+<i>I graduated in biology at the age of 24 with top marks,</i>
+
+9
+00:01:36,459 --> 00:01:38,292
+<i>我拥有计算神经学的硕士学位</i>
+<i>I have a master's in computational neuroscience</i>
+
+10
+00:01:38,501 --> 00:01:39,959
+<i>以及分子动力学学位</i>
+<i>and another in molecular dynamics.</i>
+
+11
+00:01:40,626 --> 00:01:42,376
+<i>最近几个月我成立了一个帮派</i>
+<i>In the last few months I've set up a gang</i>
+
+12
+00:01:42,584 --> 00:01:45,334
+<i>从事一项价值数十万欧元的买卖</i>
+<i>that runs a business worth hundreds of thousands of euros</i>
+
+13
+00:01:45,542 --> 00:01:48,751
+<i>我被指控生产和贩卖毒品、武装抢劫</i>
+<i>I've been accused of producing and pushing drugs, armed robbery,</i>
+
+14
+00:01:49,001 --> 00:01:51,417
+<i>绑架以及蓄意杀人</i>
+<i>kidnap and attempted homicide.</i>
+
+15
+00:01:51,626 --> 00:01:56,626
+<i>我叫彼得罗·兹尼，是一名大学研究员</i>
+<i>My name is Pietro Zinni, and I'm a university researcher.</i>
+
+16
+00:02:00,417 --> 00:02:03,417
+<i>玩命毒师</i>
+I CAN QUIT ANYTIME I WANT
+
+17
+00:03:11,834 --> 00:03:17,209
+<i>四个月前</i>
+4 MONTHS BEFORE
+
+18
+00:03:17,626 --> 00:03:21,334
+...根据现有分子对接软件的特定参照
+...with particular reference to current molecular docking software,
+
+19
+00:03:21,542 --> 00:03:24,334
+一般基于长期的，按我们的观点来说
+often based on long and, in our opinion,
+
+20
+00:03:24,542 --> 00:03:29,167
+不可靠的卡查尔斯基·卡泽尔算法推演过程
+unreliable phases of elaboration of the Katchalski-Katzir algorithm.
+
+21
+00:03:29,376 --> 00:03:32,751
+而我们的目的是为了获取一个更直接
+Our aim instead is to obtain a result that is much more immediate
+
+22
+00:03:33,001 --> 00:03:36,001
+更精确的结果。这就是为什么我们要向
+and much more precise. And that is why we are asking
+
+23
+00:03:36,209 --> 00:03:40,001
+- 这个委员会申请资金...   - 抱歉，是我的
+- this commission to finance...   - Sorry, that's mine.
+
+24
+00:03:40,167 --> 00:03:41,792
+...以进行深入研究
+...further research.
+
+25
+00:03:42,042 --> 00:03:45,792
+抱歉，是我的手机响
+Given the very delicate moment, I have to keep it on.
+
+26
+00:03:46,042 --> 00:03:48,376
+安吉洛，兄弟...
+Angelo, my man...
+
+27
+00:03:49,042 --> 00:03:50,001
+好的
+Yes.
+
+28
+00:03:50,209 --> 00:03:56,126
+这些我已获得塞塔·兹尼命名的改良
+These upgrades which I have taken the liberty of naming Seta-Zinni,
+
+29
+00:03:56,334 --> 00:03:58,042
+已经得出一些惊人的结果
+have led to some surprising results.
+
+30
+00:03:58,251 --> 00:04:00,584
+我们发现了，比方说，TAAR1型酶
+We discovered, for example, how the TAAR1 enzyme,
+
+31
+00:04:00,751 --> 00:04:03,917
+是怎样进入单胺的膜泡运输机制
+entering the vesicular transport mechanism of the monoamines,
+
+32
+00:04:04,084 --> 00:04:08,126
+这可以得到，像这一页所示，令人难以置信的结果
+is able to achieve, as you can see in this slide here, incredible results.
+
+33
+00:04:08,334 --> 00:04:11,626
+- 从这个角度来说...   - 该死的！
+- From the point of view of...   - Damnation !
+
+34
+00:04:11,792 --> 00:04:14,126
+- 肯定是有...   - 肯定哪有问题！
+- There must be...   - Something's wrong !
+
+35
+00:04:14,334 --> 00:04:15,792
+还有什么东西烧着了的味道！
+There's a smell of burning as well !
+
+36
+00:04:16,001 --> 00:04:19,251
+什么东西都不符合标准，整栋楼都不可靠
+Nothing here is legal, the whole building is barely safe.
+
+37
+00:04:19,459 --> 00:04:22,167
+- 彼得罗，长话短说吧...   - 不，它停掉了...
+- Pietro, a little flexibility...   - No, it's stuck...
+
+38
+00:04:22,376 --> 00:04:24,084
+后面看看论文就行了
+Finish up with the paper version,
+
+39
+00:04:24,292 --> 00:04:28,001
+我相信教授们已经抓住了这项研究的重点
+I'm sure the professors have grasped the importance of the research.
+
+40
+00:04:28,209 --> 00:04:31,292
+我去找一个试验室技术员
+I'll go and get a lab technician.
+
+41
+00:04:31,501 --> 00:04:35,167
+- 弗朗西斯科！   - 我把论文给你们
+- Francesco !   - I'll give out the paper version.
+
+42
+00:04:35,376 --> 00:04:36,209
+哦，老天，抱歉
+Oh, God, excuse me.
+
+43
+00:04:41,501 --> 00:04:47,001
+教授，很抱歉，投影仪出问题了
+Professor, I'm sorry, but the problem with the projector,
+
+44
+00:04:47,167 --> 00:04:49,459
+在某些方面我们要更仔细一些！
+we need to be more careful with certain things !
+
+45
+00:04:49,626 --> 00:04:51,542
+彼得罗，这很严重
+Pietro, this is serious,
+
+46
+00:04:51,709 --> 00:04:54,001
+这次掉电把事情都搞砸了
+this brownout has messed up everything,
+
+47
+00:04:54,209 --> 00:04:56,251
+我连我的地址薄都进不去了
+I can't even access my address book.
+
+48
+00:04:56,459 --> 00:04:59,334
+恕我直言，教授，我们现在讨论的事有关职业生涯！
+With all due respect, Professor, We're talking about career here !
+
+49
+00:04:59,542 --> 00:05:02,417
+如果我的研究得不到新的资金，我就失业了
+If they don't refinance my research, I'm out of a job.
+
+50
+00:05:02,626 --> 00:05:04,792
+什么？我们进行得不错！
+What ? We're doing fine !
+
+51
+00:05:05,042 --> 00:05:08,751
+现在我们需要寻求政策性保护，我早已着手在办了
+Now we need to find some political protection, and I've already dealt with that.
+
+52
+00:05:09,001 --> 00:05:11,417
+我一点都不明白这些政治手段...
+I don't understand this political thing at all...
+
+53
+00:05:11,626 --> 00:05:15,417
+左手第二位是华盛顿的德·米塔的秘书
+The second from the left was secretary to De Mita in the DC,
+
+54
+00:05:15,626 --> 00:05:20,126
+我是在1986年阿韦利诺举办的君主主义大会上认识他的
+and I met him '86 at a monarchists' convention in Avellino.
+
+55
+00:05:20,334 --> 00:05:23,542
+- 我跟他说你是我们的人   - 什么我们？
+- I said you were one of ours.   - Our what ?
+
+56
+00:05:23,709 --> 00:05:27,251
+- 共融与自由团体   - 是吗，我不是太...
+- Communion and Liberation.   - Really, I'm not exactly...
+
+57
+00:05:27,459 --> 00:05:31,334
+这他妈有什么关系，彼得罗？关键是他笑了
+And why the fuck should that matter Pietro ? What matters is that he smiled.
+
+58
+00:05:31,542 --> 00:05:35,001
+你知道那意味着什么吗？一份长期合同
+You know what that means ? A long-term contract.
+
+59
+00:05:35,167 --> 00:05:39,292
+但愿如此！我希望资金能够比较稳定
+I wish ! I could really use some financial stability.
+
+60
+00:05:39,501 --> 00:05:42,251
+没错，不过，考虑一下，我们能不能试试重启下手机？
+Yes, but, as a scruple, shall we try and reset the device ?
+
+61
+00:05:42,459 --> 00:05:44,376
+教授，我很忙，明天再试吧
+Professor, I'm in a rush, I'll do it tomorrow.
+
+62
+00:05:44,584 --> 00:05:47,209
+我就这样守着用不起来的手机过一下午？
+And I would have to spend all afternoon with my cell phone not working ?
+
+63
+00:05:47,417 --> 00:05:49,209
+你确实要走的话，走吧
+If you have to go, go.
+
+64
+00:05:49,417 --> 00:05:51,917
+我会找你的同事贾科梅蒂让他试试
+I'll ask your colleague Giacometti and he'll do it.
+
+65
+00:05:52,126 --> 00:05:56,792
+这关贾科梅蒂什么事？让我来吧
+What's Giacometti got to do with it ? I'll do it.
+
+66
+00:05:59,626 --> 00:06:01,834
+你去哪了？快4点了！
+Where have you been ? It's nearly 4 !
+
+67
+00:06:02,042 --> 00:06:04,334
+我跟教授碰上点事情...
+I had a problem with the professor...
+
+68
+00:06:04,542 --> 00:06:06,542
+看看，彼得罗！情况真要命
+Look at this, Pietro ! The situation's tragic.
+
+69
+00:06:06,709 --> 00:06:09,459
+- 孩子们都在吗？   - 他们已经等了半个小时了！
+- Are the kids here ?   - They've been waiting for half an hour !
+
+70
+00:06:10,417 --> 00:06:12,834
+- 这是什么，法院的？   - 电梯帐单
+- What is it, the court ?   - The elevator bill.
+
+71
+00:06:13,042 --> 00:06:15,459
+- 这是交钱的指令！   - 该死的电梯！
+- It's an order to pay !   - That fucking elevator !
+
+72
+00:06:15,626 --> 00:06:19,417
+我才不要电梯，我不想为它付钱，我才不用它！
+I don't want an elevator, I don't want to pay for it, I don't use it !
+
+73
+00:06:19,626 --> 00:06:22,751
+干嘛要把它发给我们？我们有律师的，我亲爱的朋友，维托利奥...
+Why did they send it to us ? We have a lawyer, my dear friend, Vittorio...
+
+74
+00:06:23,001 --> 00:06:25,001
+他学的是教会法规！
+He's got a degree in canon law !
+
+75
+00:06:25,209 --> 00:06:26,501
+他的头脑非常聪明
+He's got a brain like this.
+
+76
+00:06:26,667 --> 00:06:29,376
+维托利奥是教皇的最后通谕的代笔人
+Vittorio was the ghost-writer for the Pope's last encyclical.
+
+77
+00:06:29,584 --> 00:06:31,626
+- 好吧...   - 而且他不收费
+- All right...   - And he's free.
+
+78
+00:06:32,792 --> 00:06:35,376
+- 我得去上课了   - 要确保能拿到薪水！
+- I need to do my lesson.   - Make sure you get paid !
+
+79
+00:06:35,584 --> 00:06:37,251
+要是你不去找他们，我去！
+If you don't ask them, I will !
+
+80
+00:06:37,459 --> 00:06:40,626
+嘘！求你把它放下来！我去找他们
+Ssh ! Keep it down, please ! I'll tell them.
+
+81
+00:06:44,042 --> 00:06:48,959
+各位，抱歉我来晚了，我被一点小事缠住了
+Guys, sorry I'm late, but I had a bit of a busy clay.
+
+82
+00:06:49,167 --> 00:06:52,126
+原因就不讲了... 好吧，把你们的书翻开到...
+You don't need to know... Right, open your book at...
+
+83
+00:06:54,084 --> 00:06:56,251
+- 你们在抽大麻？   - 我们在等...
+- Are you smoking a joint ?   - While we were waiting...
+
+84
+00:06:56,459 --> 00:06:59,959
+等什么等？马上给我扔了！
+While you were waiting ? Put that out right now !
+
+85
+00:07:00,167 --> 00:07:02,917
+你们不是开玩笑吧？
+Are you being serious ?
+
+86
+00:07:03,126 --> 00:07:04,667
+她平时跟戒毒的人打交道
+She works with recovering addicts,
+
+87
+00:07:04,917 --> 00:07:07,084
+她会把这当作对她的挑衅，而且她是对的！
+she'd see it as a provocation and she'd be right !
+
+88
+00:07:07,292 --> 00:07:10,626
+- 至少等到她离开！   - 我走了
+- At least wait till she leaves !   - I'm going.
+
+89
+00:07:10,834 --> 00:07:16,084
+- 你们在抽大麻吗？   - 没有，有人在楼下煎东西
+- Are you smoking a joint ?   - No, someone's frying downstairs...
+
+90
+00:07:16,292 --> 00:07:18,834
+你要确保能拿到薪水！
+Make sure you get paid !
+
+91
+00:07:20,084 --> 00:07:22,667
+嗯，其实...
+Yes, in fact...
+
+92
+00:07:24,292 --> 00:07:31,001
+我一直在想，在我们进行这三个月课程的同时
+I was thinking, in parallel with the three-month course we're doing,
+
+93
+00:07:31,209 --> 00:07:37,834
+我们也许可以讨论下报酬的事，比如说...
+we could also maybe begin a discourse about remuneration, let's say...
+
+94
+00:07:38,084 --> 00:07:41,251
+意思是...你们准备什么时候付我钱？
+meaning... when are you going to pay me ?
+
+95
+00:07:41,459 --> 00:07:45,084
+教授，我们说过的，你要干到一半再说
+Professor, we said before, you have to meet us halfway.
+
+96
+00:07:45,292 --> 00:07:46,626
+我已经干到一半了
+I am meeting you halfway,
+
+97
+00:07:46,834 --> 00:07:48,959
+可你们每人欠我500多欧元
+but you owe me more than 500 euros each.
+
+98
+00:07:49,167 --> 00:07:50,959
+这不是针对个人，我并不是对你们有想法
+It's not personal, I've not got it in for you,
+
+99
+00:07:51,167 --> 00:07:53,084
+你们给我报酬是天经地义的事
+it's a general thing to do with all of you.
+
+100
+00:07:55,417 --> 00:07:57,459
+- 毛里齐奥？   - 他在那边躺着呢
+- Maurizio ?   - He's lying down over there.
+
+101
+00:07:57,626 --> 00:08:01,334
+那边，这么一小会，又一次？他不是玩真的吧！
+Over there, a moment, again ? He cannot be serious !
+
+102
+00:08:01,542 --> 00:08:03,751
+他把这儿当旅馆了？
+Does he think this apartment is a hotel ?
+
+103
+00:08:04,001 --> 00:08:08,626
+他跑过来，上了一节课，然后躺了下来！我是说...
+He comes here, does a lesson, then lies down ! I mean...
+
+104
+00:08:08,792 --> 00:08:11,626
+- 毛里齐奥！   - 再给我五分钟，教授，请你...
+- Maurizio !   - Five minutes more, Prof, please...
+
+105
+00:08:11,792 --> 00:08:13,292
+不，不，没有五分钟
+No, no, no five minutes,
+
+106
+00:08:13,501 --> 00:08:17,917
+而且我告诉过你上床之前起码把牛仔裤脱了
+and I'd asked you to at least take your jeans off when you get into bed.
+
+107
+00:08:18,126 --> 00:08:20,959
+请把门关上，外面光太强了！
+Please ! Close the door, there's too much light coming in !
+
+108
+00:08:21,167 --> 00:08:23,542
+我的头脑要炸了，再给我五分钟就好
+My head's bursting, five minutes and I'll be with you.
+
+109
+00:08:23,709 --> 00:08:27,126
+没有五分钟！起来跟别人一样去上你的课
+No five minutes ! Get up and come for your lesson like everyone else.
+
+110
+00:08:27,709 --> 00:08:30,376
+真不敢相信！
+Can you believe this ?
+
+111
+00:08:30,584 --> 00:08:33,376
+- 你们去哪？   - 时间到了，我约了6点钟去跳舞
+- Where are you going ?   - Time's up, I've got dance at 6.
+
+112
+00:08:33,584 --> 00:08:35,792
+- 好吧，我们说好的事呢？   - 周三见
+- All right, and what did we agree ?   - See you on Wednesday.
+
+113
+00:08:36,042 --> 00:08:37,417
+不，关于钱的
+No, about the money.
+
+114
+00:08:37,626 --> 00:08:41,001
+教授，发生了危机，你没读报纸吗？找找看
+Prof, there's a crisis, don't you read the papers ? Mark it down.
+
+115
+00:08:41,209 --> 00:08:42,751
+什么...？
+What...?
+
+116
+00:08:46,959 --> 00:08:50,584
+等等，你们打算把毛里齐奥丢给我？
+Hang on, are you leaving Maurizio with me ?
+
+117
+00:08:59,209 --> 00:09:05,126
+我跟维托利奥谈过了，不得不说他确实让我放心了
+I spoke with Vittorio and I have to say he really reassured me,
+
+118
+00:09:05,334 --> 00:09:08,792
+因为他说交钱的指令并不是最终判决
+because he says the order to pay isn't like a definitive sentence.
+
+119
+00:09:09,042 --> 00:09:11,042
+所以我们可以提出反对，多争取些时间
+So we can oppose it and gain some time.
+
+120
+00:09:11,251 --> 00:09:15,126
+只是一桩小事，亲爱的。我会拿到我的合同，这样我们就能...
+It's only a matter of clays, love, I'll get my contract and we can...
+
+121
+00:09:15,334 --> 00:09:19,709
+毛里齐奥，我觉得你最好去做次全面体检
+Maurizio, I think you should go for a thorough general checkup,
+
+122
+00:09:19,959 --> 00:09:23,334
+因为从你睡觉的样子看，有可能是嗜睡症的初始阶段
+because the way you fall asleep, it could be first-stage narcolepsy.
+
+123
+00:09:23,542 --> 00:09:26,209
+- 这不是玩笑，你懂的   - 我不觉得...
+- It's serious, you know.   - I don't think so...
+
+124
+00:09:26,417 --> 00:09:29,667
+因为我今天早上6点才到家，累坏了。肯定是因为这个
+because I got home at 6 this morning, exhausted. That must be it.
+
+125
+00:09:29,917 --> 00:09:31,917
+我理解，可你父母没说什么？
+I understand, but don't your parents say anything ?
+
+126
+00:09:32,126 --> 00:09:33,626
+还有关于授课薪水的事...
+About paying for the lessons too...
+
+127
+00:09:33,792 --> 00:09:40,334
+朱莉亚，毛里齐奥的父母死于一场空难
+Giulia, Maurizio lost his parents in a plane crash,
+
+128
+00:09:40,542 --> 00:09:43,542
+所以你能想像他的情况有多糟
+so you can imagine how serious the situation is,
+
+129
+00:09:43,709 --> 00:09:47,084
+这可怜的家伙必须在周末去端盘子才能付得出学费
+the poor guy has to serve tables at the weekend to pay for his lessons,
+
+130
+00:09:47,292 --> 00:09:48,751
+告诉她
+tell her.
+
+131
+00:09:49,001 --> 00:09:52,001
+我必须在周末端盘子
+I have to serve tables at the weekend.
+
+132
+00:09:52,209 --> 00:09:55,334
+可他正计划付钱...告诉她
+But he's planning to pay... Tell her.
+
+133
+00:09:55,542 --> 00:09:57,667
+我正计划付钱
+I'm planning to pay.
+
+134
+00:09:57,917 --> 00:09:59,792
+总之，我之前想表达的意思是
+Anyway, what I was trying to say earlier
+
+135
+00:10:00,042 --> 00:10:02,251
+这项研究的确是个了不起的成功
+was the research really was a great success.
+
+136
+00:10:02,459 --> 00:10:04,542
+委员会立马就看出了
+The commission saw right away
+
+137
+00:10:04,667 --> 00:10:07,751
+我发明的这个算法的革命性影响
+the revolutionary impact of this algorithm
+
+138
+00:10:08,001 --> 00:10:12,584
+而它将会引发，我敢保证，一次科学巨震
+that I invented and that will lead, I'm sure, to a scientific earthquake.
+
+139
+00:10:12,751 --> 00:10:14,084
+教授，吃饭时别说这些！
+Prof, not at the table !
+
+140
+00:10:14,292 --> 00:10:17,751
+整个下午都有这种压抑的感觉
+This agony has been going on in the background all afternoon,
+
+141
+00:10:18,084 --> 00:10:21,251
+合同、科研、巨震，呃！
+the contract, the scientific research, the earthquake, eh !
+
+142
+00:10:21,459 --> 00:10:26,042
+对，没错，彼得罗，所有我们眼前的难题，你也是！
+Yes, really, Pietro, with all the problems we have, you as well !
+
+143
+00:10:30,834 --> 00:10:34,417
+所以，根据薛定谔方程式
+So, according to Schrodinger's equation,
+
+144
+00:10:34,626 --> 00:10:38,917
+我们可以毫无疑问地说这些粒子...
+we can say without any doubt that the particles...
+
+145
+00:10:39,126 --> 00:10:42,459
+- 彼得罗，我得跟你谈谈   - 教授，我正考试呢...
+- Pietro, I have to speak to you.   - Professor, I'm doing an exam...
+
+146
+00:10:42,626 --> 00:10:45,251
+我知道这个学生的情况。你还没准备好，很明显
+I know what this student's like. You're not ready, obviously,
+
+147
+00:10:45,459 --> 00:10:46,626
+下学期再来吧
+come back next session.
+
+148
+00:10:46,792 --> 00:10:49,459
+教授，我已经回答了所有的问题，我需要这次考试
+Professor, I've answered all the questions, I need this exam.
+
+149
+00:10:49,626 --> 00:10:52,542
+我们家开了一间药店！我怎么跟我父亲说？
+My family has a pharmacy ! What can I tell my father ?
+
+150
+00:10:52,709 --> 00:10:55,626
+我给你28分，别再碍我的事，行吗？
+28 out of 30, to stop you breaking my balls ! All right ?
+
+151
+00:10:57,584 --> 00:11:00,251
+- 什么事？   - 我有两条消息给你
+- What is it ?   - I've two bits of news for you,
+
+152
+00:11:00,459 --> 00:11:03,292
+一条是坏消息，另一条更糟
+one is bad and the other is really shit,
+
+153
+00:11:03,501 --> 00:11:06,792
+因为委员会已经决定只对五项请求中的一项进行资助
+because the commission has agreed to only one of the five requests
+
+154
+00:11:07,042 --> 00:11:09,084
+财政削减造成的
+for financing because of the cutbacks.
+
+155
+00:11:09,292 --> 00:11:12,501
+这真是一场悲剧，尤其是对我的同事们，因为...
+This is a tragedy, especially for my colleagues, because...
+
+156
+00:11:12,667 --> 00:11:17,001
+不，是你没得到。真正糟糕的消息是贾科梅蒂得到了
+No, you don't get it, the really shit news is Giacometti got it.
+
+157
+00:11:17,209 --> 00:11:20,084
+贾科梅蒂得到了？
+Giacometti got it ?
+
+158
+00:11:20,292 --> 00:11:23,417
+可我的研究有拿诺贝尔奖的希望！贾科梅蒂？
+But my research could be Nobel material ! Giacometti ?
+
+159
+00:11:23,626 --> 00:11:25,209
+听着，彼得罗
+Listen, Pietro,
+
+160
+00:11:25,417 --> 00:11:28,376
+他们根本就不理解你的研究，因为太深奥了
+they understood nothing about your research because it's too difficult !
+
+161
+00:11:28,584 --> 00:11:31,292
+我同样也不理解！
+I didn't understand anything about it either !
+
+162
+00:11:31,501 --> 00:11:32,917
+塞塔教授看上去像个傻瓜
+Professor Seta looked like a fool,
+
+163
+00:11:33,126 --> 00:11:36,167
+因为他们不停地问啊问啊问那些我没法回答的问题
+because they were asking and asking and asking things I couldn't answer.
+
+164
+00:11:36,376 --> 00:11:38,251
+教授，我们一起签的研究协议！
+Professor, we both signed the research !
+
+165
+00:11:38,459 --> 00:11:40,959
+求你，你不能回避这些问题！
+You can't not answer the questions, please !
+
+166
+00:11:41,167 --> 00:11:43,417
+你不明白！这是个政治问题
+You don't understand ! It's a political problem.
+
+167
+00:11:43,626 --> 00:11:47,001
+你和那些极端天主教徒站在一起的决定
+Your decision to line up with the Catholic extremists
+
+168
+00:11:47,209 --> 00:11:50,001
+是错的，而且毫无远见
+was a mistake and very shortsighted.
+
+169
+00:11:50,209 --> 00:11:53,542
+教授，是你说你那个来自阿韦利诺的朋友笑了...
+Professor, it was you who said your friend from Avellino had smiled...
+
+170
+00:11:53,709 --> 00:11:57,001
+- 与我无关   - 他是个老托洛茨基分子
+- It was nothing to do with me.   - He's an old Trotskyite
+
+171
+00:11:57,209 --> 00:12:00,667
+来自现属左翼自由联盟阵营中的共产党！
+from the Communist Party who's in Sinistra e Libertà now !
+
+172
+00:12:00,917 --> 00:12:02,917
+我有尝试和他交谈
+I even tried speaking to him,
+
+173
+00:12:03,126 --> 00:12:06,542
+我说，我们有共同的普适价值观
+I said, we have some Catholic values in common,
+
+174
+00:12:06,709 --> 00:12:11,292
+你知道他说什么吗？滚开！所以我就说，如果你让我滚开
+you know what he said ? Fuck off ! So I said, if you say fuck off,
+
+175
+00:12:11,501 --> 00:12:15,376
+那你为什么不滚，你这个老王八！接下来事情就有点失控了
+Then why don't you fuck off, you old bugger ! And then things got a bit out of control.
+
+176
+00:12:15,584 --> 00:12:19,626
+教授，这是不是说不会有长期合同了？
+Professor, does this mean no long-term contract ?
+
+177
+00:12:19,834 --> 00:12:22,417
+他们连一年的合同都不会给你！
+They won't even give you a year's contract !
+
+178
+00:12:22,626 --> 00:12:25,501
+每月那500欧元对我很重要，教授！
+Those 500 euros a month kept me going Professor !
+
+179
+00:12:25,667 --> 00:12:27,917
+我已经37岁了，现在我还能开始做什么呢？
+I'm 37, what can I start doing now ?
+
+180
+00:12:28,126 --> 00:12:29,792
+稍等，我接下电话
+Wait, I need to answer this.
+
+181
+00:12:30,042 --> 00:12:31,667
+喂，你好，我是马尔凯托！
+Yes, hello, Marchetto !
+
+182
+00:12:31,917 --> 00:12:35,459
+怎么说呢？我们开始了一项未知的...
+What can I say ? We proceed into the unknown...
+
+183
+00:12:35,626 --> 00:12:41,126
+我想问你来着，你把船的泊位订好了吗？
+I wanted to ask you, did you book the mooring for the boat ?
+
+184
+00:12:41,334 --> 00:12:45,459
+安乔莱托真把事情搞砸了。你知道这傻缺干了什么事吗？
+Angioletto really messed things up. Do you know what the dickhead did ?
+
+185
+00:13:38,709 --> 00:13:42,209
+- 彼得罗，你在卫生间里吗？   - 对
+- Pietro, you in the bathroom ?   - Yes.
+
+186
+00:13:42,417 --> 00:13:46,042
+- 还要很久吗？   - 不，我好了。马上出来
+- You going to be long ?   - No, I'm finished. Coming.
+
+187
+00:13:46,251 --> 00:13:49,292
+- 你讲话怪怪的   - 没，没有
+- You sound strange.   - No, no.
+
+188
+00:13:53,209 --> 00:13:55,626
+- 你哭了？   - 没，没有
+- Have you been crying ?   - No, no,
+
+189
+00:13:55,792 --> 00:13:57,751
+我估计是你肥皂的PH值不适合...
+it's the PH of this soap of yours, I think...
+
+190
+00:13:58,001 --> 00:14:02,292
+彼得罗，别像个傻瓜，是你工作上出了什么问题吗？
+Pietro, don't be an asshole, has something happened at work ?
+
+191
+00:14:02,501 --> 00:14:05,709
+不，不是...我原想和你谈一下...
+No, no... I wanted to talk to you for a minute...
+
+192
+00:14:05,959 --> 00:14:09,167
+你的合同出问题了？
+Are there problems with your contract ?
+
+193
+00:14:09,376 --> 00:14:12,667
+没有。只不过新合同上有一点点...
+No. It's just that the new contract has kind of...
+
+194
+00:14:12,917 --> 00:14:14,959
+他们给没给你签新合同？
+Did they give you a new contract or not ?
+
+195
+00:14:15,167 --> 00:14:17,292
+如果你只想要简单的回答有或没有...
+If you want a simple yes or no...
+
+196
+00:14:17,501 --> 00:14:19,709
+- 有或没有？   - 有！
+- Yes or no ?   - Yes!
+
+197
+00:14:19,959 --> 00:14:22,959
+有，是一份全日制合同
+Yes, and a full-time contract.
+
+198
+00:14:23,167 --> 00:14:27,667
+我本想给你个惊喜，可被你毁了。不过那又如何？
+I wanted to surprise you, but you spoiled it. But so what ?
+
+199
+00:14:32,626 --> 00:14:35,126
+那他们有没有告诉你每月付你多少钱？
+Did they tell you what they'll pay you a month ?
+
+200
+00:14:35,334 --> 00:14:38,209
+嗯，这不是你想要多少就多少的。。。
+Well, that's not something you ask...
+
+201
+00:14:38,501 --> 00:14:40,251
+对，当然，别担心...
+No, of course, don't worry about it...
+
+202
+00:14:40,501 --> 00:14:44,001
+别期望太高，他们又不是让我当院长
+Don't expect too much, it's not like they made me rector.
+
+203
+00:14:45,001 --> 00:14:47,417
+好吧，了解，不过至少有1500欧元，是吗？别吊我胃口！
+All right, I get it, but at least 1,500, no ? For fuck's sake !
+
+204
+00:14:47,626 --> 00:14:49,834
+当然，可能还再多点
+Sure, maybe a little bit more.
+
+205
+00:14:50,084 --> 00:14:52,126
+- 2000？   - 差不多
+- 2,000 ?   - Sure.
+
+206
+00:14:52,292 --> 00:14:54,084
+等等，1500还是2000？
+Hang on, 1,500 or 2,000 ?
+
+207
+00:14:55,376 --> 00:14:58,917
+按加权平均来算，差不多1800欧元
+Do a weighted mean, kind of 1,800.
+
+208
+00:14:59,126 --> 00:15:01,542
+好吧，这样的话我们就能付得起电梯费了
+All right, this way we can pay the elevator.
+
+209
+00:15:01,751 --> 00:15:02,626
+对，没错
+Yeah, sure.
+
+210
+00:15:02,834 --> 00:15:05,167
+- 而且我们能雇得起真正的律师了   - 没错
+- Then we'll hire a real lawyer.   - Sure.
+
+211
+00:15:05,376 --> 00:15:07,792
+到那天，再买台洗碗机
+And while we're at it, a dishwasher.
+
+212
+00:15:08,042 --> 00:15:10,834
+好的，不过我们不能重蹈别人的覆辙
+Yeah, but let's not make that classic mistake people make,
+
+213
+00:15:11,042 --> 00:15:12,751
+有些人一拿到钱
+where as soon as they get some money,
+
+214
+00:15:13,001 --> 00:15:16,542
+- 就花得精光   - 是的。我们到那边去
+- they spend it.   - Sure. Let's go through there.
+
+215
+00:15:16,751 --> 00:15:20,626
+去那边？都9点了，我约了乔吉奥和马蒂亚
+Through there ? It's 9, I've got to meet Giorgio and Mattia.
+
+216
+00:15:20,834 --> 00:15:22,167
+一会再去吧！
+So go later !
+
+217
+00:15:22,459 --> 00:15:25,167
+不，这次肾上腺素的下降使我体内缺乏钾离子...
+No, this drop in adrenaline has lowered my potassium...
+
+218
+00:15:25,376 --> 00:15:27,209
+稍后你可以来份香蕉奶昔
+You can make a banana shake after.
+
+219
+00:15:27,417 --> 00:15:30,292
+之后我会逐渐衰弱，出现大规模脱盐...
+Then I'll go in asthenia, major saline deficiency...
+
+220
+00:15:30,501 --> 00:15:33,292
+- 彼得罗，你在耍我！   - 我来了！
+- Pietro, you're breaking my balls !   - I'm coming.
+
+221
+00:15:33,501 --> 00:15:36,792
+不过，坦白说，别对表现有过多期望
+But, hands up, don't expect too much of a performance
+
+222
+00:15:37,042 --> 00:15:41,084
+只是纯粹庆祝一下，做不了什么花样！
+which is going to be purely celebratory, no fancy acrobatics !
+
+223
+00:15:41,292 --> 00:15:42,334
+我能跟你说什么呢？
+What can I tell you ?
+
+224
+00:15:42,542 --> 00:15:45,501
+根据你说的情况，好像挺复杂的
+From what you say, it sounds really complicated.
+
+225
+00:15:45,709 --> 00:15:47,751
+这差不多就是海勒里安悖论
+I'd almost say a Hellerian paradox.
+
+226
+00:15:48,001 --> 00:15:51,501
+乔吉奥，我失业了，身无分文，你却说什么海勒里安？
+Giorgio, I'm jobless, penniless and you say it's Hellerian ?
+
+227
+00:15:51,709 --> 00:15:53,459
+- 这就是场悲剧！   - 听着
+- It's a tragedy !   - Look,
+
+228
+00:15:53,667 --> 00:15:56,584
+它本身并没有多严重
+in itself it doesn't have too high a gravity index.
+
+229
+00:15:57,001 --> 00:16:01,251
+是你说谎把事情搞复杂了，让你陷入被动
+It's the lying which complicates it, given your domestic situation.
+
+230
+00:16:01,459 --> 00:16:04,084
+我知道，马蒂亚，不过在奉献了七年之后
+I know, Mattia, but after seven years of sacrifices,
+
+231
+00:16:04,251 --> 00:16:06,167
+- 让我怎么能告诉她实情呢？   - 是吗？
+- how could I tell her the truth ?   - Yes ?
+
+232
+00:16:06,376 --> 00:16:08,667
+- 满足她   - 干嘛提到长期合同？
+- Fill her up.   - Why mention a long-term contract ?
+
+233
+00:16:08,917 --> 00:16:11,292
+好吧，顺嘴溜出来的
+Well, that bullshit just slipped out.
+
+234
+00:16:11,501 --> 00:16:14,834
+各位，我还有项法院指令要去付费，他们准备拿走我的东西做抵押
+Guys, I have a court order to pay, they're going to seize my things,
+
+235
+00:16:15,084 --> 00:16:17,292
+家里紧张到了极点...
+and it's all really stressful at home...
+
+236
+00:16:17,501 --> 00:16:20,792
+我懂，不过空悲切有什么用
+I know, but moaning won't help.
+
+237
+00:16:32,542 --> 00:16:37,001
+各位，这太可悲了！我意思是，看看你们自己！
+Guys, this is pathetic ! I mean, look at yourselves !
+
+238
+00:16:37,667 --> 00:16:39,626
+我可不想走你们这条路！
+I don't want to end up like you !
+
+239
+00:16:39,834 --> 00:16:42,126
+国际知名的拉丁学者在一个加油站里
+Internationally acclaimed Latin scholars standing in a gas station
+
+240
+00:16:42,292 --> 00:16:44,251
+为了挣钱给一个锡兰人打工
+working for a Singhalese guy who pays you cash.
+
+241
+00:16:44,542 --> 00:16:47,251
+彼得罗，注意你说阿里·汗先生的言辞
+Pietro, watch what you say about Mister Ali Khan,
+
+242
+00:16:47,459 --> 00:16:49,917
+他在我们非常困难的时候给了我们信心
+who had faith in us at a very difficult moment.
+
+243
+00:16:50,126 --> 00:16:53,709
+他是个可敬的人，有着不容质疑的美德和慷慨大度...
+He's a lovely man, of undoubted morality and generosity...
+
+244
+00:16:54,001 --> 00:16:56,459
+喂，毛里齐奥！我花钱就是让你站那聊天来着？
+Oi ! Do I pay you to stand there and chat ?
+
+245
+00:16:56,667 --> 00:17:00,167
+抱歉，阿里·汗先生。这位先生马上就走
+Sorry, Mr. Ali Khan. The gentleman is leaving.
+
+246
+00:17:00,376 --> 00:17:02,126
+快走，不然他生起气来有得搞
+Go, or he'll be pissed and rightly so.
+
+247
+00:17:02,334 --> 00:17:03,626
+你怎么说锡兰语？
+You speak Singhalese ?
+
+248
+00:17:03,834 --> 00:17:06,376
+好吧，要是你懂梵文，两者差不了多少
+Well, if you know Sanskrit, it all falls into place.
+
+249
+00:17:06,584 --> 00:17:09,376
+- 205欧元   - 给你
+- 205 euros.   - There you go.
+
+250
+00:17:09,584 --> 00:17:11,542
+- 谢谢你   - 谢谢，晚安
+- Thank you.   - Thank you. Good night.
+
+251
+00:17:12,501 --> 00:17:14,417
+- 那是毛利齐奥？   - 谁？
+- Was that Maurizio ?   - Who ?
+
+252
+00:17:14,626 --> 00:17:16,501
+- 他刚刚付了多少钱？   - 205欧元
+- What did he just pay ?   - 205 euros.
+
+253
+00:17:16,751 --> 00:17:17,751
+两...
+Two...
+
+254
+00:17:21,501 --> 00:17:24,376
+安全帽，马蒂亚，安全帽！
+The helmet, Mattia, the helmet !
+
+255
+00:17:33,542 --> 00:17:37,376
+毛里齐奥！毛里齐奥！
+Maurizio ! Maurizio !
+
+256
+00:17:48,292 --> 00:17:50,001
+该死的！
+Fucking hell
+
+257
+00:18:17,001 --> 00:18:19,251
+教授！你在干嘛...？
+Professor ! What are you doing...?
+
+258
+00:18:19,459 --> 00:18:21,376
+- 这个时候还出来骑车？   - 毛里齐奥
+- Out on a bike at this hour ?   - Maurizio,
+
+259
+00:18:21,584 --> 00:18:25,917
+马上靠边，因为我们得谈谈！
+pull over right now because you and I have to speak !
+
+260
+00:18:26,126 --> 00:18:28,126
+这是怎么回事？我跟每个人都说你很穷
+What's going on ? I've been telling everyone you're poor
+
+261
+00:18:28,292 --> 00:18:30,001
+而你却在开着宇宙飞船兜风？
+and you're driving around in a spaceship ?
+
+262
+00:18:30,126 --> 00:18:33,709
+- 我记得你是个服务生？   - 对，不过我不常干
+- I thought you were a waiter ?   - Yeah, I don't do it very often.
+
+263
+00:18:34,001 --> 00:18:35,751
+我父亲有家餐饮公司
+My father's got a catering company.
+
+264
+00:18:36,001 --> 00:18:38,501
+你父亲？我记得你父亲已经去世了！
+Your father ? I thought your father was dead !
+
+265
+00:18:38,709 --> 00:18:42,584
+没！我们吵了一架，我说：“就我而言，你已经死了”
+No ! We argued and I said, "As far as I'm concerned, you're dead."
+
+266
+00:18:42,792 --> 00:18:45,542
+- 但后来我们...   - 好吧，但是这有很大的区别！
+- But then we made up...   - OK, but there's a big difference !
+
+267
+00:18:45,751 --> 00:18:47,751
+毛里齐奥，马上靠边
+Maurizio, pull over now
+
+268
+00:18:48,001 --> 00:18:51,209
+把欠我的钱给我，因为我看见你花200欧元加了汽油
+and give me what you owe me, because I saw you pay 200 euros for gas,
+
+269
+00:18:51,417 --> 00:18:54,417
+- 我看见你了！   - 我不能停下，不然我就上不了名单
+- I saw you !   - I can't, I'll miss the guest list.
+
+270
+00:18:54,626 --> 00:18:57,001
+- 什么？   - 在市中心大厅，1点钟就要关门
+- What ?   - At Central, it closes at one.
+
+271
+00:18:57,126 --> 00:18:58,709
+已经很晚了，我必须过去
+It's late, I need to go.
+
+272
+00:18:59,001 --> 00:19:01,376
+- 就这样，教授！我们走了！   - 毛里齐奥！
+- Great, Professor ! On you go !   - Maurizio !
+
+273
+00:19:01,584 --> 00:19:05,459
+过来！毛里齐奥！毛里齐奥！
+Come here ! Maurizio ! Maurizio !
+
+274
+00:19:44,584 --> 00:19:47,834
+- 毛里齐奥！   - 太好了，教授！你也来了！
+- Maurizio !   - Great, Professor ! Here as well !
+
+275
+00:19:48,084 --> 00:19:50,751
+这顶安全帽挺配你的！款式真好！
+That helmet suits you ! What style !
+
+276
+00:19:51,001 --> 00:19:55,042
+你下来，我们得谈谈！下来！
+Get down here, we need to speak ! Get down !
+
+277
+00:19:55,209 --> 00:19:57,376
+教授，一点零钱别那么大惊小怪
+Professor, what a fuss over some loose change.
+
+278
+00:19:57,584 --> 00:19:59,584
+我现在就给你，让你高兴一下
+I'll give you it now just to keep you happy.
+
+279
+00:19:59,792 --> 00:20:02,001
+- 多少钱？   - 500欧元
+- How much is it ?   - 500 euros.
+
+280
+00:20:02,126 --> 00:20:04,709
+加上30欧元跟过来的费用，这是必须的
+Plus 30 euros to get in here, which has to be added.
+
+281
+00:20:05,001 --> 00:20:07,084
+不行，我还得买单呢
+I can't, I have to pay for my table.
+
+282
+00:20:07,417 --> 00:20:11,501
+- 我只能给你一半   - 不行！一半不行，给我全额
+- I can give you half.   - No ! Not half, give me all of it.
+
+283
+00:20:11,709 --> 00:20:15,459
+好吧，我周三给全。可以吧，教授！
+All right, I'll give you all of it on Wednesday. Great, Professor !
+
+284
+00:20:15,667 --> 00:20:19,126
+好吧。给我一半。先给一半，另一半周三给
+All right. Give me half. Give me half and the rest on Wednesday.
+
+285
+00:20:19,292 --> 00:20:23,501
+而且我跟你说，你是个非常不诚实的人
+And let me tell you, you're a profoundly dishonest person,
+
+286
+00:20:23,709 --> 00:20:26,001
+你很粗鲁，而且你是个大骗子！
+you're rude, and you're a big liar!
+
+287
+00:20:26,167 --> 00:20:29,126
+你想毁了我这个晚上？放松一下吧
+You want to ruin my night ? Relax a minute,
+
+288
+00:20:29,334 --> 00:20:31,209
+看你这样子，汗都湿透了
+you're a mess, you're all sweaty.
+
+289
+00:20:31,417 --> 00:20:34,917
+我浑身是汗！这鬼地方像地狱一样，足足有40度
+I'm sweaty ! This place is hellish, with a 40 degrees temperature range,
+
+290
+00:20:35,126 --> 00:20:39,584
+- 我已经要受不了了   - 没错，把这个喝了吧
+- and I am really, really jumpy.   - Exactly, so drink this.
+
+291
+00:20:40,292 --> 00:20:42,501
+- 这是什么？   - 这是什么？这是鸡尾酒！
+- What is it ?   - What is it ? It's a cocktail !
+
+292
+00:20:42,709 --> 00:20:45,626
+好吧，我只是太渴了
+All right, just because I'm really thirsty.
+
+293
+00:20:45,834 --> 00:20:47,501
+这算我的。要100欧元呢
+It's on me. It costs 100 euros.
+
+294
+00:20:47,709 --> 00:20:50,667
+这可以消除你的顾虑，你所有的担心
+It'll get rid of all your worries, all your concerns,
+
+295
+00:20:50,917 --> 00:20:51,834
+算我的
+it's on me.
+
+296
+00:20:54,251 --> 00:20:57,709
+这个很淡，而且有点水果味...
+It's quite light and it's a bit fruity...
+
+297
+00:21:00,251 --> 00:21:04,001
+- 不好意思，这为什么要100欧元？   - 没错，教授！
+- Sorry, why does it cost 100 euros ?   - Yeah, Professor !
+
+298
+00:21:19,042 --> 00:21:21,042
+抱歉，你在干什么？
+I'm sorry, what are you doing ?
+
+299
+00:21:21,209 --> 00:21:24,209
+我在小便！想睡觉就到外面去
+I'm peeing ! Go outside if you want to collapse.
+
+300
+00:21:35,376 --> 00:21:38,376
+- 毛里齐奥！   - 好极了，教授！你去哪了？
+- Maurizio !   - Great, Professor ! Where were you ?
+
+301
+00:21:38,584 --> 00:21:41,751
+- 那是什么？你让我吸毒了？   - 再来一杯振作一下？
+- What was that ? Did you drug me ?   - Have another one to pick you up !
+
+302
+00:21:42,084 --> 00:21:45,626
+毛里齐奥，你真阴险！你差点杀了我！
+Maurizio, you're dangerous ! You could have killed me !
+
+303
+00:21:45,834 --> 00:21:48,251
+杀你！这可是顶级货
+Kill you ! That's top-quality stuff.
+
+304
+00:21:48,459 --> 00:21:50,917
+顶级？这就是垃圾合成品
+Quality ? It's synthetic rubbish,
+
+305
+00:21:51,126 --> 00:21:52,751
+只是麻黄素合剂！
+some ephedrine concoction !
+
+306
+00:21:53,001 --> 00:21:58,001
+这杯垃圾里有两片药，每片50欧元！
+That rubbish contained two pills that cost 50 euros each !
+
+307
+00:21:58,376 --> 00:22:02,126
+毛里齐奥，我是个好人，可我要是陷进去... 50欧元？
+Maurizio, I'm a nice guy, but if I lose it... 50 euros ?
+
+308
+00:22:02,834 --> 00:22:07,126
+这是欺诈！做一片这种药根本要不了2欧元
+That's fraud ! Making one of those can't cost more than two euros.
+
+309
+00:22:07,334 --> 00:22:11,292
+好吧，下堂课，教我们怎么做它，我们弄它1公斤！
+Well, next lesson, teach us how to make it and we'll make a kilo!
+
+310
+00:22:11,584 --> 00:22:13,584
+好极了，教授！
+Great, Professor !
+
+311
+00:22:35,792 --> 00:22:37,834
+<i>迪斯科药丸</i>
+DISCO PILLS
+
+312
+00:22:41,501 --> 00:22:43,251
+<i>贩卖毒品的后果</i>
+CONSEQUENCES OF SELLING DRUGS
+
+313
+00:22:47,251 --> 00:22:50,501
+<i>合法贩卖毒品</i>
+SELLING DRUGS LEGALLY
+
+314
+00:22:51,751 --> 00:22:53,301
+<i>精神药剂</i>
+SMART DRUGS
+
+315
+00:22:53,851 --> 00:22:55,401
+<i>毒品：意大利精神药剂警报，280种新型毒品</i>
+Drugs: Alarm smart drug in Italy, 280 new drugs
+
+316
+00:22:55,501 --> 00:23:02,126
+<i>效果等同于传统毒品的合法精神类药剂开始流行</i>
+SPREAD OF LEGAL SMART DRUGS THAT HAVE THE SAME EFFECTS AS TRADITIONAL DRUGS
+
+317
+00:23:02,292 --> 00:23:06,251
+<i>警察束手无策，他们不能拘捕我们</i>
+THE POLICE CAN'T DO ANYTHING, THEY CAN'T ARREST US
+
+318
+00:23:06,459 --> 00:23:12,542
+- <i>一种不合法，一种合法</i>   - <i>这是欧洲立法上的漏洞</i>
+- ONE'S ILLEGAL, ONE'S NOT   - IT'S A LEGISLATIVE GAP IN EUROPE
+
+319
+00:23:12,751 --> 00:23:17,042
+<i>欧盟成员能做的就是不断把新制剂补充到清单里</i>
+ALL THE E.U. CAN DO IS CONSTANTLY UPDATE THE LIST OF NEW SUBSTANCES
+
+320
+00:23:25,792 --> 00:23:27,959
+- 彼得罗？   - 嗯
+- Pietro ?   - Yeah.
+
+321
+00:23:28,126 --> 00:23:30,584
+你还没睡啊？在干什么呢？
+You're still up ? What are you doing ?
+
+322
+00:23:30,792 --> 00:23:35,626
+刚才上了会网...随便看看
+I was just surfing a bit... randomly.
+
+323
+00:23:36,167 --> 00:23:39,334
+至少保证把浏览历史删了
+Make sure you delete the history at least.
+
+324
+00:23:40,751 --> 00:23:43,167
+- 你脸上那是什么？   - 嗯？
+- What's that on your face ?   - Eh ?
+
+325
+00:23:43,376 --> 00:23:46,959
+- 你脸上   - 哦，没什么，只是画了个哨子
+- On your face.   - Oh no nothing it's just a click.
+
+326
+00:23:49,292 --> 00:23:52,667
+你干嘛在脸上画个鸡巴？
+Why have you got a dick drawn on your face ?
+
+327
+00:23:54,126 --> 00:24:00,709
+因为看着挺好玩的，不是吗？
+Because it seemed like a fun thing to do. No ?
+
+328
+00:24:09,709 --> 00:24:13,334
+啊，是你？彼得罗，快点，我只有五分钟的时间
+Ah, it's you ? Pietro, quick, I've only got a five-minute break.
+
+329
+00:24:13,542 --> 00:24:16,751
+不，我的研究快有结果了
+No, it's that I've almost finished my research.
+
+330
+00:24:18,959 --> 00:24:22,667
+算法研究？
+The study on the algorithm ?
+
+331
+00:24:25,251 --> 00:24:27,376
+你再次从TAAR1的三级构架中
+You set out again from the tertiary structure
+
+332
+00:24:27,584 --> 00:24:29,584
+提出了功能更高效的
+of the TAAR1 to get a better score function
+
+333
+00:24:29,792 --> 00:24:33,542
+内源性兴奋剂。我的天呐，干得漂亮
+for its endogenous agonists. Bloody hell, well done.
+
+334
+00:24:33,751 --> 00:24:35,792
+真不错，可为什么要带给我？
+Good work, but why bring it to me ?
+
+335
+00:24:36,042 --> 00:24:39,709
+没什么，嗯，因为五年前你也参与了项目的启动，我想...
+No, well, because you were there at the start 5 years ago, I thought...
+
+336
+00:24:39,959 --> 00:24:41,751
+现在我在从事别的
+Now I'm doing something else.
+
+337
+00:24:42,001 --> 00:24:47,334
+听着，阿尔贝托，要是我跟你说C11H15NO2，你怎么讲？
+Listen, Alberto, if I said to you C11 H15 N O2, what would you say ?
+
+338
+00:24:47,542 --> 00:24:51,751
+5分钟时间意味着300秒，我还得撒尿
+5 minutes' break means 300 seconds and I need to pee.
+
+339
+00:24:52,001 --> 00:24:56,792
+- 要不了多久。C11H15NO2   - 是塞塔教授发给你的？
+- It won't take long. C11 H15 N O2.   - Did Professor Seta send you ?
+
+340
+00:24:57,292 --> 00:25:00,084
+告诉他我不会在任何东西上面签字！再也不会！
+Tell him I won't put my name to anything ! Never again !
+
+341
+00:25:00,251 --> 00:25:03,834
+这和塞塔一点关系也没有。C11H15NO2
+It's nothing to do with Seta. C11 H15 N O2.
+
+342
+00:25:04,084 --> 00:25:08,126
+好吧，这是作用于血清素系统的精神类药物
+All right, it's a psychotropic that acts on the serotonergic system.
+
+343
+00:25:08,292 --> 00:25:13,001
+- 还有呢？   - 还有？什么？还有就是它是非法的！
+- And ?   - And ? What ? And it's illegal !
+
+344
+00:25:13,209 --> 00:25:15,501
+要是我替你把它弄成合法的呢？
+What if I make it legal for you ?
+
+345
+00:25:18,709 --> 00:25:20,709
+阿尔贝托，阿尔贝托，等等！
+Alberto, Alberto, wait !
+
+346
+00:25:22,709 --> 00:25:28,209
+好的，好的。抱歉，抱歉，抱歉。真的...我不了解你
+Yes, yes. Sorry, sorry, sorry. Really... I don't understand you.
+
+347
+00:25:28,417 --> 00:25:31,751
+不，彼得罗！你不能在这儿。我没兴趣，告诉你...
+No, Pietro ! You can't be in here. I'm not interested, I told you...
+
+348
+00:25:32,001 --> 00:25:36,084
+阿尔贝托，阿尔贝托，他们拒绝资助我的研究
+Alberto, Alberto, they refused to fund my research.
+
+349
+00:25:36,251 --> 00:25:39,459
+我已经快要成功了，算法是可行的
+I'd almost finished, the algorithm was working.
+
+350
+00:25:39,667 --> 00:25:42,542
+可是弄出一个你不能利用的理论制剂公式有什么用呢？
+But why have a theoretical molecule program if you can't use it ?
+
+351
+00:25:42,751 --> 00:25:45,626
+没错！所以你就想到去弄一种精神类药物！
+Sure ! So you thought, I'll theorize a psychotropic one !
+
+352
+00:25:45,834 --> 00:25:48,626
+阿尔贝托，我们比别人聪明得多
+Alberto, we're more intelligent than the others.
+
+353
+00:25:48,834 --> 00:25:51,626
+要是我们一起合作就能挣很多钱！
+If we worked together we could made a pile of money !
+
+354
+00:25:51,834 --> 00:25:55,334
+彼得罗，最多六个月我就会成为这里的服务生
+Pietro, maximum six months I'll be working as a waiter here.
+
+355
+00:25:55,542 --> 00:25:59,834
+小费，一周工作六天，一个月700欧元！你明白吗？
+Tips, one clay off a week and 700 euros a month ! Do you get it ?
+
+356
+00:26:00,084 --> 00:26:02,959
+我能帮你在半个小时里挣到700欧元
+I'll help you earn 700 euros in half an hour.
+
+357
+00:26:08,292 --> 00:26:11,626
+你洗盘子的时候好好想一想吧。我出去了
+While you're washing the plates, think about it. I'll be outside.
+
+358
+00:26:16,501 --> 00:26:20,209
+我在洗这些东西，我在洗这些东西！去你的！
+I'm washing them, I'm washing them ! Fuck off !
+
+359
+00:26:27,417 --> 00:26:31,292
+听着，我会把我所有处方级的讲义分享给你
+Look, I'll spare you all the lectures on the ethical level,
+
+360
+00:26:31,501 --> 00:26:34,209
+因为当我被赶出大学的时候我就放弃了伦理
+because I abandoned ethics when they kicked me out of university.
+
+361
+00:26:34,417 --> 00:26:37,751
+我开始变得现实。我不想去监狱！
+I'm being practical. I don't want to go to jail !
+
+362
+00:26:38,001 --> 00:26:41,376
+阿尔贝托，罪犯才去监狱，你和我是罪犯吗？
+Alberto, criminals go to jail, are you and I criminals ?
+
+363
+00:26:41,584 --> 00:26:45,251
+根据我的算法得到的制剂不在政府的清单上
+With the algorithm I make a molecule that's not on the Ministry list,
+
+364
+00:26:45,459 --> 00:26:46,542
+你来生产
+and you produce it.
+
+365
+00:26:46,751 --> 00:26:50,584
+我们一起做出最好的药剂，而且完全合法
+Together we make the best substance ever and we do it all legally.
+
+366
+00:26:52,459 --> 00:26:55,042
+我为什么要这么做？
+Why would I do something like that ?
+
+367
+00:26:55,209 --> 00:26:58,959
+因为你是一名大学教授，你不该受到这种待遇
+Because you're a university professor and you don't deserve this life.
+
+368
+00:26:59,126 --> 00:27:02,959
+- 你脸上是什么？   - 一个鸡巴剩下的部分
+- What's that on your face ?   - What's left of a dick.
+
+369
+00:27:03,126 --> 00:27:07,126
+这是不可擦的笔... 算了，我们别分心
+These indelible pens that... All right, let's not get distracted.
+
+370
+00:27:07,334 --> 00:27:09,542
+听着，我们得组建一个帮派
+Listen, we're going to form a gang.
+
+371
+00:27:09,751 --> 00:27:11,167
+- 帮派？   - 帮派
+- A gang ?   - A gang.
+
+372
+00:27:11,376 --> 00:27:16,001
+干非法销售？不行，没人会信我们，不！
+Of pushers ? We can't, we wouldn't be credible, no !
+
+373
+00:27:16,167 --> 00:27:18,917
+不行，没人相信我们
+No, we're not credible.
+
+374
+00:27:21,251 --> 00:27:25,126
+但我们能够变得可信，而且我已经找到了合适人选...
+But we could become credible and I've got the right person...
+
+375
+00:27:25,792 --> 00:27:28,626
+...于是我为了不出卖朋友而蹲了两年监狱
+...So I did two years' prison so as not to grass a friend.
+
+376
+00:27:28,834 --> 00:27:34,751
+出来后就跟着我叔叔干，直到他死于三个月前...
+I got out, went to work with my uncle until he died three months ago...
+
+377
+00:27:35,001 --> 00:27:37,001
+- 啊，抱歉   - 没事，他没遭受痛苦
+- Ah, I'm sorry.   - No, he didn't suffer,
+
+378
+00:27:37,167 --> 00:27:40,334
+刀子捅得非常准，就在颈动脉这儿
+they knifed him really accurately, here on the carotid.
+
+379
+00:27:40,542 --> 00:27:44,001
+下手的那家伙从事的是某种老式在线扑克游戏的行当
+And the guy that did it was right, some old online poker business.
+
+380
+00:27:44,167 --> 00:27:47,542
+当事情一团糟的时候，他的子女为遗嘱吵个不休
+That's when it got messy, his children fighting over the will,
+
+381
+00:27:48,001 --> 00:27:53,834
+在法律层面上为了遗产争得很激烈，家家如此
+a bitter legal quarrel over the inheritance, families are like that.
+
+382
+00:27:54,084 --> 00:27:57,001
+- 为了钱而争吵   - 抱歉，你刚才说什么？
+- An argument about money.   - Sorry, what did you say ?
+
+383
+00:27:57,167 --> 00:28:01,001
+子女们开始争吵，都是和钱有关
+The children started fighting, it always happens with money.
+
+384
+00:28:01,167 --> 00:28:06,001
+- 你刚才说“法律层面上争得很激烈”   - 是吗？我也不知道是什么意思
+- You said "bitter legal quarrel".   - Me ? I don't know what that means.
+
+385
+00:28:06,167 --> 00:28:09,251
+- 你可是研究生   - 我不是研究生
+- You're a graduate.   - I'm not a graduate.
+
+386
+00:28:09,459 --> 00:28:11,292
+我很清楚。我不要研究生
+I was clear. I don't take graduates.
+
+387
+00:28:11,501 --> 00:28:14,126
+我不是！我在中学就因为卖毒品被开除了
+I'm not ! I got kicked out of middle school for selling dope.
+
+388
+00:28:14,334 --> 00:28:17,167
+- 你让人无法相信   - 那我干嘛会在这儿？
+- You can't be trusted.   - Why would I be here, then ?
+
+389
+00:28:17,376 --> 00:28:20,751
+- 你是这周第三位   - 我不是研究生！
+- You're the third this week.   - I'm not a graduate!
+
+390
+00:28:23,126 --> 00:28:27,376
+好吧，我是，但我为这种幼稚的错误感到遗憾
+All right, I am, but it was a youthful mistake that I regret.
+
+391
+00:28:27,584 --> 00:28:30,334
+我请求放弃我的学历
+I'm asking to renounce my academic qualifications.
+
+392
+00:28:30,542 --> 00:28:33,126
+两周内，我会回到小学学历
+In two weeks, I'll be back to grade 5 level.
+
+393
+00:28:33,334 --> 00:28:35,626
+我可以把所有论文给你看
+I can show you all the paperwork.
+
+394
+00:28:35,834 --> 00:28:39,001
+- 你在这做事就不会干净了   - 所以我来了
+- You get your hands dirty here.   - That's why I'm here.
+
+395
+00:28:39,167 --> 00:28:42,501
+我不需要一个只在那看书的人。明白吗？
+I don't need people who are always reading. Is that clear ?
+
+396
+00:28:42,709 --> 00:28:46,626
+- 你看你是个好孩子   - 不！别叫我好孩子！
+- You can see you're a good kid.   - No ! Don't call me a good kid !
+
+397
+00:28:46,834 --> 00:28:48,459
+我可是很危险的
+I'm really very dangerous,
+
+398
+00:28:48,667 --> 00:28:52,001
+我时不时会做出一些无法预料的事
+from one moment to another I might do something unexpected...
+
+399
+00:28:52,167 --> 00:28:54,376
+好。那么？
+Yes. Well ?
+
+400
+00:28:54,584 --> 00:28:56,459
+<i>安德里亚·德·桑蒂斯，人类学家</i>
+<i>Andrea de Santis, anthropologist.</i>
+
+401
+00:28:56,667 --> 00:28:58,959
+<i>他是萨皮恩扎大学的知名人物</i>
+<i>He was a big shot at Sapienza University.</i>
+
+402
+00:28:59,126 --> 00:29:02,792
+那张票据很重要，是吗？我很抱歉
+That was an important bill, wasn't it ? I'm really sorry,
+
+403
+00:29:03,042 --> 00:29:07,001
+我不知道刚才脑子怎么想的。这就是那张票据
+I don't know what came over me. It was a bill,
+
+404
+00:29:07,167 --> 00:29:10,167
+不过重要的是数字，你可以认得出来...
+but the important thing is the number, you can trace it...
+
+405
+00:29:10,376 --> 00:29:12,959
+把PDF文件发给我重新打印一份。我很抱歉
+Send me the PDF and I'll reprint it. I'm very sorry.
+
+406
+00:29:13,126 --> 00:29:15,792
+你在干什么？你明白你不适合干这事
+What are you doing ? You can see you're not cut out for it.
+
+407
+00:29:16,042 --> 00:29:18,626
+我知道。不过我正在度过一个难关
+I know. But I'm going through a difficult period.
+
+408
+00:29:18,834 --> 00:29:21,626
+听着，孩子，积累点经验
+Listen, kid, get a bit of experience,
+
+409
+00:29:21,834 --> 00:29:25,834
+找点麻烦，混迹街头，然后可以回来
+get into trouble, live on the street, and then maybe come back.
+
+410
+00:29:26,084 --> 00:29:27,542
+好，谢谢你的建议
+Yes, thanks for the advice.
+
+411
+00:29:27,751 --> 00:29:29,459
+<i>在2007年财政削减之前</i>
+<i>Before the cuts in 2007,</i>
+
+412
+00:29:29,667 --> 00:29:33,209
+<i>安德里亚是意大利顶尖的文化人类学专家之一</i>
+<i>Andrea was one of Italy's leading experts in cultural anthropology.</i>
+
+413
+00:29:33,417 --> 00:29:35,209
+<i>他对人类学科的整体研究</i>
+<i>His works on the holistic study of humanity</i>
+
+414
+00:29:35,417 --> 00:29:37,042
+<i>已经被翻译成50种语言</i>
+<i>have been translated into 50 languages.</i>
+
+415
+00:29:37,209 --> 00:29:38,584
+安德里亚会改变我们
+Andrea will transform us.
+
+416
+00:29:38,792 --> 00:29:42,209
+没有哪一类人性是他不知道或在某种程度上模仿不了的
+There's no human category he doesn't know and can't emulate in some way.
+
+417
+00:29:42,417 --> 00:29:44,959
+他会帮我们融入犯罪的世界
+He'll fit us into the world of crime.
+
+418
+00:29:45,126 --> 00:29:47,417
+那我们怎么进行销售呢？
+What will we do about sales ?
+
+419
+00:29:47,626 --> 00:29:49,084
+我们需要擅长夜间活动的人
+We need someone who's good at night.
+
+420
+00:29:49,251 --> 00:29:52,792
+我有两个人选，他们干了多年的夜活
+I've got two guys, they've been night people for years.
+
+421
+00:29:53,042 --> 00:29:56,042
+他们对周围的道路也很熟悉
+They know their way round the street as well,
+
+422
+00:29:56,209 --> 00:29:59,792
+我是说，什么都见识过的人，嗯！相信我
+I mean, people who have seen it all, eh ! Trust me.
+
+423
+00:30:00,501 --> 00:30:04,084
+- 需要什么？   - 你能帮我检查下轮胎吗？
+- Yes ?   - Can you check my tires ?
+
+424
+00:30:04,251 --> 00:30:09,292
+检查下我的轮胎...尽管有点绕，我始终觉得
+Check my tires... Despite the racket, I've always found it fascinating
+
+425
+00:30:09,501 --> 00:30:13,126
+盎格鲁撒克逊人说出来的本地方言让人陶醉
+when the Anglo-Saxon contaminates the vernacular.
+
+426
+00:30:13,334 --> 00:30:15,209
+你他妈在说什么？
+What the fuck are you saying ?
+
+427
+00:30:15,417 --> 00:30:19,667
+很明显，这只会发生在文盲身上...
+Obviously, this occurs in barely literate environments...
+
+428
+00:30:19,959 --> 00:30:21,959
+我真想把他脑袋砸碎
+I'm going to crack his skull.
+
+429
+00:30:22,126 --> 00:30:27,834
+马蒂亚，马蒂亚，这位强壮的男士好像对我充满了敌意
+Mattia, Mattia, the brawny gentleman seems to me to be hostile.
+
+430
+00:30:28,084 --> 00:30:33,417
+我想友情提醒你，就算是暴力威胁也是犯罪...
+I'd like to remind you that even the threat of violence is a crime...
+
+431
+00:30:34,334 --> 00:30:36,959
+哦，滚犊子吧你！
+Oh, fuck off, you !
+
+432
+00:30:37,126 --> 00:30:38,626
+<i>接下来是阿图罗·弗兰提尼</i>
+<i>Then there's Arturo Frantini.</i>
+
+433
+00:30:38,834 --> 00:30:43,292
+<i>每当发现古罗马的东西时，他都会出现进行监督</i>
+<i>Whenever they find something from Ancient Rome, he comes to supervise.</i>
+
+434
+00:30:43,501 --> 00:30:47,542
+<i>他是古罗马考古专业研究生，擅长考古制图</i>
+<i>He's a classics archeology graduate specialized in archeological mapping.</i>
+
+435
+00:30:47,751 --> 00:30:49,459
+<i>没人比他更了解罗马</i>
+<i>Nobody knows Rome like he does.</i>
+
+436
+00:30:49,667 --> 00:30:53,792
+抱歉，抱歉，请把它关掉吧！
+I'm sorry, I'm sorry, switch this thing off, please !
+
+437
+00:30:55,376 --> 00:30:57,917
+这是狄奥多西一世的纪念碑牌匾
+It's a memorial plaque to Theodosius the Great.
+
+438
+00:30:58,084 --> 00:31:00,042
+你不能用钻头在上面打孔！
+You can't use a pneumatic drill on it !
+
+439
+00:31:00,209 --> 00:31:02,334
+抱歉，先生...
+Sorry, sir, I got caught up...
+
+440
+00:31:02,542 --> 00:31:07,792
+<i>他很穷，11年的短期合同，跟他父母住在一起</i>
+<i>He's poor, 11 years of short-term contracts, lives with his parents.</i>
+
+441
+00:31:08,501 --> 00:31:12,042
+- 先生，您不吃东西吗？   - 不，不
+- Sir, you not eating ?   - No, no.
+
+442
+00:31:12,209 --> 00:31:14,959
+天太热了，而且我担心体重会增加
+It's too hot and I'm scared of putting on weight.
+
+443
+00:31:15,126 --> 00:31:20,001
+当我年轻的时候他们觉得我肚子里有毛病
+When I was a teenager they thought I might have celiac disease,
+
+444
+00:31:20,167 --> 00:31:24,042
+- 直到医生决定...   - 好吧，我知道了
+- and until the doctors decide...   - All right, I get it.
+
+445
+00:31:24,751 --> 00:31:27,209
+没事，真的，真的，我很好
+No, really, really, I'm fine.
+
+446
+00:31:27,417 --> 00:31:29,251
+这份是加了炒蛋的
+This is the one with omelet.
+
+447
+00:31:30,209 --> 00:31:32,792
+你老婆在里面加了洋葱？
+Your wife makes it with onion ?
+
+448
+00:31:33,959 --> 00:31:38,501
+好吧，不是对她无礼，也许我可以破下例
+Well, not to be rude to her, maybe I can make an exception.
+
+449
+00:31:39,126 --> 00:31:40,792
+我们干嘛要用到考古学家？
+Why do we need an archeologist ?
+
+450
+00:31:41,001 --> 00:31:43,084
+我们需要阿图罗开卡车
+We need Arturo for the truck.
+
+451
+00:31:43,376 --> 00:31:44,792
+卡车？
+The truck ?
+
+452
+00:31:45,042 --> 00:31:48,084
+阿图罗有一辆考古部门的车可以开
+Arturo has the use of a vehicle from the Archeology Department.
+
+453
+00:31:48,251 --> 00:31:52,501
+可以进入城里任何地方，钻石大道，市中心
+Total access to all parts of town, diamond lanes, downtown,
+
+454
+00:31:52,709 --> 00:31:54,126
+甚至夜里还能开进小路
+even the bypass at night.
+
+455
+00:31:54,334 --> 00:31:58,376
+警察不会阻拦考古部门的卡车
+The police won't stop an Archeology Department truck.
+
+456
+00:31:58,584 --> 00:32:02,501
+没错。那财务方面呢？
+Of course. What about all the financial part ?
+
+457
+00:32:02,709 --> 00:32:05,001
+我在考虑马迪尼蒂。管理经济学专业
+I was thinking of Martinetti. Management economics.
+
+458
+00:32:05,167 --> 00:32:07,959
+- 马迪尼蒂在挪威呢   - 他在奥斯陆拿到教师资格了？
+- Martinetti's in Norway.   - He got the teaching post in Oslo ?
+
+459
+00:32:08,126 --> 00:32:10,084
+没，他在渔船上
+No, he's on the fishing boats,
+
+460
+00:32:10,251 --> 00:32:13,459
+在北极圈一待就是六个月，整个鳕鱼季
+six months in the Arctic Circle, the whole cod season.
+
+461
+00:32:13,667 --> 00:32:15,417
+很好！
+Good!
+
+462
+00:32:15,626 --> 00:32:20,626
+还有波内利。为什么不，动态微观经济学专业，不行吗？
+There's Bonelli. Why not, dynamic microeconomics, no ?
+
+463
+00:32:20,834 --> 00:32:24,584
+- 不，波内利做事从不考虑后果   - 那是过去式了！他现在好多了
+- No, Bonelli's a loose cannon.   - Long ago ! He's better now.
+
+464
+00:32:24,792 --> 00:32:29,376
+他正在做经济学理论研究而且搞得不错
+He's doing important economic-math research and it's going pretty well.
+
+465
+00:32:34,167 --> 00:32:36,501
+- 两千   - 亮牌
+- 2,000.   - I'll see you.
+
+466
+00:32:36,709 --> 00:32:38,334
+我也亮
+Me too.
+
+467
+00:32:41,001 --> 00:32:45,459
+好了，各位，这都是需要数学的，所以别抱怨
+Now, guys, this is all just math, so don't complain.
+
+468
+00:32:46,834 --> 00:32:50,292
+- 一对   - 三个头
+- Two pairs.   - Three of a kind.
+
+469
+00:32:50,501 --> 00:32:53,376
+- 同花顺   - 三个头？
+- Straight flush.   - Three of a kind ?
+
+470
+00:32:53,584 --> 00:32:56,542
+两张A也想赢两千，你真能诈啊！
+2,000 with two aces, what kind of bluff is that ?
+
+471
+00:32:56,751 --> 00:33:00,126
+什么诈？这是数学。是不是有52张牌？
+What bluff ? This is math. There are 52 cards ?
+
+472
+00:33:00,292 --> 00:33:03,542
+那么就有52个阶乘因子。除以52
+So there are 52 factorial divisions. divided by 52,
+
+473
+00:33:03,751 --> 00:33:08,209
+减去5的阶乘，再除以5的阶乘，就得到2698590
+minus factorial 5, divided by factorial 5, which makes 2,698,590,
+
+474
+00:33:08,417 --> 00:33:13,126
+好吧，我理解你的同花顺，不过三个头有点奇怪
+all right. I understand your flush, but the three of a kind is strange.
+
+475
+00:33:13,292 --> 00:33:15,959
+巴尔托洛梅奥，如果这就是你不给钱的借口，那小心点
+Bartolomeo, if this is an excuse not to pay, be careful.
+
+476
+00:33:16,126 --> 00:33:16,917
+当然不会
+Of course not.
+
+477
+00:33:17,084 --> 00:33:20,209
+可要是我说三个头有点奇怪，就是因为确实奇怪
+But if I say the three of a kind is strange, it's because it is.
+
+478
+00:33:20,459 --> 00:33:21,751
+你他妈在说什么？
+What the fuck are you saying ?
+
+479
+00:33:21,959 --> 00:33:24,084
+抱歉，你是学推论统计学的？
+Excuse me, do you do inferential statistics ?
+
+480
+00:33:24,251 --> 00:33:28,126
+随机变数？计算概率？
+Random variables ? Calculating probability ?
+
+481
+00:33:28,292 --> 00:33:29,417
+我可不这么认为
+I don't really think so.
+
+482
+00:33:31,709 --> 00:33:36,334
+- 算了，总共多少？   - 七千
+- Anyway, what's the total ?   - 7,000.
+
+483
+00:33:38,042 --> 00:33:43,751
+七千。我全付了。尽管我还是保持怀疑...
+7,000. I'll pay it all. Though I still have my doubts...
+
+484
+00:33:46,417 --> 00:33:52,792
+不过我想说：我们再多玩一局，赢的人全拿走？
+But let me say this: let's play one more hand, winner takes all ?
+
+485
+00:33:53,042 --> 00:33:56,584
+巴尔托洛梅奥，在这个夜晚变味之前把钱付清！
+Bartolomeo, pay up before the evening turns sour !
+
+486
+00:33:56,792 --> 00:33:58,959
+你直接说不行就是了
+You could just say no.
+
+487
+00:34:01,042 --> 00:34:04,209
+我没有现金，我可以给你远期支票
+I haven't got cash, I'll give you a post-dated check.
+
+488
+00:34:04,417 --> 00:34:08,167
+- 最好是现金   - 现金最好，好
+- Cash is better.   - Cash is better, yes.
+
+489
+00:34:23,292 --> 00:34:26,084
+哦，你太过分了！
+Oh, you're overdoing it !
+
+490
+00:34:28,959 --> 00:34:32,584
+巴尔托洛梅奥！把钱给我们！
+Bartolomeo ! Give us the money !
+
+491
+00:34:34,834 --> 00:34:37,751
+- 宝贝，你又干了些什么？   - 别生气
+- Baby, what have you done now ?   - Don't be angry with me.
+
+492
+00:34:38,001 --> 00:34:43,001
+你老爸，恕我直言，连反话都听不懂！该死的！
+Your father, with all due respect, has no sense of irony ! Fuck !
+
+493
+00:34:43,209 --> 00:34:47,667
+我们只是在玩牌...然后他有点疯了，疯了...
+We were just playing cards... And at certain point, he went mad, mad...
+
+494
+00:35:31,584 --> 00:35:33,584
+彼得罗，你他妈在这干嘛？
+Pietro, what the fuck are you doing here ?
+
+495
+00:35:33,792 --> 00:35:36,126
+- 进来   - 好的
+- Get in.   - Yeah.
+
+496
+00:35:36,959 --> 00:35:40,959
+我该怎么跟你说呢？你不能在纸牌游戏里做运算
+How can I tell you this ? You can't count the cards in poker.
+
+497
+00:35:42,292 --> 00:35:44,417
+碰上你这类人我就泡汤
+It's people like you I screw.
+
+498
+00:35:44,626 --> 00:35:47,084
+- 你好，弗兰提尼教授   - 波内利教授
+- Hello, Professor Frantini.   - Professor Bonelli.
+
+499
+00:35:47,334 --> 00:35:49,667
+好了我们该走了，要是他们上了保时捷我们就不好办了
+Ok we should go now, because if they get the Porsches we'll be in the shit.
+
+500
+00:35:49,959 --> 00:35:51,626
+- 毫无疑问   - 对
+- Undoubtedly.   - Yes.
+
+501
+00:35:52,126 --> 00:35:54,751
+首先，我要感谢乔吉奥和马蒂亚
+First of all, I'd like to thank Giorgio and Mattia
+
+502
+00:35:54,959 --> 00:35:57,376
+允许我们使用这个地方...
+for letting us use this place...
+
+503
+00:35:57,584 --> 00:36:00,126
+老天，各位！你买了个加油站？
+Bloody hell, guys ! You bought a gas station ?
+
+504
+00:36:00,251 --> 00:36:02,126
+没有，它是属于阿里·汗先生的
+No, it belongs to Mister Ali Khan,
+
+505
+00:36:02,251 --> 00:36:04,542
+他提供仓库给他的工人住...
+he uses the warehouses for his workers...
+
+506
+00:36:04,751 --> 00:36:10,626
+啊，这真得很有趣，因为我刚好跟一个姑娘住一起
+Ah, this is very interesting, because I've just been living with a girl
+
+507
+00:36:10,834 --> 00:36:13,626
+她来自一个辛蒂马戏团家庭...关系挺难维持的
+from a Sinti circus family... a difficult relationship,
+
+508
+00:36:13,834 --> 00:36:15,834
+因为他们非常传统
+because they're very traditional,
+
+509
+00:36:16,126 --> 00:36:17,959
+把钱看得很重...
+really attached to money...
+
+510
+00:36:18,167 --> 00:36:20,501
+打住，要是你想搬这儿来住
+Stop there, if you're thinking of moving in here,
+
+511
+00:36:20,709 --> 00:36:22,167
+我必须得阻止你，因为你不能这么做
+I have to stop you because you can't.
+
+512
+00:36:22,376 --> 00:36:25,001
+- “我必须得阻止你”！   - 你不能在这吸烟
+- "I have to stop you" !   - You can't smoke here.
+
+513
+00:36:25,209 --> 00:36:27,751
+- 这里到处是易燃品   - 马蒂亚！   - 绝对禁止
+- It's all inflammable.   - Mattia ! - Absolutely forbidden.
+
+514
+00:36:27,959 --> 00:36:32,292
+好吧，也许我们以后再研究住房问题
+All right, maybe we can sort out the lodgings problem later.
+
+515
+00:36:32,501 --> 00:36:36,751
+你们可能在想为什么我把大家召集过来
+You'll be wondering why I asked you all to come here.
+
+516
+00:36:36,959 --> 00:36:39,417
+我知道你想干什么
+I know what you're up to.
+
+517
+00:36:39,626 --> 00:36:40,626
+但说真的，彼得罗
+But really, Pietro,
+
+518
+00:36:40,834 --> 00:36:43,376
+在国会前由研究员组织的另一场
+another demo by researchers on short-term contracts
+
+519
+00:36:43,584 --> 00:36:44,584
+为了短期合同的示威
+outside Parliament,
+
+520
+00:36:44,792 --> 00:36:47,876
+- 我们在受到最后的打击后...   - 不，阿图罗
+- after the last beating we got...   - No, Arturo.
+
+521
+00:36:48,126 --> 00:36:52,251
+我喊你们来不是为了另一场反对削减研究经费的示威
+I didn't ask you here for yet another demo against research cuts.
+
+522
+00:36:52,459 --> 00:36:56,417
+更确切地说我喊你们来是因为我不想再这么干了
+I asked you here precisely because I don't want to do that again.
+
+523
+00:36:56,626 --> 00:36:58,542
+你们是周边最聪明的人
+You're the greatest minds around
+
+524
+00:36:58,751 --> 00:37:01,126
+而你们却生活在社会的边缘！
+and you're living on the fringes of society !
+
+525
+00:37:01,334 --> 00:37:06,126
+我们懂的唯一一件事就是做研究。而他们还不让我们做
+The only thing we know how to do is study. And they won't let us.
+
+526
+00:37:06,292 --> 00:37:11,834
+现在，我已经找到一条路来拿到我们应得的东西
+Well, I've worked out a way to get what we deserve.
+
+527
+00:37:12,126 --> 00:37:16,667
+- 再来一次示威！   - 不，阿图罗
+- Back to the demo again !   - No, Arturo,
+
+528
+00:37:18,126 --> 00:37:22,501
+我们成立一个帮派。我们在市场上推销一种新型毒品
+We form a gang. We put a new drug on the market,
+
+529
+00:37:22,709 --> 00:37:26,126
+不是目前在俱乐部里的那种垃圾
+not the shit they have in clubs now,
+
+530
+00:37:26,334 --> 00:37:29,876
+而是从未有过的最好的产品！
+but the best product there's ever been !
+
+531
+00:37:34,876 --> 00:37:36,167
+你们认为呢？
+What do you think ?
+
+532
+00:37:39,126 --> 00:37:44,667
+打扰一下，你是说我可能要两，两个晚上
+Excuse me, are you saying that if I for two, two, nights,
+
+533
+00:37:44,876 --> 00:37:48,542
+在那根容易被人发现的柱子后面睡在这么小的床垫上？
+with a mattress this size went behind that pillar someone would notice ?
+
+534
+00:37:48,751 --> 00:37:51,917
+巴尔托洛梅奥，得了，我们正在这做一项重要的决定
+Bartolomeo, come on, we're making an important decision here.
+
+535
+00:37:52,126 --> 00:37:56,667
+我全力支持你，这个为了我们自己的计划很吸引我
+I'm with you 100%, this setting up for ourselves really appeals to me.
+
+536
+00:37:56,876 --> 00:38:01,667
+你们都知道我接受的教育都是基于早期奥地利自由主义的
+You all know my training was all based on early Austrian liberalism,
+
+537
+00:38:01,876 --> 00:38:04,084
+冯·哈耶克和冯·米塞斯...
+Von Hayek e Von Mises...
+
+538
+00:38:05,376 --> 00:38:08,501
+那有个水箱！我在水箱后面谁能看得见？
+There's the tank ! Who'd see me behind the tank ?
+
+539
+00:38:08,709 --> 00:38:11,167
+- 好啦，各位   - 抱歉，彼得罗...
+- Come on, guys.   - Excuse me, Pietro...
+
+540
+00:38:11,376 --> 00:38:13,501
+只是想证实我的理解无误
+just to check I've understood.
+
+541
+00:38:13,709 --> 00:38:18,501
+你是想组建一个从事非法销售的帮派，就像美剧里那样？
+You want to set up a gang of pushers like in the American TV shows ?
+
+542
+00:38:18,709 --> 00:38:23,501
+我不确定这个主意是否完全符合刑法
+I'm not sure this initiative is entirely in line with the penal code.
+
+543
+00:38:23,709 --> 00:38:25,376
+对，符合
+Yes, it is,
+
+544
+00:38:25,584 --> 00:38:31,126
+因为我已经研究出一种制剂符合意大利法律
+because I've theorized a molecule that for Italian law is legal.
+
+545
+00:38:31,501 --> 00:38:36,626
+现在先别管什么愚蠢的合法性了。我们一步步来
+Never mind this silly legal stuff for now. Let's go step by step.
+
+546
+00:38:37,459 --> 00:38:42,751
+第一步。启动。巴尔托洛梅奥，我需要一份详细的财务计划
+Phase 1. Start-up. Bartolomeo, I need a detailed financial plan,
+
+547
+00:38:42,959 --> 00:38:45,626
+我必须了解这样是不是能够发展得下去
+I have to understand if this is economically sustainable.
+
+548
+00:38:45,834 --> 00:38:47,876
+成本、收入、利润，所有的东西
+Costs, income, profit margins, everything.
+
+549
+00:38:48,126 --> 00:38:51,626
+首先，我们从笛卡尔模型开始...
+To start with, we'll begin with a simple Cartesian model...
+
+550
+00:38:53,667 --> 00:38:58,292
+...在一套数学系统内，为了让事情简单
+...within a math system that, to keep things simple,
+
+551
+00:38:58,501 --> 00:39:00,876
+我们称之为“市场”
+we'll call "the market".
+
+552
+00:39:01,126 --> 00:39:03,876
+在建立供需曲线之后
+Having established the supply and demand curves,
+
+553
+00:39:04,126 --> 00:39:06,667
+我们就拥有了去获得启动资金的基础
+we have the basis on which to get start-up funds.
+
+554
+00:39:07,292 --> 00:39:09,876
+别摆出那堆臭脸，因为我们没什么好担心的
+Don't make those faces because there's nothing to worry about.
+
+555
+00:39:10,126 --> 00:39:12,334
+发行股票要有必要的时间，我们知道
+The issuing of shares takes the time it takes, we know that,
+
+556
+00:39:12,542 --> 00:39:15,792
+不过还有股权清盘以及/或者兑现
+but there's the liquidation and/or cashing in of stock options,
+
+557
+00:39:16,001 --> 00:39:18,959
+我们有信用额度，我们有预开支票的可能性
+we have credit lines, we have the possibility of pre-billing,
+
+558
+00:39:19,126 --> 00:39:23,001
+我们能拿到贷款，提前拿到买断补偿金...
+we can get a loan, an advance on our severance packages...
+
+559
+00:39:23,167 --> 00:39:25,626
+...再抵押...
+...remortgaging...
+
+560
+00:39:26,917 --> 00:39:29,709
+...一些个人存款...
+...some personal savings...
+
+561
+00:39:31,584 --> 00:39:33,542
+从你们家里借钱...
+loans from your families...
+
+562
+00:39:33,751 --> 00:39:35,126
+没了
+nothing.
+
+563
+00:39:35,792 --> 00:39:39,376
+好吧，我会带点钱过来
+All right, I'll come up with something.
+
+564
+00:39:48,126 --> 00:39:49,417
+该死！
+Fuck !
+
+565
+00:40:01,167 --> 00:40:02,626
+- 你疯了吗？   - 是我
+- Are you mad ?   - It's me.
+
+566
+00:40:02,834 --> 00:40:06,751
+- 你在干什么？   - 我得见你
+- What are you doing ?   - I needed to see you.
+
+567
+00:40:06,959 --> 00:40:10,292
+- 怎么，你要钱？   - 不，不！好吧，就要一点儿
+- What, you need money ?   - No, no ! Well, a little.
+
+568
+00:40:10,501 --> 00:40:14,126
+- 救命！   - 嘘！你疯了吗？闭嘴！
+- Help !   - Shhh ! Are you mad ? Shut up!
+
+569
+00:40:14,292 --> 00:40:16,626
+给我出去，巴尔托洛梅奥。我什么都不会给你的！
+Get out of here, Bartolomeo. I'm giving you nothing !
+
+570
+00:40:16,834 --> 00:40:19,209
+你除了会输光。你怎么指望在纸牌游戏里做运算
+You'd only lose it. You can't count the cards in poker.
+
+571
+00:40:19,417 --> 00:40:22,834
+先不说可以这种事实，而且也不止我一个人这么说
+Apart from the fact you can, and it's not just me who says so,
+
+572
+00:40:23,084 --> 00:40:24,626
+不过现在都无关紧要了
+but that's irrelevant now.
+
+573
+00:40:24,834 --> 00:40:28,542
+这次是为了一个与我大学同事有关的项目，实实在在的
+It's for a project with my university colleagues, it's something concrete.
+
+574
+00:40:28,751 --> 00:40:31,792
+你总是这么说。我知道你只对我的钱有兴趣
+You always say that. I know you're only interested in me for my money.
+
+575
+00:40:32,001 --> 00:40:34,584
+不是这样的！这太让我伤心了！
+That's not true ! That's hurtful to me !
+
+576
+00:40:34,792 --> 00:40:38,751
+我正要和你一起做点什么，朝前看
+I'm building something with you, looking ahead.
+
+577
+00:40:38,959 --> 00:40:40,792
+那就娶我吧！
+So marry me !
+
+578
+00:40:43,292 --> 00:40:45,126
+天啊，今晚你真漂亮
+God, you're beautiful tonight.
+
+579
+00:40:48,334 --> 00:40:52,292
+- 你真得愿意娶我？   - 再说吧，听着...
+- You'll really marry me ?   - We'll see, listen...
+
+580
+00:40:52,501 --> 00:40:55,709
+一万欧元现金，但得是小面额的
+10,000 euros in cash, but small denomination notes,
+
+581
+00:40:55,917 --> 00:40:58,792
+不要那些500欧元面值的，大家不喜欢那种
+not those 500-euro ones, people don't like them.
+
+582
+00:40:59,126 --> 00:41:04,376
+<i>第二步。原材料。丁香酚，任何丁香制品里都能找到</i>
+<i>Phase 2. Raw materials. Eugenol, you find it in anything made with cloves.</i>
+
+583
+00:41:04,584 --> 00:41:08,876
+<i>我们需要不少。香波、空气清新剂、精油等等</i>
+<i>We need a lot. Shampoo, air fresheners, essential oils.</i>
+
+584
+00:41:09,126 --> 00:41:10,417
+<i>我们来进行提炼</i>
+<i>We'll extract it.</i>
+
+585
+00:41:10,626 --> 00:41:12,917
+啊，你自己做的啊？真是太好了
+Ah, you make your own ? Good to know.
+
+586
+00:41:13,126 --> 00:41:16,876
+我现在可以告诉我老婆了，她对丁香很着迷
+I can tell my wife now, she's obsessed with cloves.
+
+587
+00:41:18,167 --> 00:41:21,959
+她让我给她买一些
+I'll get some supplies in, I'll take 50.
+
+588
+00:41:22,334 --> 00:41:25,126
+<i>丁香酚经过氢氧化钾和戊醇的处理后</i>
+<i>Eugenol treated with potassium hydroxide and amyl alcohol</i>
+
+589
+00:41:25,292 --> 00:41:26,292
+<i>就变成异丁香酚</i>
+<i>becomes isoeugenol.</i>
+
+590
+00:41:26,501 --> 00:41:29,667
+<i>要把它变成MD2P我们还需要用到过硼酸钠</i>
+<i>To transform it into MD2P we need sodium perborate.</i>
+
+591
+00:41:29,876 --> 00:41:32,376
+<i>我们可以从水族箱专用盐里提取</i>
+<i>We'll extract that from the integrators for aquariums.</i>
+
+592
+00:41:35,334 --> 00:41:37,542
+我有一个非常巨大的水族箱
+I've got a huge aquarium.
+
+593
+00:41:37,751 --> 00:41:42,001
+<i>然后我们需要大量的蒸馏水，还需要糖霜做赋形剂</i>
+<i>Then we need lots of distilled water, and icing sugar as an excipient.</i>
+
+594
+00:41:45,292 --> 00:41:47,751
+<i>第三步。生产。利用还原胺化反应</i>
+<i>Phase 3. Production. Using reductive amination,</i>
+
+595
+00:41:47,959 --> 00:41:50,709
+<i>MD2P和丙氨酸可以为我们提供精神制剂</i>
+<i>the MD2P and alanine will provide us with our smart drug.</i>
+
+596
+00:41:50,917 --> 00:41:53,334
+<i>到了这一步就无路可退，我们从现在起就在同一条船上了</i>
+<i>The point of no return, we're all involved from here on.</i>
+
+597
+00:41:53,542 --> 00:41:54,917
+好吧，彼得罗，对不起
+All right, Pietro, I'm sorry.
+
+598
+00:41:55,126 --> 00:41:57,834
+就我而言，没戏了。跟其他人说再见吧
+As far as I'm concerned, it's over. Say goodbye to the others.
+
+599
+00:41:58,126 --> 00:42:02,001
+- 现在怎么办，阿尔贝托？   - 你问我现在怎么办？
+- What is it now, Alberto ?   - You're asking me what it is ?
+
+600
+00:42:02,209 --> 00:42:05,126
+你建议用硼氢化钠来进行还原胺化反应
+You're suggesting sodium borohydride for reductive amination,
+
+601
+00:42:05,251 --> 00:42:08,001
+这么低级的事随便哪个吸毒的都会...
+which is something so amateur any street junkie could do it...
+
+602
+00:42:08,209 --> 00:42:11,792
+- 哪有那么低级？   - 彼得罗，咱们实话实说
+- It's not that amateur.   - Pietro, let's be honest.
+
+603
+00:42:12,001 --> 00:42:17,292
+要是你早讲用硼氢化钠来造毒品，我根本不会答应
+If you'd said let's make a drug with sodium borohydride, I'd have said no.
+
+604
+00:42:17,501 --> 00:42:19,459
+- 嘘，中国人   - 我们是不是想造出像点样的毒品
+- Sssh, the Chinese.   - Do we want to make a good drug,
+
+605
+00:42:19,667 --> 00:42:22,126
+合成达到一定级别的精神类药品？
+synthesizing psychotropic substances of a certain level ?
+
+606
+00:42:22,251 --> 00:42:24,084
+达不到一定的纯度级别我们就不能干！
+We can't go below a certain purity level !
+
+607
+00:42:24,209 --> 00:42:26,209
+不然的话，那种品相没人会喜欢的！
+Otherwise it'll look bad and I won't have that !
+
+608
+00:42:26,417 --> 00:42:30,459
+好吧！好吧，算了！我们就用氢和铑
+All right ! All right, come on ! We'll use hydrogen and rhodium.
+
+609
+00:42:30,667 --> 00:42:32,126
+- 满意了？   - 可以！可以！
+- Happy ?   - Yes ! Yes!
+
+610
+00:42:33,417 --> 00:42:36,001
+不过，阿尔贝托，你真够讨厌的！
+But, Alberto, what a pain !
+
+611
+00:42:36,209 --> 00:42:38,251
+<i>我们要利用大学试验室</i>
+<i>We'll use the university lab.</i>
+
+612
+00:42:38,459 --> 00:42:43,126
+<i>需要几个小时。我们周五晚上去，基本没人</i>
+<i>We'll need a few hours, we'll go in on Friday night, when it's empty.</i>
+
+613
+00:42:43,292 --> 00:42:46,334
+- 只是一道门，爬上翻过去   - 这没用
+- It's only one gate, climb it backwards.   - That's not helping.
+
+614
+00:42:46,542 --> 00:42:49,251
+好吧。别慌。抓住把手
+All right. Don't panic. Take the handle,
+
+615
+00:42:49,459 --> 00:42:53,667
+接着逆时针旋转180°，然后到我这边来
+then an anticlockwise movement for 180 degrees and come towards me.
+
+616
+00:42:53,876 --> 00:42:55,626
+我应该下去再来一次
+I should go back down and start again.
+
+617
+00:42:55,834 --> 00:43:00,001
+我们已经来了半个小时了。快点，监控会发现我们的
+We've been here half an hour. Hurry up, the security camera will see us.
+
+618
+00:43:00,209 --> 00:43:04,209
+- 往左？   - 往左，来吧。不难，来
+- Left ?   - Left, go. It's easy, go.
+
+619
+00:43:04,417 --> 00:43:09,167
+阿尔贝托！你说你虽然很胖但也很灵巧，可你就是个木墩子！
+Alberto ! You said you were solid but agile, you're an armchair!
+
+620
+00:43:09,376 --> 00:43:12,542
+- 把手给我   - 我的手？   - 对，伸过来
+- Give me your hand.   - My hand ? - Yes, give me it.
+
+621
+00:43:12,751 --> 00:43:15,334
+- 我就交给你了   - 手给我，快点
+- I'm trusting you.   - Give me your hand. Come.
+
+622
+00:43:15,542 --> 00:43:18,667
+- 我撑不住了   - 什么？谁能拉得动你？
+- I'll let go.   - What ? Who could hold you ?
+
+623
+00:43:18,876 --> 00:43:22,251
+下去重来吧。这是唯一的。。。
+Go down and come back up. It's the only...
+
+624
+00:43:35,834 --> 00:43:36,917
+阿尔贝托！
+Alberto !
+
+625
+00:43:38,584 --> 00:43:42,001
+- 我真想念这地方   - 嗯，快点
+- I really missed this place.   - Yeah, come on.
+
+626
+00:44:57,501 --> 00:45:01,917
+除去赋形剂外，达到99%的纯度！
+99% pure, apart from the excipients !
+
+627
+00:45:02,126 --> 00:45:05,167
+你不会怪我省了几个零的
+You'll forgive me if I'm a few zeroes out.
+
+628
+00:45:05,376 --> 00:45:07,501
+你得使用高效液相色谱才能知道具体的纯度级别
+To see certain levels of purity, you need HPLC.
+
+629
+00:45:07,709 --> 00:45:11,334
+是啊，阿尔贝托！两小时后这地方就全是人了！
+Yes, Alberto ! In two hours this place will be full of people !
+
+630
+00:45:11,542 --> 00:45:13,251
+我们必须抓紧时间
+We have to get a move on.
+
+631
+00:45:13,459 --> 00:45:16,376
+对，可这只是个整数，不能用来出售
+Yes, but this is the zero number, this is not for sale.
+
+632
+00:45:16,584 --> 00:45:20,376
+不，我拿一个放我钱包里，行吗？
+No, I'll take this one and put it in my wallet, OK ?
+
+633
+00:45:20,584 --> 00:45:22,334
+- 没问题   - 别担心了，但是动作要快！
+- All right.   - So don't worry, but hurry up !
+
+634
+00:45:22,542 --> 00:45:26,209
+听着，我们要把整套试验做全吗？
+Listen, are we going to do the whole testing phase ?
+
+635
+00:45:26,417 --> 00:45:29,834
+- 对，当然做全   - 是吗？
+- Yes, of course we will.   - We will ?
+
+636
+00:45:30,917 --> 00:45:33,001
+你把这叫做科学试验？
+You call this scientific testing ?
+
+637
+00:45:33,209 --> 00:45:37,542
+当然！不过我们就在这里做，而不是在试验室！
+Of course ! But instead of doing it in the lab, we do it right here !
+
+638
+00:45:37,751 --> 00:45:40,917
+可在这种乱七八糟的环境里我们怎么收集试验证据？
+How can we collect empirical evidence in this chaos ?
+
+639
+00:45:41,126 --> 00:45:43,834
+这环境根本就不适合，甚至起反作用
+It's not a suitable environment, it's hostile even.
+
+640
+00:45:44,084 --> 00:45:46,001
+那些家伙从没来过夜总会
+And these guys have never been in a club.
+
+641
+00:45:46,209 --> 00:45:48,501
+这就是我们需要一位人类学家的原因
+That's why we got an anthropologist.
+
+642
+00:45:48,709 --> 00:45:53,667
+好的，最后一次。在夜总会里，肢体语言很重要
+Right, for the last time. In a club, body language is fundamental.
+
+643
+00:45:53,876 --> 00:45:57,626
+如果你把胳膊指向出口处...把你的脚伸直！
+If your arms are pointing to the exit... Straighten your feet !
+
+644
+00:45:57,834 --> 00:46:01,251
+就意味着我们有了负罪感，等不及要走了。那可不好！
+It means we feel guilty and can't wait to go. That's no good !
+
+645
+00:46:01,459 --> 00:46:04,126
+高昂的下颔意味着自信
+The raised chain is synonymous with self-assurance,
+
+646
+00:46:04,334 --> 00:46:07,167
+而且以人类学角度而言非常适合吸引那些
+and is anthropologically perfect to attract everyone in here
+
+647
+00:46:07,376 --> 00:46:10,209
+想要离经叛道一晚的人
+who wants to have a night off from ordinary morals.
+
+648
+00:46:10,417 --> 00:46:12,709
+所以把下颔抬高，绝对不要往那个方向看
+So raised chin, never looking in that direction.
+
+649
+00:46:14,167 --> 00:46:17,209
+<i>从少量的自我推销开始介绍我们自己</i>
+<i>Start with a little self-marketing to introduce ourselves.</i>
+
+650
+00:46:19,292 --> 00:46:20,834
+棒级了！
+Great !
+
+651
+00:46:21,084 --> 00:46:23,876
+<i>直到他们来找我们</i>
+<i>Until it's them who come to us.</i>
+
+652
+00:46:26,667 --> 00:46:27,917
+你有我需要的东西？
+You got something for me ?
+
+653
+00:46:28,126 --> 00:46:31,292
+<i>光有他们的需求是不够的，必须要他们渴求</i>
+<i>It's not enough for them to want it, they have to desire it.</i>
+
+654
+00:46:31,501 --> 00:46:34,667
+- 去别的地方走走！   - 别担心，我有钱！
+- Go for a walk!   - Don't worry, I've got money !
+
+655
+00:46:37,542 --> 00:46:39,959
+到洗手间去看看
+Go and check the restroom.
+
+656
+00:46:40,167 --> 00:46:44,001
+- 洗手间？   - 洗手间，去吧
+- The restroom ?   - The restroom, go.
+
+657
+00:46:44,209 --> 00:46:46,417
+<i>在洗手间里，关系会发生改变</i>
+<i>In the restroom, relationships change,</i>
+
+658
+00:46:46,626 --> 00:46:49,376
+<i>大家会变得更融洽，即使是跟陌生人</i>
+<i>people become more complicit even with strangers.</i>
+
+659
+00:46:49,584 --> 00:46:52,209
+<i>卫生间区域以性别划分</i>
+<i>The toilet area discriminates on a gender basis,</i>
+
+660
+00:46:52,417 --> 00:46:53,959
+<i>男性在那边，女性在那边</i>
+<i>males there, females there,</i>
+
+661
+00:46:54,167 --> 00:46:57,209
+<i>性别间的压力会消除</i>
+<i>and so sexual tensions are smoothed out.</i>
+
+662
+00:46:57,417 --> 00:47:00,792
+- 有人告诉我来这儿可以...   - 200欧元
+- I was told to come here for...   - 200 euros.
+
+663
+00:47:01,001 --> 00:47:04,251
+- 200欧元，这是他妈什么玩意？   - 真有劲，谢谢
+- 200 euros, what the hell is it ?   - A bomb, thank you.
+
+664
+00:47:04,459 --> 00:47:08,626
+- 我怎么跟你说的？   - 至少让我看一眼？
+- What did I tell you ?   - Can I see it, at least ?
+
+665
+00:47:08,834 --> 00:47:10,126
+先给钱
+Money first.
+
+666
+00:47:14,542 --> 00:47:16,584
+拿去！不过要是你敢耍我...
+Here ! But if you rip me off...
+
+667
+00:47:16,792 --> 00:47:19,417
+- 敲最后那扇门。相信我   - 好吧
+- Knock at the last door. Trust me.   - All right.
+
+668
+00:47:34,126 --> 00:47:39,334
+- 这系统不错！干得漂亮。再见   - 再见，帅哥
+- What a system ! Well done. Bye.   - Bye, handsome.
+
+669
+00:47:46,251 --> 00:47:49,584
+瞧，我怎么跟你说的？
+Look. What did I tell you ?
+
+670
+00:47:55,334 --> 00:47:56,459
+抱歉
+Excuse me.
+
+671
+00:47:57,417 --> 00:47:58,084
+你好
+Hello.
+
+672
+00:47:58,209 --> 00:48:01,834
+我是洗手间精神药品销售团队的
+I'm part of the psychotropic sales team in the restroom.
+
+673
+00:48:02,126 --> 00:48:06,334
+- 我想知道你用了有什么感觉   - 这玩意挺酷的
+- I wanted to ask what you thought.   - This stuff is spectacular.
+
+674
+00:48:06,542 --> 00:48:07,792
+能说具体一点吗？
+Could you be more specific ?
+
+675
+00:48:08,001 --> 00:48:13,626
+当我过去敲卫生间的门时，我觉得这套系统很不错
+When I went to knock on the restroom door, I saw the system is perfect.
+
+676
+00:48:13,834 --> 00:48:15,667
+- 跟穆雷纳学得有模有样   - 谁？
+- Well clone, Murena.   - Who ?
+
+677
+00:48:15,876 --> 00:48:19,001
+穆雷纳。手里有顶级货的家伙。你不是替穆雷纳干活的？
+Murena. The guy with the best stuff. Do you not work for Murena ?
+
+678
+00:48:19,209 --> 00:48:20,917
+我不认识穆雷纳。我替彼得罗干活
+I don't know Murena. I work for Pietro.
+
+679
+00:48:21,126 --> 00:48:24,626
+要是按你的满意度打个分，按照...
+If you were to grade your satisfaction on a scale of...
+
+680
+00:48:24,834 --> 00:48:26,834
+那妞是你带来的？
+Is that your woman there ?
+
+681
+00:48:27,126 --> 00:48:29,376
+不，不是。你能集中一小会吗？
+No, she's not. Can you concentrate a moment ?
+
+682
+00:48:29,584 --> 00:48:31,876
+嗯，我想我要去试试运气
+Well, I think I'll try my luck.
+
+683
+00:48:32,126 --> 00:48:34,001
+抱歉！一小会，就一个问题！
+Excuse me ! One moment, a question !
+
+684
+00:48:34,209 --> 00:48:37,501
+40分钟，各位，我们40分钟就搞定了！
+40 minutes, guys, we finished it in 40 minutes !
+
+685
+00:48:37,709 --> 00:48:44,209
+不可思议！现在还不足以调整价格，我们得多生产一些
+Amazing ! It's not enough to adjust the price, we have to make more.
+
+686
+00:48:44,417 --> 00:48:49,126
+好的，不过我想提一下分工的问题
+All right, but I'd like to bring up the division of labor.
+
+687
+00:48:49,251 --> 00:48:52,001
+我发现有歧视、幽闭
+I found it discriminatory, claustrophobic
+
+688
+00:48:52,167 --> 00:48:53,792
+尤其是卫生问题：
+and above all unhygienic:
+
+689
+00:48:54,001 --> 00:48:57,001
+我坐在马桶上面整整两个小时
+I was two hours sitting above the toilet bowl,
+
+690
+00:48:57,167 --> 00:48:59,126
+从门底下塞纸袋！
+passing bags under the door !
+
+691
+00:48:59,292 --> 00:49:01,584
+乔吉奥，你的角色非常重要，看出来了？
+Giorgio, your role is fundamental, you see ?
+
+692
+00:49:01,792 --> 00:49:04,209
+卫生间是底牌。万一警察来了
+The WC is the estrema ratio. If the police come,
+
+693
+00:49:04,417 --> 00:49:07,292
+你把药丢进马桶，拿水一冲，我们干干净净走人！
+you chuck it in the bowl, flush it away, and we're home free !
+
+694
+00:49:08,334 --> 00:49:11,792
+可我们不是说过这些都是合法的吗？
+But did we not say all this was legal ?
+
+695
+00:49:12,001 --> 00:49:17,667
+说了一百遍了，我们出售的东西本身不是违法的
+For the hundredth time, what we're selling in itself is not illegal,
+
+696
+00:49:17,876 --> 00:49:21,542
+但我们却在没有许可的情况下贩卖内服药品
+but we're selling something that is ingested without any license,
+
+697
+00:49:21,751 --> 00:49:24,126
+而且没有处方，所以这是逃税行为！
+and without receipts, so it's tax avoidance !
+
+698
+00:49:24,292 --> 00:49:27,334
+还有，阿尔贝托，别去打扰那些客户
+And, Alberto, leave the customers in peace.
+
+699
+00:49:27,542 --> 00:49:29,959
+他们不是喜欢这药吗？这就够了
+They like it ? That means it's good.
+
+700
+00:49:30,834 --> 00:49:36,001
+<i>树皮被浸透后就会放入火中以营造温暖和温馨的气氛</i>
+ONCE SOAKED THE BARK IS PLACED ON THE FIRE TO MAKE IT WARM AND SOFT
+
+701
+00:49:51,959 --> 00:49:55,542
+听着，我一直在想，咱们弄台洗碗机吧
+Listen, I was thinking, let's get the dishwasher.
+
+702
+00:49:57,417 --> 00:49:59,917
+你说了别太贪心
+You said not to be too greedy.
+
+703
+00:50:00,334 --> 00:50:04,501
+没错，不过这个很有用的。我们就贪心一下
+Yeah, but it's something useful. Let's be greedy.
+
+704
+00:50:05,667 --> 00:50:07,501
+不过买台酷的
+But get a cool one.
+
+705
+00:50:08,751 --> 00:50:11,126
+- 你去哪？   - 去看看乔吉奥和马蒂亚
+- Where are you going ?   - To see Giorgio and Mattia.
+
+706
+00:50:11,334 --> 00:50:13,376
+又来了！这周第三次了！
+Again ! That's the third time this week !
+
+707
+00:50:13,584 --> 00:50:15,334
+可能是最后一次
+And it might be the last.
+
+708
+00:50:15,542 --> 00:50:17,501
+他们现在有被开除的风险！
+They're at risk of being fired !
+
+709
+00:50:17,709 --> 00:50:21,251
+我过去，聊聊天，想给他们打打气
+I go there, chat, try to cheer them up a bit.
+
+710
+00:50:21,459 --> 00:50:25,876
+确实有用。其实他们也说了：“这对我们很有用”
+It really helps them. In fact they said, "It really helps us."
+
+711
+00:50:26,126 --> 00:50:28,501
+那是新夹克吗？丝质的？
+Is that a new jacket ? Is it silk ?
+
+712
+00:50:28,709 --> 00:50:32,959
+不是，睛纶混纺的。捂我一身汗
+No, it's an acrylic mix. Really makes me sweat.
+
+713
+00:50:33,167 --> 00:50:37,417
+- 要不要我等你？   - 不用，亲爱的，睡吧。我很晚才能回来
+- Will I wait up for you ?   - No, love, sleep, I'll be late.
+
+714
+00:50:40,001 --> 00:50:41,584
+我真得不想去！
+I really don't want to go !
+
+715
+00:51:15,876 --> 00:51:17,667
+它的名字叫波希米亚狂想曲
+And then we have Bohemian Rhapsody.
+
+716
+00:51:17,876 --> 00:51:23,667
+一条非常独特的狗，可以搜寻、捕猎、带回猎物
+An exceptional dog, it seeks, hunts, retrieves.
+
+717
+00:51:24,501 --> 00:51:28,084
+- 你究竟想要哪种？   - 我们就要它了
+- What exactly are you looking for ?   - We'll take it.
+
+718
+00:51:38,584 --> 00:51:44,959
+我们来了。这里是南罗马和托里诺的收入。瞧瞧
+Here we are. This is South Rome and Torrino. Look at that.
+
+719
+00:51:45,167 --> 00:51:50,126
+- 等等，安德里亚，这是什么？   - 五欧元的钞票
+- Hang on, Andrea, what's this ?   - Five euros.
+
+720
+00:51:50,292 --> 00:51:53,709
+我们不能收小面额的！我们不能整晚坐在这里数钱！
+We don't take small notes ! We can't be here all night counting !
+
+721
+00:51:53,917 --> 00:51:55,251
+可以小小变通一下嘛
+A bit of flexibility.
+
+722
+00:51:55,459 --> 00:51:59,209
+手里有小零钱的人不应该是我们的客户
+If they have small change, they're not our clientele.
+
+723
+00:52:10,751 --> 00:52:13,501
+各位，我们将要去参观一些典雅的人文景观！
+Guys, we're about to go somewhere anthropologically delicate !
+
+724
+00:52:13,709 --> 00:52:17,667
+很容易就能打动他们！别让我难堪
+It won't take much to set things off ! Don't make me look bad.
+
+725
+00:52:17,876 --> 00:52:22,001
+要是有人感兴趣的话，这就是文书院宫
+If anyone's interested, this is Palazzo della Cancelleria.
+
+726
+00:52:22,209 --> 00:52:25,334
+不是每个人都知道它有着达马西称号
+Not everyone knows it contains the Titulus Damasi,
+
+727
+00:52:25,542 --> 00:52:28,667
+- 一般叫它圣洛伦索   - 够了！够了！
+- commonly known as San Lorenzo.   - Enough ! Enough !
+
+728
+00:52:28,876 --> 00:52:31,834
+- 这裤子让我血脉不畅！   - 这种二分款真美
+- These pants are haemostatic !   - The distichous is beautiful,
+
+729
+00:52:32,126 --> 00:52:33,959
+- 专为达玛苏...   - 我脱不下来了！
+- dedicated to Damasus...   - I can't get them off!
+
+730
+00:52:34,167 --> 00:52:40,501
+不是所有人都知道她把教堂。。。算了，你们也不在意，我知道
+Haec damasus tibi christe deus, all right, you don't care, I know.
+
+731
+00:52:40,792 --> 00:52:46,709
+我男朋友是天蝎座，有非常强烈的统治欲
+My boyfriend is a Scorpio, very strong dominating character,
+
+732
+00:52:46,917 --> 00:52:50,584
+天蝎座运势，一个天蝎座大块头，真正的天蝎座！
+Scorpio ascendant, a big Scorpio, really Scorpio !
+
+733
+00:52:50,792 --> 00:52:53,959
+我们也没必要搞得那么夸张！听着！
+Just as well as we didn't have to overdo it ! Listen !
+
+734
+00:52:54,667 --> 00:52:57,292
+- 要货吗？   - 要，能让我晚上嗨起来
+- You need some stuff ?   - Yeah, that would make my night.
+
+735
+00:52:58,501 --> 00:53:00,292
+- 900欧元   - 900欧元
+- 900.   - 900.
+
+736
+00:53:01,334 --> 00:53:07,417
+讲真，各位，就和以前的生活方式一样，明白吗？
+I mean it, guys, exactly the same lifestyle as before, understood ?
+
+737
+00:53:29,459 --> 00:53:33,584
+嗨。你能看得出来，我跟你一样是同性恋
+Hi. As you can see, I'm a homosexual like you.
+
+738
+00:53:33,792 --> 00:53:36,959
+我就是想问问你刚才服的药
+I wanted to ask about that substance you just took,
+
+739
+00:53:37,167 --> 00:53:43,209
+不过别担心，不记名的，只是用来研究...你干什么？
+but don't worry, it's anonymous, it's research... What are you doing ?
+
+740
+00:53:46,626 --> 00:53:49,876
+好，谢谢你。不，我是想问你
+Yes, thank you. No, I wanted to ask you,
+
+741
+00:53:50,126 --> 00:53:54,667
+比如，你对我无法扼制的性冲动
+for example, that sexual impulse towards me you cannot control,
+
+742
+00:53:54,876 --> 00:53:59,334
+是不是依赖你刚才服的药？或者仅仅是因为你喜欢我？
+does that depend on what you took ? Or is it just you like me ?
+
+743
+00:54:00,959 --> 00:54:04,459
+好吧，没关系。得了，住手！别！
+All right, it doesn't matter. Come on, stop it ! No !
+
+744
+00:54:27,584 --> 00:54:29,417
+- 彼得罗   - 这他妈是什么？
+- Pietro.   - What the fuck is this ?
+
+745
+00:54:29,626 --> 00:54:31,292
+- 洗碗机   - 我知道，可是...
+- The dishwasher.   - I know, but...
+
+746
+00:54:31,501 --> 00:54:36,209
+- 你刚到家吗？   - 不是，我刚才...
+- Have you just got home ?   - No, I was just...
+
+747
+00:54:36,417 --> 00:54:40,751
+- 我正要去大学   - 你那是皮裤吗？
+- I was going to university.   - Are those leather pants ?
+
+748
+00:54:40,959 --> 00:54:49,959
+什么？不...挺舒适的，我买的特价
+Who ? No... they're really comfy and I got them in the sales.
+
+749
+00:54:50,292 --> 00:54:52,126
+你要在早上六点上班？
+You're going to work at 6 in the morning ?
+
+750
+00:54:52,251 --> 00:54:55,959
+教授要我给他帮个忙，因为我们经常这样，朱莉亚
+The professor asked me for a favor, because we're like this, Giulia.
+
+751
+00:54:56,167 --> 00:54:58,001
+你至少把早饭吃了吗？
+Have you had breakfast at least ?
+
+752
+00:55:04,501 --> 00:55:08,792
+我是说，虽然，彼得罗，要我说，你表现得怪怪的
+I mean, though, Pietro, let me say, you're acting a bit strange.
+
+753
+00:55:10,001 --> 00:55:14,376
+看你这身打扮，就跟吉姆·莫里森一样（摇滚歌星）
+Look at the way you're dressed, you look like Jim Morrison.
+
+754
+00:55:14,542 --> 00:55:17,334
+还有就是每天晚上去乔吉奥和马蒂亚那
+And then this thing about going to see Giorgio and Mattia every night.
+
+755
+00:55:17,501 --> 00:55:20,501
+我理解你对于他们在加油站打工
+I know you feel guilty they're pumping gas
+
+756
+00:55:20,709 --> 00:55:23,501
+而你却拿到了大学长期合同而过意不去...
+and you've got a long-term contract at university...
+
+757
+00:55:24,626 --> 00:55:28,834
+- 彼得罗！你在听吗？   - 加油...
+- Pietro ! Are you listening ?   - Pumping gas...
+
+758
+00:55:29,084 --> 00:55:33,042
+没什么，我在听，朱莉亚。不过我们总是
+No, I was listening, Giulia. But we always talk
+
+759
+00:55:33,209 --> 00:55:36,459
+谈这些相同的话题。乔吉奥、马蒂亚、大学...
+about the same things. Giorgio, Mattia, university...
+
+760
+00:55:36,626 --> 00:55:39,792
+一般人都要睡着了
+It's normal for someone to fall asleep.
+
+761
+00:55:40,042 --> 00:55:47,792
+你从来不跟我讲你自己，你的情况。来，说说吧？
+You never talk to me about you, how you are. There, how are you ?
+
+762
+00:55:50,042 --> 00:55:53,501
+工作上一团糟
+Work's a real disaster.
+
+763
+00:55:53,709 --> 00:55:56,834
+吸毒的人数再次猛增
+There's been a big rise in people taking drugs again.
+
+764
+00:55:57,084 --> 00:55:58,792
+一些新型药品正在流行...
+There are these new pills going round...
+
+765
+00:56:01,084 --> 00:56:03,667
+...很多人再次回到吸毒的路上
+...so many people have started using again.
+
+766
+00:56:03,876 --> 00:56:07,292
+而且这些药物似乎不算是违禁品
+And it seems this thing's not officially illegal.
+
+767
+00:56:07,501 --> 00:56:13,751
+所以目前他们毫无办法。这些家伙肆无忌惮
+So they can't do anything for now. These people are so unscrupulous,
+
+768
+00:56:14,042 --> 00:56:19,917
+我真想跳过审讯直接把他们关起来，终身监禁，这些杂种！
+I'd lock them up without even a trial, life in jail, these shits !
+
+769
+00:56:20,626 --> 00:56:25,042
+喂，“杂种”这词有点过了
+Well, "shits" seems a bit over the top,
+
+770
+00:56:25,251 --> 00:56:30,667
+也许他们遇到了困难，要申请取缔非常容易
+maybe they've had problems, and it's too easy to demand a clampdown.
+
+771
+00:56:30,876 --> 00:56:32,876
+彼得罗，你到底在说什么？
+Pietro, what the fuck are you saying ?
+
+772
+00:56:33,084 --> 00:56:36,667
+他们弄出近几年最好的毒品之一，你却在为他们辩解？
+They put one of the best drugs in years out there and you defend them ?
+
+773
+00:56:36,876 --> 00:56:44,501
+不...但是是谁这么说，说这些药品非常酷？
+No... but who said that, that these pills are cool ?
+
+774
+00:56:44,792 --> 00:56:47,459
+那些曾经尝试过的人！还有谁？
+The people that have tried them ! Who else ?
+
+775
+00:56:49,251 --> 00:56:55,251
+他们怎么说的？这些药是，比方说，一般酷或是真心酷，酷？
+What did they say ? Are they, like, normal cool or really cool, cool ?
+
+776
+00:56:55,459 --> 00:57:00,501
+- 你疯了吗？   - 没有，只是聊一聊
+- Are you insane ?   - No, it was just to have a chat.
+
+777
+00:57:00,667 --> 00:57:02,626
+你说我们从没聊过天
+You say we never talk.
+
+778
+00:57:10,626 --> 00:57:15,751
+你不饿吗？不喜欢？要不要点别的东西？
+Are you not hungry ? You not like it ? You want something else ?
+
+779
+00:57:16,042 --> 00:57:19,417
+先生，菜单上说这是50欧元一盘！
+Sir, it says here this is 50 euros a plate !
+
+780
+00:57:19,584 --> 00:57:24,292
+我跟你们说过。我们的津贴往上涨了...我来付帐
+I told you. They increased our allowances... I'll get it.
+
+781
+00:57:24,501 --> 00:57:28,459
+想想第二道菜，光鱼类就有三页
+Think about a second course, there's three pages of fish alone.
+
+782
+00:57:28,626 --> 00:57:31,084
+随您怎么讲，先生
+If you say so, sir.
+
+783
+00:57:31,376 --> 00:57:34,626
+我对什么人办什么事
+I deal stuff of a certain level for people of a certain level.
+
+784
+00:57:34,834 --> 00:57:39,792
+我组织的派对，快乐大本营，是为了让大家高兴
+The parties I organize, Happiness, are to entertain people,
+
+785
+00:57:40,042 --> 00:57:43,042
+- 让他们留下回忆并感激我   - 当然
+- so they remember and are grateful.   - Of course.
+
+786
+00:57:43,251 --> 00:57:48,167
+我们说的是每晚2万多欧元
+We're talking 20,000 a night plus.
+
+787
+00:57:48,376 --> 00:57:52,417
+我在罗马经常用到这位穆雷纳。我不知道你是否认识他
+In Rome I've always used this Murena. I don't know if you know him.
+
+788
+00:57:52,584 --> 00:57:56,542
+知道，我听说过这位穆雷纳
+Yes, I've heard something about this Murena.
+
+789
+00:57:56,751 --> 00:58:00,834
+不过我可以保证我们有当前市场上最好的产品
+But I can guarantee we have the best product on the market at the moment.
+
+790
+00:58:01,084 --> 00:58:07,501
+好吧，你可以收下我漂亮的名片，放进你的口袋
+All right, you take my nice business card, put it in your pocket,
+
+791
+00:58:07,709 --> 00:58:12,876
+给我发条普通短信，我们下次见面谈谈细节
+send me a neutral text message and we'll meet to discuss the details.
+
+792
+00:58:13,126 --> 00:58:18,292
+这是150平米的休息厅，是真正的珠宝
+This is the lounge and with its 150 square meters it's a real jewel.
+
+793
+00:58:18,501 --> 00:58:21,501
+正如你所见，这露台有着极佳的罗马市区视角
+As you can see, the terrace offers an unrivaled view of downtown Rome,
+
+794
+00:58:21,709 --> 00:58:27,126
+上层露台有温水泳池，桑拿和一个小健身房
+while the upper terrace has a heated pool, sauna and a small gym.
+
+795
+00:58:27,334 --> 00:58:29,876
+你们想待多久？
+How long were you thinking of staying ?
+
+796
+00:58:30,126 --> 00:58:33,501
+我们想的是长期方面
+We were thinking more of an open-ended thing.
+
+797
+00:58:33,667 --> 00:58:35,917
+- 这根是承重柱吗？   - 您说什么？
+- Is this a bearing pillar ?   - Pardon ?
+
+798
+00:58:36,167 --> 00:58:38,917
+也许该把它敲掉，感觉有点挡事
+To knock it down maybe, it's all a bit claustrophobic.
+
+799
+00:58:39,167 --> 00:58:42,501
+这里是旅馆，你不能做出改动
+This is a hotel, you can't rebuild it.
+
+800
+00:58:42,667 --> 00:58:48,209
+我们的想法只不过是来自后工业化的现代开放空间
+It's just we come from a post-industrial modern open space.
+
+801
+00:58:48,417 --> 00:58:49,834
+不管怎么说，我们要了
+But anyway we'll take it.
+
+802
+00:58:54,042 --> 00:58:56,584
+好了，阿尔贝托，继续
+On you go, Alberto, go on.
+
+803
+00:58:59,126 --> 00:59:01,834
+这只是一次科学试验
+It's just a scientific experiment.
+
+804
+00:59:02,042 --> 00:59:03,626
+你已经做了很多次了，不是吗？
+You've done lots, haven't you ?
+
+805
+00:59:05,709 --> 00:59:07,334
+勇敢点，勇敢点，勇敢点
+Be brave, be brave, be brave.
+
+806
+00:59:54,376 --> 00:59:56,292
+你们抢生意抢到这儿来了？
+You're breaking our balls here too ?
+
+807
+00:59:56,501 --> 00:59:58,167
+滚一边去！你想干嘛？
+Fuck off! What do you want ?
+
+808
+00:59:58,376 --> 01:00:02,501
+- 他还敢还嘴！   - 哥们，这儿是穆雷纳的地盘
+- He answers back as well !   - Buddy, Murena's in charge here.
+
+809
+01:00:02,709 --> 01:00:07,917
+“哥们，这儿是穆雷纳的地盘”。你看太多美剧了
+"Buddy, Murena's in charge here." You watch too many American movies...
+
+810
+01:00:08,167 --> 01:00:14,084
+该死，老天，你把我鼻子打破了！你疯了吗？
+Fuck, Christ, you've broken my nose ! Are you mad ?
+
+811
+01:00:14,292 --> 01:00:17,417
+在托里诺搞一点就搞一点了，我们也不小气
+Pushing a bit out at Torrino was OK, we let you do that,
+
+812
+01:00:17,584 --> 01:00:19,376
+可你们现在在挑逗我们的神经
+but now you're pissing us off.
+
+813
+01:00:19,542 --> 01:00:24,376
+下次再让我们看见你们，我们就开枪了，明白吗？
+Next time we see you, we'll shoot you. Understand ?
+
+814
+01:00:24,542 --> 01:00:28,042
+- 没那个必要   - 这里是穆雷纳的地盘儿，懂？
+- There was no need for that.   - This is Murena's patch, OK ?
+
+815
+01:00:29,584 --> 01:00:33,917
+不，各位，你们真地对美剧太入迷了...
+No, guys, you're really obsessed with these American movies...
+
+816
+01:00:41,251 --> 01:00:45,876
+- 刚才是谁，巴尔托洛梅奥？   - 穆雷纳。穆雷纳的人
+- Who was it, Bartolomeo ?   - Murena. Murena's men.
+
+817
+01:00:46,126 --> 01:00:49,209
+该死的穆雷纳！该死的穆雷纳！
+Fucking Murena ! Fucking Murena !
+
+818
+01:00:49,417 --> 01:00:53,209
+我总是听到他的名字，穆雷纳，你把我惹毛了！
+I keep hearing his name, Murena, you've broken my balls !
+
+819
+01:00:53,417 --> 01:00:56,501
+- 这些是不折不扣的坏蛋   - 你不懂，巴尔托洛梅奥
+- These are real bad guys.   - You don't understand, Bartolomeo.
+
+820
+01:00:56,709 --> 01:01:00,417
+- 我们现在才是坏蛋   - 我们得把他们搞定！
+- We're the bad guys now.   - We need to screw them !
+
+821
+01:01:00,584 --> 01:01:03,459
+我们得找点称手的家伙把他们脸打扁！
+We'll get some cold weapons and smash their faces in !
+
+822
+01:01:03,626 --> 01:01:04,501
+你干了什么？
+What have you done ?
+
+823
+01:01:04,667 --> 01:01:07,751
+你不让我测试它们，所以我对自己说，试一下
+You didn't let me test them, so I said to myself, try it.
+
+824
+01:01:08,167 --> 01:01:10,209
+喝点水，保持体内水份
+Drink some water and stay hydrated.
+
+825
+01:01:10,417 --> 01:01:13,459
+- 彼得罗，我们该怎么办？   - 跟你们说，我们必须把他们搞定
+- Pietro, what will we do ?   - I'm telling you, we have to screw them up .
+
+826
+01:01:13,626 --> 01:01:18,209
+这东西挺黏，我们得解决发干的问题。记下来
+This stuff's sticky, we need to sort out the dryness. Take a note.
+
+827
+01:01:18,417 --> 01:01:20,751
+各位，我们得改变一下思路
+Guys, we need to really change mentality.
+
+828
+01:01:21,042 --> 01:01:25,584
+我们不能总是去厕所，穿得像傻逼，挣点零花钱
+We can't keep going to squats, dressed like fools, for loose change.
+
+829
+01:01:25,792 --> 01:01:28,042
+我们得上个台阶
+We have to go up a level.
+
+830
+01:01:33,501 --> 01:01:37,042
+- 你们有晚礼服吗？   - 有！不行，不太合身！
+- Have you got a tux ?   - Yes ! No, it doesn't fit !
+
+831
+01:01:37,209 --> 01:01:38,584
+记下来！改晚礼服
+Take a note ! Adjust tux.
+
+832
+01:02:00,042 --> 01:02:06,042
+喂！太好了！你不知道看见你来我有多高兴
+Hey ! Great ! You don't know how happy I am that you're here.
+
+833
+01:02:06,251 --> 01:02:09,917
+- 感谢您邀请我们   - 我们开始尽情享受这个夜晚吧
+- Thank you for inviting us.   - Let's enjoy the evening now.
+
+834
+01:02:10,167 --> 01:02:16,042
+西蒙，你能去那边看着点吗？我来带你认识一下大家
+Simon, will you deal with the giving and getting ? I'll introduce you.
+
+835
+01:02:45,084 --> 01:02:48,042
+你好...我是阿尔贝托
+Hello... I'm Alberto.
+
+836
+01:02:51,709 --> 01:02:52,876
+我是红辣椒
+Paprika.
+
+837
+01:02:53,834 --> 01:02:56,917
+红辣椒。这名字不一般
+Paprika. Unusual.
+
+838
+01:03:10,334 --> 01:03:14,334
+抱歉离开一会。我马上回来。你不要离开
+Excuse me a moment. I'll be right back. Don't you go anywhere.
+
+839
+01:03:15,626 --> 01:03:19,501
+以第三方名义办理的巴拿马手机卡，烧了吧
+Forget it, really. Panamanian SIM card in a third party's name.
+
+840
+01:03:19,667 --> 01:03:24,084
+他们全都能截听到，共谋罪够判9年的
+They'll be on to you, and I was looking at nine years for conspiracy.
+
+841
+01:03:24,292 --> 01:03:28,501
+不过，如果你想图个安稳，那记下来，“Palabras”！
+No, these days not to have any worries, write it down, Palabras !
+
+842
+01:03:28,667 --> 01:03:31,709
+- “Palabras”？   - 玻利维亚第二大公司。很好的
+- Palabras ?   - Second company in Bolivia. Great.
+
+843
+01:03:31,917 --> 01:03:34,209
+- 感觉可靠吗？   - 可靠？
+- In the sense it's secure ?   - Secure ?
+
+844
+01:03:34,417 --> 01:03:37,792
+要是法官截听到了，我怎么说？
+If the judge manages to tap this, what can I say ?
+
+845
+01:03:38,042 --> 01:03:43,876
+你不错，真不错。我会去自首。不过他不会截听到的
+You're good, really good. I'll hand myself in. But he won't tap it.
+
+846
+01:03:44,126 --> 01:03:46,501
+只要有我的，就会有你们的
+Since I got one, everyone's got one.
+
+847
+01:03:46,667 --> 01:03:49,542
+- 抱歉   - 你随意
+- Excuse me.   - On you go.
+
+848
+01:03:49,751 --> 01:03:54,459
+亲爱的！不，我们和部长们在一起。他们希望明天颁布法令
+Love ! No, we're with the ministers. They want the decree for tomorrow.
+
+849
+01:03:54,667 --> 01:03:56,751
+- 彼得罗！   - 教授
+- Pietro !   - Professor.
+
+850
+01:03:57,042 --> 01:04:01,126
+很高兴见到你！你在这儿做什么？你消失一阵子了！
+It's good to see you ! What are you doing here ? You vanished !
+
+851
+01:04:01,334 --> 01:04:03,667
+我一直在尽最大努力让你回来！
+I'm doing all I can to get you back in !
+
+852
+01:04:03,876 --> 01:04:08,584
+我甚至去见了学校出去的一位老朋友，很有人脉的家伙
+I even went to see an old friend from school, a guy with contacts.
+
+853
+01:04:08,792 --> 01:04:11,709
+教授，谢谢你，不过我已经没有兴趣了，我改行了
+Professor, thank you, but I'm not interested, I've changed fields.
+
+854
+01:04:11,917 --> 01:04:16,251
+你干得不错，你在大学里挣不到什么
+You did well, you can't earn a fucking thing at university.
+
+855
+01:04:16,459 --> 01:04:20,209
+抱歉，不过你刚才在跟帕拉佐副部长说话
+Excuse me, but you were speaking with Undersecretary Pallazzo.
+
+856
+01:04:20,417 --> 01:04:22,042
+对，别人介绍的。。。
+Yes, I was introduced...
+
+857
+01:04:22,209 --> 01:04:26,042
+他和我的船停在同一个码头
+He and I have our boats at the same pier,
+
+858
+01:04:26,209 --> 01:04:28,751
+可我从没有勇气接近他
+but I've never been bold enough to approach him.
+
+859
+01:04:29,042 --> 01:04:32,459
+不过要是你能在他面前帮我牵个线
+But if you could maybe have a word with him about me,
+
+860
+01:04:32,626 --> 01:04:35,209
+至少让我加入国家研究委员会
+get me a seat on the board of the NRC at least.
+
+861
+01:04:35,417 --> 01:04:39,709
+- 我不知道，教授...   - 去代表民间团体
+- I don't know, Professor...   - To represent civil society.
+
+862
+01:04:39,917 --> 01:04:41,667
+- 抱歉，我真得要走了   - 等一等
+- I'm sorry, I really have to go.   - Hang on.
+
+863
+01:04:41,876 --> 01:04:47,542
+这是我的名片。我不得不换号了，萨勒诺地方检察官一直在找我麻烦
+Take my card. I had to change numbers, the Salerno D.A. was hassling me.
+
+864
+01:04:47,751 --> 01:04:53,251
+- 谢谢   - 看到+591的号码别见怪
+- Thank you.   - Don't worry about the +591,
+
+865
+01:04:53,459 --> 01:04:57,709
+是玻利维亚号码，说来话长了，以后我会告诉你的
+it's a Bolivian number, it's a long story, I'll tell you later.
+
+866
+01:04:57,917 --> 01:05:01,542
+拉力赛能带给你的冲击不是其它运动可比的
+Rallying gives you a rush that no other sport does.
+
+867
+01:05:01,751 --> 01:05:05,876
+- 可是却有副作用！   - 那你现在级别挺高的了？
+- But then there are side effects !   - So you're at a certain level ?
+
+868
+01:05:06,126 --> 01:05:11,876
+我参加了最近的一次非洲艾克拉力赛，尽管有个垃圾导航
+I was placed in the last Africa Eco Race despite an asshole navigator.
+
+869
+01:05:12,126 --> 01:05:16,251
+在沙丘上，要是你没个好导航，你就完蛋了！
+And on the dunes, if you don't have a good navigator, you're screwed !
+
+870
+01:05:16,459 --> 01:05:18,751
+我找了你将近半小时
+I've been looking for you for half an hour.
+
+871
+01:05:20,167 --> 01:05:23,126
+- 你能给我一点货吗？   - 干嘛？
+- Can you give me some stuff ?   - What for ?
+
+872
+01:05:23,334 --> 01:05:25,251
+做测试。我会把结果发给你。拿来！
+The tests. I'll send you the file. Give !
+
+873
+01:05:25,459 --> 01:05:27,917
+阿尔贝托，你知道定期服用会上瘾的
+Alberto, you know regular ingestion can lead to addiction.
+
+874
+01:05:28,167 --> 01:05:30,042
+别逗我了！把药给我！
+Don't break my balls ! Give me the pills!
+
+875
+01:05:30,209 --> 01:05:32,459
+悠着点！
+Behave!
+
+876
+01:05:32,626 --> 01:05:34,084
+- 快点！   -等等！
+- Come on !   - Wait !
+
+877
+01:05:34,292 --> 01:05:36,792
+可又不是我！我为什么要说谎？
+But that's not me ! Why would I lie ?
+
+878
+01:05:37,042 --> 01:05:39,292
+得了，我知道是你！
+Stop it, I know it's you !
+
+879
+01:05:39,501 --> 01:05:43,751
+其实，我还认识你们帮派另一个家伙
+In fact, I know that guy there is one of your gang too.
+
+880
+01:05:44,042 --> 01:05:50,751
+什么帮派？哪有帮派。像他那种人会是帮派里的？不可能...
+What gang ? There's no gang. Someone like him in a gang ? No way...
+
+881
+01:05:51,042 --> 01:05:54,042
+- 我认识你们所有人，都认识！   - 这事和我无关
+- I know all of you, I know !   - It's nothing to do with me.
+
+882
+01:05:58,167 --> 01:06:00,251
+不管怎么说我都不明白...
+I don't understand though in what sense...
+
+883
+01:06:08,126 --> 01:06:10,376
+啊，你说的是字面意思？
+Ah, you mean literally ?
+
+884
+01:06:12,209 --> 01:06:14,917
+当然，如果你这样想...
+Of course, if you put it like that...
+
+885
+01:06:18,126 --> 01:06:19,542
+是我
+It's me.
+
+886
+01:06:20,584 --> 01:06:22,084
+可是...
+But...
+
+887
+01:07:03,917 --> 01:07:09,834
+- 阿尔贝托，你在这做什么？   - 吃早餐
+- Alberto, what are you doing here ?   - Having breakfast.
+
+888
+01:07:10,084 --> 01:07:12,042
+我晚上有点累
+I had a bit of a night.
+
+889
+01:07:12,209 --> 01:07:18,459
+阿尔贝托，这两位是不是保镖？
+Alberto, do you think these two are escorts ?
+
+890
+01:07:18,626 --> 01:07:21,501
+我想搞清楚，可她只用俄语回答
+I tried to bring that up, but she only answered in Russian,
+
+891
+01:07:21,667 --> 01:07:22,917
+但是，不，我想不是的
+but no, I don't think so.
+
+892
+01:07:23,167 --> 01:07:24,542
+阿尔贝托，她们是保镖
+Alberto, they're escorts.
+
+893
+01:07:24,751 --> 01:07:27,501
+你觉得那种女孩会看上我们这样的人吗？
+You think girls like that would go with the likes of us ?
+
+894
+01:07:27,667 --> 01:07:29,751
+那是你的看法！我就有更漂亮的女孩看上
+Speak for yourself ! I've had better-looking girls.
+
+895
+01:07:30,042 --> 01:07:34,042
+- 谁？   - 维罗尼卡，博士学位，第二年
+- Who ?   - Veronica, doctorate, second year.
+
+896
+01:07:45,376 --> 01:07:50,209
+我觉得我们得给她们1000欧元
+I think we'll need to give them 1,000 euros.
+
+897
+01:07:50,417 --> 01:07:53,292
+算是出于礼貌
+Just out of politeness.
+
+898
+01:08:15,292 --> 01:08:20,876
+- 你去哪了？已经下午2点了！   - 在大学
+- Where were you ? It's 2pm !   - At university.
+
+899
+01:08:23,042 --> 01:08:28,084
+- 看你满身酒气！   - 我们在用乙醇，所以。。。
+- You stink of alcohol !   - We're using ethanol and so...
+
+900
+01:08:28,334 --> 01:08:32,542
+- 你身上穿着礼服去工作？   - 好啦，朱莉亚，听着
+- You go to work in a tux ?   - Come on, Giulia, please,
+
+901
+01:08:32,751 --> 01:08:37,251
+昨天是我们一个同事的单身汉告别晚会，我们都穿着礼服。。。
+it was a stag night for a colleague and we all dressed up in tuxes...
+
+902
+01:08:37,459 --> 01:08:42,584
+单身汉告别晚会？谁的？哪位同事？
+A stag night ? Whose ? What colleague ?
+
+903
+01:08:43,709 --> 01:08:49,209
+你认识的。。。詹。。。卢卡。。。奇拉。。。
+You know... Gian...luca... Ciarra...
+
+904
+01:08:49,417 --> 01:08:52,584
+瓦那利。詹卢卡·奇拉瓦那利博士
+vanellini. Doctor Gianluca Ciarravanellini.
+
+905
+01:08:52,792 --> 01:08:57,126
+你是不是觉得我很好骗？我们怎么能买得起这些玩意？
+Do you think I'm stupid ? How the fuck did we buy all these things ?
+
+906
+01:08:57,334 --> 01:09:01,251
+3D电视，洗碗机，所有这些该死的外套，你差不多买了300件！
+The 3D TV, the dishwasher, all these fucking jackets, you've got 300 of them !
+
+907
+01:09:01,459 --> 01:09:05,042
+朱莉亚，冷静。我告诉过你的，这都来自2008年起的拨款。。。
+Giulia, calm down. I told you, it's a grant from 2008...
+
+908
+01:09:05,209 --> 01:09:08,126
+我去了大学。他们说已经有几个月没见过你了！
+I went to the university. They say they haven't seen you for months !
+
+909
+01:09:08,334 --> 01:09:09,709
+至于什么长期合同。。。
+As for the long term-contract...
+
+910
+01:09:09,917 --> 01:09:15,501
+第一，别用手指我。第二，别过问我的事
+One, don't lift your hands to me. Two, keep your nose out my business.
+
+911
+01:09:15,709 --> 01:09:18,251
+第三，我本来想告诉你的，我已经有了新的工作
+Three, I was going to tell you, I've got a new job.
+
+912
+01:09:18,459 --> 01:09:22,209
+是吗？种种迹象来看是份高收入的工作！
+Yeah ? A well-paid one by the look of things !
+
+913
+01:09:23,542 --> 01:09:25,626
+- 你从哪拿出来的？   - 你藏在哪就是哪！
+- Where did you get this ?   - Where you hid it !
+
+914
+01:09:25,834 --> 01:09:27,501
+这些该死的钱哪来的？
+Where the fuck is this money from ?
+
+915
+01:09:27,667 --> 01:09:31,834
+这是我跟乔吉奥和马蒂亚一起干的，一项投资。。。
+It's something I'm doing with Giorgio and Mattia, an investment...
+
+916
+01:09:32,084 --> 01:09:37,251
+- 这该死的钱是从哪里来的？   - 你想知道？是吗？该死！
+- Where the fuck is this money from ?   - You wanna know ? You do ? Fuck !
+
+917
+01:09:37,459 --> 01:09:41,126
+我现在是个毒贩！满意了？
+I've become a dealer ! All right ?
+
+918
+01:09:42,042 --> 01:09:45,126
+- 滚你的吧！   - 不，是你滚！
+- Fuck off !   - No, you fuck off !
+
+919
+01:09:45,334 --> 01:09:48,792
+我被大学开掉了！明白吗？我被开掉了！
+I got kicked out the university ! Understand ? I got kicked out !
+
+920
+01:09:49,042 --> 01:09:53,042
+我不知道该怎么办，除了分子理论我一无所长
+I don't know how to do anything, all I can do is theorize molecules,
+
+921
+01:09:53,209 --> 01:09:55,334
+所以我推理出一种能带给我回报的分子结构！
+so I theorized one that gives me what I deserve !
+
+922
+01:09:56,542 --> 01:10:01,626
+这个白痴竟然开始贩毒！而我还以为他有了个新欢！
+This dickhead's started dealing ! And I thought he had a lover !
+
+923
+01:10:02,084 --> 01:10:05,542
+- 新欢？别跑题   - 这个白痴！
+- A lover ? Don't change the subject.   - This dickhead !
+
+924
+01:10:05,834 --> 01:10:10,167
+- 我上班后该怎么讲？   - 朱莉亚，听着，我所做的一切都是为了我们
+- What will I say at work ?   - Giulia, listen, I did it for us,
+
+925
+01:10:10,376 --> 01:10:14,584
+能享受体面的生活，别把它彻底毁了
+to have a decent life, don't blow it out of all proportion.
+
+926
+01:10:14,792 --> 01:10:16,751
+我会攒些钱然后随时可以退出
+I'll save some money then I can quit anytime I like.
+
+927
+01:10:18,417 --> 01:10:20,126
+我该怎么跟我的孩子讲？
+What do I tell my child ?
+
+928
+01:10:20,334 --> 01:10:24,251
+爸爸在牢里，别把它彻底毁了！
+Dad's in jail, don't blow it out of all proportion !
+
+929
+01:10:24,459 --> 01:10:29,459
+朱莉亚，你紧张的时候就会乱说一气。监牢和我有什么。。。
+Giulia, when you're stressed you talk shit. What's jail got to do...
+
+930
+01:10:29,626 --> 01:10:31,001
+什么孩子？
+What child ?
+
+931
+01:10:31,834 --> 01:10:34,417
+彼得罗，我怀孕了
+Pietro, I'm pregnant.
+
+932
+01:10:35,126 --> 01:10:36,459
+你怀孕了？
+You're pregnant ?
+
+933
+01:10:38,042 --> 01:10:40,792
+抱歉，你到底打算什么时候才告诉我？
+I'm sorry, when the fuck were you going to tell me ?
+
+934
+01:10:41,917 --> 01:10:43,417
+你能肯定吗？
+You're sure ?
+
+935
+01:10:43,584 --> 01:10:46,084
+不是臆想型怀孕？
+It's not a hysterical pregnancy ?
+
+936
+01:10:48,334 --> 01:10:49,501
+滚蛋
+Get out.
+
+937
+01:10:54,501 --> 01:10:57,292
+- 彼得罗！很高兴你在这儿   - 朱莉亚把我赶出来了
+- Pietro ! I'm glad you're here.   - Giulia's kicked me out,
+
+938
+01:10:57,501 --> 01:10:59,584
+我得找个地方待几晚
+I need somewhere to stay a couple of nights.
+
+939
+01:10:59,792 --> 01:11:02,876
+巴尔托洛梅奥出了点状况。从辛蒂来了两位男士
+There's a problem with Bartolomeo. There are two Sinti gentlemen here,
+
+940
+01:11:03,126 --> 01:11:05,667
+态度不怎么友好，我不想和他们有瓜葛
+not at all friendly, I don't want anything to do with this.
+
+941
+01:11:05,876 --> 01:11:07,251
+辛蒂？
+Sinti ?
+
+942
+01:11:07,459 --> 01:11:10,584
+别碰我！我自己能走，没必要使用暴力。。。
+Don't touch me ! I can come myself, there's no need for violence...
+
+943
+01:11:10,792 --> 01:11:15,417
+彼得罗，别问为什么，很明显是用辞方面理解有误
+Pietro, don't ask, obviously a linguistic misunderstanding,
+
+944
+01:11:15,584 --> 01:11:18,251
+他们说什么婚姻，我一点都不知道
+they're talking about a marriage I know nothing about.
+
+945
+01:11:19,376 --> 01:11:23,042
+别碰我，我在走。我自己能走。。。
+Don't touch me, I'm coming. I can come on my own...
+
+946
+01:11:29,792 --> 01:11:35,584
+你知道的，这个模型不是用的伊特鲁里亚语，而是大希腊区语
+As you know, the matrix isn't Etruscan, but Magna Graecia.
+
+947
+01:11:35,792 --> 01:11:38,292
+显然客户是伊特鲁里亚人
+The client was Etruscan, obviously.
+
+948
+01:11:38,501 --> 01:11:43,667
+我知道，抱歉，但不幸的是我们找不到更好的地方了
+I know, I'm sorry, but unfortunately we couldn't find anything better.
+
+949
+01:11:43,876 --> 01:11:47,917
+我早就想找个更大点的地方，这里有点挤
+I'm already looking for something bigger, this is a bit cramped,
+
+950
+01:11:48,167 --> 01:11:50,334
+没地方能摆下台球桌，那电影院。。。
+there's no room for the pool table, the movie theater...
+
+951
+01:11:50,501 --> 01:11:55,542
+- 马蒂亚，这些女孩子哪来的？   - 我不太清楚
+- Mattia, who are all these girls ?   - I'm not really sure.
+
+952
+01:11:55,751 --> 01:12:01,667
+从语言学上讲，在泳池里说的是斯拉夫语，但进了屋更像拉美语
+Linguistically at the pool it's Slav, but more Latin-American indoors.
+
+953
+01:12:01,876 --> 01:12:06,792
+姑娘们，那个不是烟灰缸！那是91年Certamen Ciceronianum大奖赛的奖杯！
+Girls, that's not an ashtray ! It's the Certamen Ciceronianum Cup '91 !
+
+954
+01:12:07,042 --> 01:12:11,209
+抱歉，那是国际大赛。92年的已经被你弄丢了
+Sorry, it's an international competition. You've already lost '92.
+
+955
+01:12:11,459 --> 01:12:15,459
+- 阿图罗，你在做什么？   - 穆洛的山墙装饰
+- Arturo, what are you doing ?   - The acroterion of Murlo.
+
+956
+01:12:18,792 --> 01:12:23,876
+这太让人意外了。真正的晴天霹雳
+It was so unexpected. It was a real bolt from the blue.
+
+957
+01:12:24,126 --> 01:12:27,501
+我觉得我已经做好了准备，你知道的，准备做个父亲
+I feel I'm ready. You know, to be a father.
+
+958
+01:12:27,667 --> 01:12:32,792
+我觉得我很失败，我们在一起这么多年
+I feel I'm cut out for it, we've been together for years,
+
+959
+01:12:33,042 --> 01:12:36,792
+有了爱情的结晶本来是多美妙啊
+it would be a lovely thing to put the seal on our love.
+
+960
+01:12:37,376 --> 01:12:42,042
+- 你要不要口活？   - 什么意思，口活？
+- You want a blow job ?   - What do you mean, a blow job ?
+
+961
+01:12:42,209 --> 01:12:46,417
+我说的是某种复杂的个人动力。。。
+I'm talking about personal dynamics of a certain complexity...
+
+962
+01:12:46,584 --> 01:12:52,251
+- 不想要口活吗？   - 不，不要，算了！
+- No blow job ?   - No, no blow job, come on !
+
+963
+01:12:52,459 --> 01:12:54,459
+不是针对个人。当作我接受了吧
+Nothing personal. It's like I accepted.
+
+964
+01:12:55,292 --> 01:12:59,126
+这里有浴室吗？抱歉。口活
+Is there a bathroom here ? I'm sorry. A blow job.
+
+965
+01:13:06,792 --> 01:13:11,917
+你就是个不负责任的杂碎。我讨厌这地方，滚吧！
+YOU'RE AN IRRESPONSIBLE SHIT. I HATE THIS PLACE, FUCK OFF !
+
+966
+01:13:12,334 --> 01:13:15,584
+- 你开始人身攻击了！   - 你也给我滚
+- You're really getting personal !   - YOU FUCK OFF AS WELL.
+
+967
+01:13:15,792 --> 01:13:20,084
+她嫌这个地方太乱了，她想要个只属于我们的地方
+All this chaos gets to her, she'd like a place just for us.
+
+968
+01:13:20,292 --> 01:13:24,792
+她说得对，这地方已经失去控制了。钱改变了他们的思想
+She's right, this lot up there have lost it, the money's changed them.
+
+969
+01:13:25,084 --> 01:13:28,376
+你有没有注意到这地方被妓女填满了？
+Have you noticed this place is full of hookers ?
+
+970
+01:13:28,584 --> 01:13:31,376
+阿尔贝托，那不是那天晚上那个保镖吗？
+Alberto, is that not the escort from the other night ?
+
+971
+01:13:31,584 --> 01:13:34,834
+不，红辣椒不再是保镖了。她现在为我们工作，负责公共关系
+No, Paprika's not an escort any more. She works for us now, does our PR.
+
+972
+01:13:35,626 --> 01:13:38,876
+阿尔贝托，那东西省着点用。你服了多少？
+Alberto, go easy with that stuff. How much are you taking ?
+
+973
+01:13:39,126 --> 01:13:41,001
+别担心！你没必要担心
+Don't worry ! You mustn't worry.
+
+974
+01:13:41,209 --> 01:13:43,334
+这周我会把结果用文件发给你
+I'll send you the file with the results this week.
+
+975
+01:13:43,501 --> 01:13:48,417
+- 阿尔贝托！   - 俄语的意思是“马上来”。酷！
+- Alberto !   - It means coming in Russian. Cool !
+
+976
+01:13:51,292 --> 01:13:54,542
+我要走了，因为她要是生气的话，能把我吓到
+I'm going, cos if she gets pissed, she frightens me a bit.
+
+977
+01:13:57,334 --> 01:14:00,667
+耶！这药不错，彼得罗。这药不错，你应该尝试一下
+Yeah ! It's good, Pietro. It's good, you need to try it.
+
+978
+01:14:00,876 --> 01:14:04,292
+听话，试试，你应该试试
+Be good, try it, you need to try it.
+
+979
+01:14:16,001 --> 01:14:25,042
+我知道我辜负了你的信任。我让你们失望了，你们所有人
+I realize I betrayed your trust. I let you down, all of you.
+
+980
+01:14:27,417 --> 01:14:37,459
+相比1000天这还不到一星期。问题是这种新药，很猛
+Less than a week from 1,000 days. The problem is this new stuff, it's wild.
+
+981
+01:14:37,667 --> 01:14:42,251
+我以前用过药。我又不是雏
+I've taken pills before, I'm no virgin,
+
+982
+01:14:42,417 --> 01:14:46,751
+不过，各位，这让人难以置信，它似乎。。。
+but, guys, this is just unbelievable, it's something...
+
+983
+01:14:47,001 --> 01:14:50,376
+我这辈子从没这么嗨过
+I've never been so high in my life,
+
+984
+01:14:50,584 --> 01:14:55,084
+像是从你胸口喷涌而出的愉悦，一种。。。
+it's like a jet of pleasure coming out your chest, a thing...
+
+985
+01:14:55,292 --> 01:14:59,292
+好了，卢卡，你搞得好像在为这药打广告一样。抱歉
+All right, Luca, all that's missing is the testimonial. Excuse me.
+
+986
+01:15:01,709 --> 01:15:04,626
+有事。肯定的
+Spatial. Definitive.
+
+987
+01:15:07,626 --> 01:15:11,292
+整整三天你都不接电话。让我进去，我们谈谈
+You haven't answered the phone in 3 days. Let me in, let's talk.
+
+988
+01:15:11,459 --> 01:15:14,667
+彼得罗，你是个毒品贩子。你应该感谢我没去举报你
+Pietro, you're a drug dealer. Be grateful I haven't reported you.
+
+989
+01:15:14,876 --> 01:15:22,876
+说了一百次了，我们这个配方在意大利不是违禁药
+For the hundredth time, the molecule we produced is not illegal in Italy.
+
+990
+01:15:23,126 --> 01:15:25,292
+至少在政府清单下次更新前都不是的
+Not till the Ministry's next update, at least.
+
+991
+01:15:25,459 --> 01:15:29,126
+而且我或许是名销售人员，别叫我贩子，我不喜欢！
+And I'm a salesman maybe, don't call me a dealer, I don't like it!
+
+992
+01:15:29,334 --> 01:15:32,417
+朱得亚，朱莉亚。求你！对不起！好吗？
+Giulia, Giulia. Please ! I'm sorry ! OK ?
+
+993
+01:15:32,626 --> 01:15:36,209
+我很抱歉，但是肯定有办法解决这件事，不是吗？
+I'm sorry, but there must be a way to sort things out, no ?
+
+994
+01:15:36,542 --> 01:15:39,876
+你说你随时可以退出。那就退出啊！马上！
+You said you can quit anytime you want. So quit! Now!
+
+995
+01:15:40,126 --> 01:15:44,084
+- 朱莉亚，这事有点复杂   - 这事复杂
+- Giulia, it's complicated.   - It's complicated.
+
+996
+01:15:44,251 --> 01:15:48,209
+这事涉及到了孩子。所以我们必须得谈谈。这也是我的孩子！
+There's a child involved. So we have to talk. It's my child as well !
+
+997
+01:15:48,376 --> 01:15:51,667
+你想谈谈？那就谈吧！继续！我听着呢，谈
+You want to talk ? Talk, then ! Go on ! I'm listening, talk.
+
+998
+01:15:53,084 --> 01:15:58,667
+好吧，可是隔着围栏谈，还有。。。
+All right, but talking with a fence between us, with...
+
+999
+01:15:58,876 --> 01:16:03,334
+一群吸毒鬼在看着，不，我谈不来
+all the junkies watching, no, I can't.
+
+1000
+01:16:03,542 --> 01:16:08,584
+晚餐吧，我就想要共进一次晚餐
+One dinner, that's all I'm asking come to dinner one time.
+
+1001
+01:16:27,334 --> 01:16:31,584
+- 天呐！这是什么玩意？   - 一瓶97年的特级Aspero
+- Goodness ! What is this stuff ?   - A '97 Aspero Superiore,
+
+1002
+01:16:31,792 --> 01:16:35,876
+- 非常罕见，400欧元一瓶   - 这是亚硫酸盐汁！
+- very rare, 400 euros a bottle.   - It's sulfite juice !
+
+1003
+01:16:36,126 --> 01:16:39,417
+你没弄到桑泰尔皮迪奥的Tenuta，德拉龙河？
+You not got a Tenuta Sant'Elpidio, a De la Garonne ?
+
+1004
+01:16:41,084 --> 01:16:45,667
+女士已经来了。我们一会再谈酒的事，这瓶不怎么样
+The lady's here. We'll discuss the wine later, it's not good enough.
+
+1005
+01:16:46,084 --> 01:16:50,709
+抱歉，那位先生已经包下了今晚的整场
+I'm sorry, the gentleman has booked the whole place this evening.
+
+1006
+01:16:54,209 --> 01:17:01,251
+这座位已经预订了，其实整座餐馆都预订了，所以，请。。。
+This seat is taken, as indeed is the whole restaurant, so, please...
+
+1007
+01:17:01,417 --> 01:17:05,251
+你真以为你可以不计后果地造成所有这些混乱吗？
+You really thought you could cause all this chaos with no consequences ?
+
+1008
+01:17:06,501 --> 01:17:07,417
+什么？
+Pardon ?
+
+1009
+01:17:08,417 --> 01:17:12,876
+你和你的屌丝朋友们突然冒出来
+You and your loser friends appearing out of nowhere
+
+1010
+01:17:13,084 --> 01:17:16,667
+在这为所欲为！我该不该生气？
+and doing as you like ! Should I be pissed ?
+
+1011
+01:17:16,876 --> 01:17:20,459
+要是该有人生气的话，应该是我。你只是。。。
+If anyone should be pissed, it's me. You're a...
+
+1012
+01:17:20,667 --> 01:17:23,459
+这他妈是什么？
+What the fuck is this ?
+
+1013
+01:17:24,292 --> 01:17:26,042
+要是由我来做决定的话，我早就一枪崩了你
+If it was up to me I'd have shot you already.
+
+1014
+01:17:26,209 --> 01:17:30,209
+但是市场说了算，而且你做的东西有需求
+But the market is king, and there's a demand for what you make.
+
+1015
+01:17:33,834 --> 01:17:36,459
+你是穆雷纳？
+You're Murena ?
+
+1016
+01:17:39,084 --> 01:17:41,001
+我是你的新雇主
+I'm your new employer.
+
+1017
+01:17:42,584 --> 01:17:46,417
+不，听着，我们不替任何人打工，我们自己干。。。
+No, look, we don't work for anyone, we work for ourselves...
+
+1018
+01:17:46,626 --> 01:17:47,917
+你还没明白
+You don't get it.
+
+1019
+01:17:48,834 --> 01:17:50,292
+后天
+Day after tomorrow,
+
+1020
+01:17:50,459 --> 01:17:54,584
+给我带10公斤那些你和你朋友们做出来的可爱药丸
+bring me 10 kilos of those lovely pills you and your friends make,
+
+1021
+01:17:54,792 --> 01:17:56,209
+然后我们再说
+and then we'll see.
+
+1022
+01:18:00,626 --> 01:18:04,626
+10公斤？两天内？你知道吗？我不干！
+Ten kilos ? In two clays ? You know what ? I'm doing nothing !
+
+1023
+01:18:04,834 --> 01:18:12,667
+你不知道我是谁！你不能就这么拿枪指着我然后。。。
+You don't know who I am ! You can't just point your gun and...
+
+1024
+01:18:13,209 --> 01:18:15,626
+你女朋友叫什么来着？
+What's your girlfriend called ?
+
+1025
+01:18:17,042 --> 01:18:21,917
+那个社会服务人员，是不是？好吧！
+The social worker, isn't she ? All right !
+
+1026
+01:18:33,334 --> 01:18:36,251
+- 该死！   - 朱莉亚？
+- Fuck!   - Giulia ?
+
+1027
+01:18:36,417 --> 01:18:40,542
+不，是阿尔贝托。彼得罗，出事了，别生气。。。
+No, it's Alberto. Pietro, something's happened, don't be angry...
+
+1028
+01:18:40,751 --> 01:18:44,459
+- 我的车失去了控制   - 车？什么车？
+- I lost control of the coupe.   - The coupe ? What coupe ?
+
+1029
+01:18:44,667 --> 01:18:46,417
+- 不，我没事   - 阿尔贝托，听着。。。
+- No, I'm fine.   - Alberto, listen...
+
+1030
+01:18:46,626 --> 01:18:50,334
+我是想把车控制住，但我刚跟红辣椒吵架了。。。
+I was trying to get it out my system, I'd a fight with Paprika...
+
+1031
+01:18:50,501 --> 01:18:52,251
+我没时间！我没时间
+I don't have time ! I don't have time.
+
+1032
+01:18:52,417 --> 01:18:56,167
+不，不，等等。我还有事
+No, no, wait. I called for another reason.
+
+1033
+01:18:56,334 --> 01:18:58,917
+当他们检查汽车时
+When they checked the car,
+
+1034
+01:18:59,126 --> 01:19:05,542
+在车里，他们发现了半公斤我们那种药。。。
+inside, they found half a kilo of our pills...
+
+1035
+01:19:08,084 --> 01:19:11,126
+- 你车上有什么？   - 我没想到他们会检查！
+- What did you have ?   - I didn't think they'd look!
+
+1036
+01:19:11,334 --> 01:19:14,376
+警察都很狡猾，他们非常聪明。我本来不认为。。。
+The police are sneaky, they're clever. I didn't think so...
+
+1037
+01:19:14,751 --> 01:19:17,501
+要是他们问你什么，闭好嘴巴，什么都别说。。。
+If they ask anything, shut up, don't say...
+
+1038
+01:19:17,709 --> 01:19:21,417
+马上把电话挂了。跟我们去警局
+Hang up now. Follow us to the station.
+
+1039
+01:19:21,709 --> 01:19:23,209
+阿尔贝托！
+Alberto !
+
+1040
+01:19:26,667 --> 01:19:29,626
+朱莉亚，你必须离开！我会来接你。。。
+Giulia, you have to get away ! I'll come and get you...
+
+1041
+01:19:29,834 --> 01:19:34,376
+朱莉亚！是她的名字。我把电话给她，我想她有点生气了
+Giulia ! That's her name. I'll put her on, I think she's a bit pissed.
+
+1042
+01:19:36,292 --> 01:19:42,417
+亲爱的，别担心，一切都在控制之中，你不会有事的
+Love, don't worry, it's all under control, nothing will happen to you.
+
+1043
+01:19:42,626 --> 01:19:45,376
+屁的控制！我已经被绑架了
+Under fucking control ! I've been kidnapped.
+
+1044
+01:19:45,584 --> 01:19:49,167
+绑架？不，谈判还在继续，明白吗？
+Kidnap ? No, there are ongoing negotiations, understand ?
+
+1045
+01:19:49,334 --> 01:19:51,167
+开的价太高了。。。
+Things were said...
+
+1046
+01:19:51,334 --> 01:19:54,292
+如果他们想要赎金，你绝不能给
+If they ask for a ransom, don't you pay it.
+
+1047
+01:19:54,459 --> 01:19:57,376
+钱不能给。因为我一旦给放了，我要做的第一件事。。。
+Don't pay it. Because as soon as I'm free, the first thing I'll do
+
+1048
+01:19:57,584 --> 01:20:01,667
+就是打扁你那张无耻的脸，明白吗？蠢货！
+is break your shitty face, do you understand ? Dickhead !
+
+1049
+01:20:03,001 --> 01:20:05,834
+好吧。我想我们算是意见一致了
+All right. I think we've reached an agreement.
+
+1050
+01:20:06,084 --> 01:20:10,417
+别碰她！你不知道我的能力。你不知道！
+Don't touch her ! You don't know what I'm capable of. You don't know !
+
+1051
+01:20:10,792 --> 01:20:13,917
+你能制做药丸。10公斤，后天
+You're capable of making pills. 10 kilos, the day after tomorrow.
+
+1052
+01:20:16,167 --> 01:20:21,501
+穆雷纳，别挂！听我说！穆雷纳！妈的！
+Murena, don't hang up ! Listen to me ! Murena ! Fuck you !
+
+1053
+01:20:23,542 --> 01:20:24,834
+妈的！
+Fuck you !
+
+1054
+01:20:25,876 --> 01:20:31,376
+好，佩里，帮我弄明白这里的事情
+Right, Petrelli, help me understand something here.
+
+1055
+01:20:31,584 --> 01:20:37,751
+交警说你当时在应急车道上时速超过了240公里
+The traffic police say you were in the emergency lane doing 240km/h,
+
+1056
+01:20:38,001 --> 01:20:46,376
+车是三天前以800欧元一天租的一辆银灰色4002轿车
+in a metallic grey 4002 coupe, rented three days ago at 800 euros a day.
+
+1057
+01:20:46,584 --> 01:20:51,167
+作为一个洗碗工，你的待遇很不错啊
+For a dishwasher, you look after yourself.
+
+1058
+01:20:51,334 --> 01:20:55,126
+接下来是后座上的八千欧元现金
+Then on the rear seat there were 8,000 euros cash,
+
+1059
+01:20:55,334 --> 01:20:58,376
+- 一根警棍和一支瓦斯手枪   - 自卫用的
+- a night stick and a gas pistol.   - For self-defense.
+
+1060
+01:20:58,584 --> 01:21:04,126
+但是真正让我感兴趣的是这袋子里装的半公斤药丸
+But what interests me is this bag we found with half a kilo of pills
+
+1061
+01:21:04,334 --> 01:21:09,834
+现在正在试验室里检验，不过我倒是想猜猜看那是什么
+which are being tested at the lab, but I'd take a guess at what it is.
+
+1062
+01:21:10,126 --> 01:21:12,501
+但是不管怎么说那是一个完全合法的配方
+But anyway it's a perfectly legal molecule.
+
+1063
+01:21:12,709 --> 01:21:16,501
+- 谁这样说？   - 政府部门有个清单。。。
+- Says who ?   - The Ministry has a list...
+
+1064
+01:21:16,751 --> 01:21:21,376
+- 这些东西你是怎么知道的？   - 卫生部的网站上有
+- How do you know all this ?   - It's on the Health Ministry site.
+
+1065
+01:21:21,584 --> 01:21:25,292
+- 我可以在电脑上给你看一下   - 你想耍我吗？
+- I'll show you on the computer.   - You trying to piss me off ?
+
+1066
+01:21:25,584 --> 01:21:29,292
+我们非常清楚你放在车里的药
+We know the drug you had in the car really well.
+
+1067
+01:21:31,417 --> 01:21:35,626
+你加入了那个研究员帮派？脑子坏了吗？
+You're in the researchers' gang ? What's wrong ?
+
+1068
+01:21:35,834 --> 01:21:42,126
+你们以为我们什么都不知道，你们能够为所欲为？
+You thought we didn't know anything, that you could what you liked ?
+
+1069
+01:21:42,334 --> 01:21:45,001
+关于精神药剂你想不想说点什么？
+You wanna have a talk about smart drugs ?
+
+1070
+01:21:45,917 --> 01:21:49,584
+科勒蒂，是谁负责告诉政府关于新药剂的出现？
+Coletti, who tells the Ministry about the new substances ?
+
+1071
+01:21:49,792 --> 01:21:52,667
+是我们，就从这间办公室，探长
+We do, from this office, Inspector.
+
+1072
+01:21:52,876 --> 01:21:55,667
+所以说你来对地方了，阿尔贝托！
+So you're in the right place, Alberto !
+
+1073
+01:21:55,876 --> 01:21:57,417
+但我什么都不知道
+But I don't know anything.
+
+1074
+01:21:57,626 --> 01:22:02,126
+我只知道你不能这样抓我，我有权见律师！
+All I know is you can't hold me like this, I have the right to a lawyer !
+
+1075
+01:22:02,334 --> 01:22:06,084
+好了，好了，我们面前就有一个
+All right, all right, you've got one over us for now.
+
+1076
+01:22:06,292 --> 01:22:09,417
+我不知道你是从哪弄到的这个配方，但是你知道
+I don't know where you got this molecule from, but you did,
+
+1077
+01:22:09,626 --> 01:22:13,417
+现在这个配方变成非法的只是个时间问题
+and now it's only a question of time until the molecule becomes illegal.
+
+1078
+01:22:15,334 --> 01:22:17,709
+其他人是谁，阿尔贝托？
+Who are the others, Alberto ?
+
+1079
+01:22:29,876 --> 01:22:33,251
+别在这瞎扯了！停！
+Stop it with this bullshit ! Stop it !
+
+1080
+01:22:33,417 --> 01:22:39,584
+我们去找个律师把他弄出来。我们不清楚警察手里有什么
+We'll get a lawyer and get him out. We don't know what the cops have.
+
+1081
+01:22:39,792 --> 01:22:43,667
+你没在听。阿尔贝托跟红辣椒说过，他们全都知道了。有什么好笑的？
+You're not listening. Alberto has been speaking to Paprika, they know everything. What's so funny ?
+
+1082
+01:22:43,876 --> 01:22:48,334
+但为什么是红辣椒？现在问题出在红辣椒身上。她的可靠度。。。
+But why Paprika ? The problem's Paprika now. Her reliability...
+
+1083
+01:22:48,876 --> 01:22:52,084
+你们能不能认真听一下？我们必须干一件事
+Will you listen for a moment ? We have to do one thing.
+
+1084
+01:22:52,251 --> 01:22:55,001
+做最后一单，然后我们解散帮派分散开来
+Do the last deal, then we break up the gang and split up.
+
+1085
+01:22:55,209 --> 01:22:57,501
+- 那阿尔贝托呢？   - 去他的阿尔贝托！
+- And Alberto ?   - Fuck Alberto !
+
+1086
+01:22:57,709 --> 01:23:02,209
+他是个喜欢飙车，整天与妓女为伴的吸毒鬼
+He's a junkie who goes with hookers, crashing sports cars.
+
+1087
+01:23:02,376 --> 01:23:05,667
+阿尔贝托会害我们全部进监狱的，懂吗！醒醒！
+Alberto is going to send us all to jail, please ! Come on !
+
+1088
+01:23:07,501 --> 01:23:10,917
+我们可以自首。考虑到减刑因素
+We could give ourselves up. With the mitigating factors
+
+1089
+01:23:11,167 --> 01:23:13,209
+我们能得到一个有利的判决
+we might get a very favorable sentence.
+
+1090
+01:23:13,376 --> 01:23:16,167
+抱歉，抱歉，一个问题
+Excuse me, excuse me, one question.
+
+1091
+01:23:16,334 --> 01:23:20,251
+我们在试着怎么把一个人弄出监狱
+We're trying to work out how to get someone out of jail,
+
+1092
+01:23:20,417 --> 01:23:24,626
+可你却想让大家都进监狱，你脑子进水了吗？
+and you want us all to go to prison, what the fuck is wrong with you ?
+
+1093
+01:23:24,834 --> 01:23:26,417
+这只是个建议
+It was just a suggestion.
+
+1094
+01:23:26,626 --> 01:23:31,292
+你知道我想不明白哪一点吗？你从什么时候开始有权力开口的？
+You know what I don't get ? Since when did you have the right to speak ?
+
+1095
+01:23:31,459 --> 01:23:35,917
+你就是靠你那辆卡车才能留在这。还记得吗？
+You're only here cos you have a truck. You remember that ?
+
+1096
+01:23:36,167 --> 01:23:39,376
+是那个做了金融计划的高级金融天才说的。。。
+Said the genius of high finance with his financial plan...
+
+1097
+01:23:39,584 --> 01:23:42,917
+是谁付的钱？谁把钱弄来让这个业务开动的？
+Who paid up ? Who found the money to start this business ?
+
+1098
+01:23:43,167 --> 01:23:47,084
+是谁用他的鼻血换来的钱？他们用暴力让我结婚！
+Who paid with his nasal septum ? They want me to get married !
+
+1099
+01:23:47,251 --> 01:23:50,084
+我愿不愿意是另外一回事，不过别再说废话了！
+That I won't is another thing, but don't talk shit !
+
+1100
+01:23:50,292 --> 01:23:52,084
+这真是太无礼了
+This really is disrespectful.
+
+1101
+01:23:52,251 --> 01:23:54,001
+彼得罗，我不想进监狱
+Pietro, I don't want to go to jail.
+
+1102
+01:23:54,209 --> 01:23:58,001
+谁都不会去监狱。我们再做最后一次
+Nobody's going to jail. We do it one last time.
+
+1103
+01:23:58,209 --> 01:24:03,334
+10公斤。1公斤10万，总共100万
+Ten kilos. 100,000 a kilo. A million.
+
+1104
+01:24:03,542 --> 01:24:06,876
+- 这100万卖给谁？   - 批发，给穆雷纳
+- Who do we sell a million to ?   - Wholesale. To Murena.
+
+1105
+01:24:07,126 --> 01:24:08,501
+- 谁？   - 穆雷纳
+- Who ?   - Murena.
+
+1106
+01:24:08,709 --> 01:24:11,751
+卖给穆雷纳？我打电话给他
+To Murena ? I'll call him.
+
+1107
+01:24:12,001 --> 01:24:16,292
+穆雷纳先生，我们见下面。。。我们提供10公斤给你，你给我们100万
+Mr. Murena, let's meet at...we give you 10 kilos, you give us 1 million.
+
+1108
+01:24:16,459 --> 01:24:20,709
+好了？他手里有枪，把我们干掉之后拿货走人。多棒的点子
+All right ? He gets a gun, shoots us and takes the stuff. Great idea.
+
+1109
+01:24:20,917 --> 01:24:25,792
+不，我们有更好的交易地点，那里的人比他要危险得多
+No, we have a place for the deal with more dangerous people than him.
+
+1110
+01:24:26,334 --> 01:24:28,334
+- 在哪？   - 你的婚礼
+- Where ?   - Your wedding.
+
+1111
+01:24:28,542 --> 01:24:33,167
+去你妈的！干嘛总盯着我？没看见我的脸成什么样了吗？
+Fuck off ! Why is it always me ? Have you seen my face ?
+
+1112
+01:24:33,334 --> 01:24:36,542
+- 什么意思？   - 无论如何都不行
+- Why ?   - It can't be done anyway.
+
+1113
+01:24:36,751 --> 01:24:41,584
+10公斤的药丸，上哪去找这么多丁香酚？去抢药店？
+10 kilos of pills, where will be get the eugenol ? Robbing a pharmacy ?
+
+1114
+01:24:48,126 --> 01:24:49,792
+我们要去抢药店？
+We're robbing a pharmacy ?
+
+1115
+01:25:00,501 --> 01:25:02,709
+- 怎么样？   - 做任何事都要有个限度
+For example, there's a limit to everything.
+
+1116
+01:25:02,917 --> 01:25:07,251
+为什么我们做的每件事都要这么离奇曲折？
+Why does everything we do have to have a surreal twist ?
+
+1117
+01:25:07,417 --> 01:25:09,792
+这玩意可以为我们的可靠度加多少分？
+What is the temperature of our credibility with this stuff ?
+
+1118
+01:25:10,084 --> 01:25:12,584
+你疯了吗？它们来自拿破仑的意大利战役
+Are you mad ? These are from Napoleon's Italian campaign,
+
+1119
+01:25:12,792 --> 01:25:15,126
+我们才把它们收进帝峰皇店的目录
+we just catalogued them for the Hermitage.
+
+1120
+01:25:15,334 --> 01:25:18,251
+它们来自曼图亚第二次攻防战，由Tunz将军指挥的！
+These are from the second siege of Mantua, with General Tunz !
+
+1121
+01:25:18,417 --> 01:25:21,334
+- 好吧，可是它们还能开火吗？   - 它们好用得很
+- Yes, but do they shoot ?   - They work perfectly.
+
+1122
+01:25:21,501 --> 01:25:25,084
+- 我们干嘛要开枪？   - 以防万一的
+- Why do we have to shoot ?   - They're for if things go wrong.
+
+1123
+01:25:25,292 --> 01:25:27,751
+什么意思，以防万一？
+What does that mean, if things go wrong ?
+
+1124
+01:25:28,001 --> 01:25:29,501
+我说的就是！以防万一！
+What I said ! If things go wrong !
+
+1125
+01:25:29,709 --> 01:25:32,251
+这样某些人就不会再唠叨我仅仅是因为有辆车才在这的
+So someone will stop saying I'm only here for the truck.
+
+1126
+01:25:32,417 --> 01:25:36,001
+各位，我是这里唯一一个自欺欺人的吗？
+Guys, am I the only person here shitting himself ?
+
+1127
+01:25:37,126 --> 01:25:41,209
+而且我们还有刺刀。要是用得上的话
+And we also have bayonets. If we need.
+
+1128
+01:25:48,542 --> 01:25:50,292
+- 举起手来，蠢货！   - 这是他妈什么玩意？
+- Hands up, dickhead !   - What the fuck is this ?
+
+1129
+01:25:50,459 --> 01:25:53,209
+手不要碰柜台，敢碰报警器我就开枪
+Hands off the counter, don't hit the alarm or I'll shoot.
+
+1130
+01:25:53,376 --> 01:25:55,501
+想死是吗？把该死的手拿开！
+You wanna die ? Move your fucking hands !
+
+1131
+01:25:55,709 --> 01:25:57,542
+这里没有报警器！我们不是在美国！
+There is no alarm ! We're not in America !
+
+1132
+01:25:57,751 --> 01:26:00,501
+他说得对，可怜的家伙，这里不是银行，是药店！
+He's right, poor thing, it's not a bank, it's a pharmacy !
+
+1133
+01:26:00,709 --> 01:26:03,542
+我现在很紧张！能不能别打断我的话？
+I'm applying psychological pressure ! Why are you breaking my balls ?
+
+1134
+01:26:03,751 --> 01:26:06,001
+- 因为你话太多了   - 我干我必须做的事。快走！
+- Because you're too much.   - I do what I have to do. Move !
+
+1135
+01:26:06,209 --> 01:26:08,876
+带我们去药品库。我们要所有含丁香酚的东西
+Take us to the drugs store. We want everything that contains eugenol.
+
+1136
+01:26:09,126 --> 01:26:10,667
+香波、沐浴液等等！
+Shampoo, bath foam, everything !
+
+1137
+01:26:10,876 --> 01:26:14,084
+你看什么？聋了吗？带我们去库房！
+What are you looking at ? Are you deaf ? Take us to the store !
+
+1138
+01:26:15,376 --> 01:26:21,376
+兹尼教授！4个月前我还接受您的计算化学考试来着。。。
+Professor Zinni ! I sat computational chemistry with you four months ago...
+
+1139
+01:26:21,917 --> 01:26:24,751
+我觉得好奇怪哦，看见你们拿着刺刀站在那儿！
+I thought it was strange, standing there with bayonets !
+
+1140
+01:26:25,001 --> 01:26:27,834
+这算不算是一个人在压力下会有什么反应的测试？
+Is this a test to see how people react under stress ?
+
+1141
+01:26:32,001 --> 01:26:36,876
+- 搞什么鬼？   - 安德里亚说过要是出了什么岔子，我们就开枪
+- What the fuck ?   - If things go wrong, we shoot.
+
+1142
+01:26:37,126 --> 01:26:40,751
+- 他认出你来了！   - 我什么都没对你说过！
+- He recognized you !   - I didn't say anything to you !
+
+1143
+01:26:41,001 --> 01:26:42,292
+我们就这样杀了人？
+We're shooting people now ?
+
+1144
+01:26:42,459 --> 01:26:44,167
+你们疯了吗？你们在干什么？
+Are you mad ? What are you doing ?
+
+1145
+01:26:44,334 --> 01:26:47,292
+你本该望风的，看有没有人过来
+You're supposed to be the lookout, see if anyone's coming.
+
+1146
+01:26:47,459 --> 01:26:50,251
+当然是有人来了！现在就像列宁格勒包围战！
+Of course someone's coming ! It's like the Siege of Leningrad, this is !
+
+1147
+01:26:50,417 --> 01:26:53,501
+把你的脸遮起来，有摄像头！
+Cover your face, there are cameras !
+
+1148
+01:26:53,709 --> 01:26:56,834
+我去把卡车开来。动作快点！我在外面等着
+I'm going for the truck. Hurry up ! I'll be waiting outside.
+
+1149
+01:26:57,792 --> 01:27:00,084
+现在我们把需要的东西带走
+Now we'll take what we need and leave.
+
+1150
+01:27:00,251 --> 01:27:03,751
+我们拿什么呢？库房门有密码锁
+What are we taking ? The storeroom has a combination lock.
+
+1151
+01:27:04,001 --> 01:27:06,167
+你觉得他会输入密码？
+You think he can punch in numbers ?
+
+1152
+01:27:06,334 --> 01:27:11,376
+他在装呢！我瞧过了。药店的人一向如此！
+He's acting ! I just grazed him. Pharmacists always act like that !
+
+1153
+01:27:12,709 --> 01:27:14,084
+哦，老天，他状况不太好！
+Oh, God, he's in a bad way !
+
+1154
+01:27:14,292 --> 01:27:18,709
+我不能望了，我要吐了。能不能给我点止吐药？
+I can't watch, I'll throw up. Can you get me an antiemetic ?
+
+1155
+01:27:18,917 --> 01:27:22,084
+- 他认识你，我们得把他杀了   - 马蒂亚，搞什么？
+- He knows you, we have to kill him.   - Mattia, what the fuck ?
+
+1156
+01:27:22,251 --> 01:27:25,376
+我没想开枪，只是一时紧张走火了
+I didn't mean to shoot, it went off with the nerves.
+
+1157
+01:27:25,584 --> 01:27:28,834
+- 紧张？   - 总之，他认出你了
+- The nerves ?   - Anyway, he recognized you.
+
+1158
+01:27:29,084 --> 01:27:31,334
+- 我们都会被抓起来的   - 那么你是想打死他喽？
+- We'll all be arrested.   - So you want to shoot him ?
+
+1159
+01:27:31,542 --> 01:27:34,626
+还能怎么办？消除他的记忆？嗯？
+What else ? Erase his memory ? Eh ?
+
+1160
+01:27:37,876 --> 01:27:41,417
+我们给他包扎一下送进卡车，好吗？
+Let's get some bandages and put him in the truck, all right ?
+
+1161
+01:27:48,542 --> 01:27:55,001
+冷静！这种情况可以从积极的角度去看
+Calm down ! The situation can be viewed from a positive point of view.
+
+1162
+01:27:55,209 --> 01:28:00,417
+1、他还没死 2、交易完成 3、我没结婚
+1, the guy's not dead. 2, the deal's off. 3, I'm not getting married.
+
+1163
+01:28:00,626 --> 01:28:03,709
+不，交易还在进行。而你明天要去结婚
+No, the deal's still on. And you're getting married tomorrow.
+
+1164
+01:28:03,917 --> 01:28:06,126
+我们手上啥都没有的话拿什么交差？
+What pills do we give them if we don't have any ?
+
+1165
+01:28:06,334 --> 01:28:07,501
+我们不用丁香酚了
+We make them without eugenol.
+
+1166
+01:28:07,709 --> 01:28:09,626
+搞成这样子你却说我们可以不用丁香酚？
+After all this we can make them without eugenol ?
+
+1167
+01:28:09,834 --> 01:28:11,001
+- 不全是   - 那么？
+- Not really.   - And ?
+
+1168
+01:28:11,209 --> 01:28:13,876
+- 我还在想   - 他还在想
+- I'm thinking about it.   - He's thinking about it.
+
+1169
+01:28:14,126 --> 01:28:17,626
+彼得罗，说真的，我觉得我们没有时间思考了！
+Pietro, to be frank, I don't think there's any time for thinking !
+
+1170
+01:28:17,834 --> 01:28:19,417
+你必须告诉我们你在做什么
+You have to tell us what you're doing.
+
+1171
+01:28:19,626 --> 01:28:23,251
+这是羟丁酸钠和维柯丁，一种用于嗜睡症，另一种是镇静剂
+This is Xyrem and Vicodin, one's for narcolepsy, the other's an opiate,
+
+1172
+01:28:23,417 --> 01:28:26,251
+- 伽玛羟丁酸   - 是什么东西？
+- gamma-hydroxybutyric acid.   - What's that ?
+
+1173
+01:28:26,417 --> 01:28:29,792
+是一种作用于短期记忆的短链脂肪酸
+It's a short-chain fatty acid that works on the short-term memory.
+
+1174
+01:28:30,084 --> 01:28:32,667
+我们已经搞砸了！我们本该杀了他
+We've screwed up ! We should have killed him.
+
+1175
+01:28:32,876 --> 01:28:34,709
+马蒂亚，让他全喝光
+Mattia, make him drink it all.
+
+1176
+01:28:34,917 --> 01:28:38,167
+- 你想消除他的记忆？   - 我正在做尝试
+- You want to erase his memory ?   - I'm trying to.
+
+1177
+01:28:38,334 --> 01:28:40,626
+- 要是不行呢？   - 要是我没弄准剂量
+- If you can't ?   - If I get the doses wrong,
+
+1178
+01:28:40,834 --> 01:28:44,417
+他会从睡眠状态变成昏迷状态直到死亡！
+He'll go from sleeping to being comatose to dying !
+
+1179
+01:28:44,626 --> 01:28:48,167
+闭嘴！安静一会！抱歉，彼得罗！
+Shut up! Shut up a minute! Excuse me, Pietro !
+
+1180
+01:28:48,334 --> 01:28:53,667
+你是说真的你能让人失去记忆？
+Are you really saying you can make people lose their memories ?
+
+1181
+01:28:53,876 --> 01:28:57,334
+你没意识到你在说什么吗？消除人的记忆！
+Do you realize what you're saying ? Erase people's memories !
+
+1182
+01:28:57,501 --> 01:29:02,126
+先生们，这是生死攸关的大事！
+Gentlemen, this is an important matter of life and death !
+
+1183
+01:29:03,001 --> 01:29:06,667
+- 怎么说？   - 在奥古斯丁罗马王朝之前，僧侣怎么进行占卜？
+- Yes ?    - What did the haruspices do in pre-Augustinian Rome ?
+
+1184
+01:29:06,876 --> 01:29:10,584
+面对凶兆，僧侣会要求终止行动
+Faced with a bad omen, the haruspex said to abandon the operation.
+
+1185
+01:29:10,792 --> 01:29:13,876
+- 我们不会终止行动的   - 但是历史很少说谎！
+- We're not abandoning anything.   - But history rarely lies !
+
+1186
+01:29:14,126 --> 01:29:18,542
+我才不管！我们说的是做最后一单，而现在我们做的就是
+I don't care ! We said we're doing a last deal and we're doing it.
+
+1187
+01:29:18,751 --> 01:29:20,376
+我们手里没有药丸的话，拿什么给穆雷纳？
+What will we give Murena if we've no pills ?
+
+1188
+01:29:20,584 --> 01:29:24,792
+我钱包里还有一个。给！
+They're not finished, I've got one in my wallet. Here !
+
+1189
+01:29:25,084 --> 01:29:28,751
+- 零号。我知道   - 各位，相信我
+The number zero. I know. Guys, trust me.
+
+1190
+01:29:29,001 --> 01:29:31,459
+- 你现在给谁打电话呢？   - 我曾经授过课的家伙
+- Who are you calling now ?   - A guy I give lessons to.
+
+1191
+01:29:31,667 --> 01:29:33,751
+我们现在受制于一群毛孩子！
+Now we're in the hands of some adolescent !
+
+1192
+01:29:34,001 --> 01:29:39,376
+毛里齐奥，我是兹尼教授。没事，一切正常
+Maurizio, it's Professor Zinni. No, everything's fine.
+
+1193
+01:29:39,584 --> 01:29:44,084
+只是有件事。你父亲那家餐饮公司还开着吗？
+Just one thing. Does your father still have that catering company ?
+
+1194
+01:30:19,542 --> 01:30:23,542
+为什么我是七人中唯一一个要做出自我牺牲的？
+Why am I the only one out of seven people who has to sacrifice himself ?
+
+1195
+01:30:23,751 --> 01:30:29,376
+又不是领证。只是民间仪式罢了。就像嘉年华
+It's not registered. It's folklore. It's like Carnival.
+
+1196
+01:30:29,626 --> 01:30:32,834
+- 他们来了。我们开始   - 我是认真的
+- They're here. Let's start.   - I mean it.
+
+1197
+01:30:35,542 --> 01:30:38,459
+再怎么说，这套西装不错！
+This suit is cool, though !
+
+1198
+01:30:39,876 --> 01:30:44,084
+彼得罗，这么紧张的局面让我心动过速
+Pietro, all this tension is causing me a bit of tachycardia.
+
+1199
+01:30:44,292 --> 01:30:48,417
+当我年轻的时候，我的心脏被诊断出有个小洞
+When I was young, I was diagnosed with a little hole in my heart.
+
+1200
+01:30:48,626 --> 01:30:51,751
+因此我不得不终止了体育运动
+That's why I had to stop doing sports.
+
+1201
+01:30:52,001 --> 01:30:54,417
+- 我明白   - 我本来有个美好的前途
+- I understand.   - I had a promising career.
+
+1202
+01:30:54,626 --> 01:30:57,126
+阿图罗，别担心，不会有事的
+Arturo, don't worry, nothing will happen.
+
+1203
+01:30:57,334 --> 01:30:59,376
+那些人手里可是真家伙。要是他们开枪怎么办？
+These guys have got real guns. What if they shoot ?
+
+1204
+01:30:59,584 --> 01:31:05,334
+辛蒂式婚礼本身就很危险，没人会冲我们开枪的
+A Sinti wedding is very dangerous in itself, nobody will shoot at us.
+
+1205
+01:31:06,084 --> 01:31:10,292
+看，穆雷纳把他的合伙人带来了
+Look, Murena has brought his partner.
+
+1206
+01:31:10,459 --> 01:31:16,001
+合伙人，典型的皮条客的女人，一个妓女
+Partner, the classic pimp's woman, a hooker,
+
+1207
+01:31:16,209 --> 01:31:22,584
+站街的，娼妇，不要脸的鸡，荡妇，臭婊子。。。
+peripatetic, a whore, a slapper clearly, a slut, a big tart...
+
+1208
+01:31:22,792 --> 01:31:25,751
+看她那张脸，好像在哪见过的样子
+Look at her. She's been round the block.
+
+1209
+01:31:26,001 --> 01:31:28,792
+这不是马戏，这是魔术
+This is no circus, this is for conjurors.
+
+1210
+01:31:29,084 --> 01:31:33,209
+- 阿图罗，知道了，马上闭嘴！   - 好吧，我知道了，不说了
+- Now you see it, now you don't !   - OK, I get it, stop it.
+
+1211
+01:31:33,376 --> 01:31:38,376
+你看，她和你女朋友长得挺像的，别介意
+You know, she's not unlike your girlfriend, no offence.
+
+1212
+01:31:38,584 --> 01:31:41,417
+阿图罗，她就是我女朋友！
+Arturo, she is my girlfriend !
+
+1213
+01:31:41,834 --> 01:31:45,751
+接下来，籍由赋予我的权力，我宣布你们成为夫妻
+And so, by the powers conferred on me, I declare you man and wife.
+
+1214
+01:31:47,334 --> 01:31:54,001
+请等一下。在庆祝之前有一个小小的仪式
+Just one moment. There's one small formality before the celebrations,
+
+1215
+01:31:54,209 --> 01:31:56,584
+在这里签下字，我们就结束了
+one signature here and that's us finished.
+
+1216
+01:31:57,959 --> 01:32:03,459
+- 这只是个仪式，对不对？   - 什么意思？
+- It's all folklore, isn't it ?   - In what sense ?
+
+1217
+01:32:04,376 --> 01:32:08,709
+- 我是说，我要是签了字。。。   - 就算在市政厅注册结婚了
+- I mean, I'm just signing...   - It's for the town hall.
+
+1218
+01:32:10,126 --> 01:32:11,876
+你什么意思，市政厅？
+What do you mean, for the town hall ?
+
+1219
+01:32:15,876 --> 01:32:19,834
+- 10公斤。要是你想称一下的话   - 没必要。我相信你
+- 10 kilos. If you want to weigh it.   - No need. I trust you.
+
+1220
+01:32:20,042 --> 01:32:25,959
+不过我得试用一下。给我弄点喝的来，你们俩！
+But I need to try them. get me something to drink, both of you !
+
+1221
+01:32:34,209 --> 01:32:38,834
+彼得罗，我必须得告诉你，你弄的这玩意真不错
+Pietro, I have to tell you, this stuff of yours is really good.
+
+1222
+01:32:39,042 --> 01:32:41,709
+以前我并不认为你可以领导他们
+I couldn't tell you before for leadership reasons.
+
+1223
+01:32:41,876 --> 01:32:46,292
+以及你们工作的方式，不过你确实组织了一个很专业的团队
+The way you guys work as well, you've got a professional group.
+
+1224
+01:32:46,501 --> 01:32:51,376
+通常我不得不靠手下这些尼安德特人维持生意。。。
+I always had to kind of get by with these Neanderthals I've got...
+
+1225
+01:32:53,042 --> 01:32:56,792
+。。。但有一次也不是那样，像我们这样的人不多
+...but one time it wasn't like that, there weren't many like us.
+
+1226
+01:32:57,792 --> 01:33:02,709
+- 像我们？   - 像我们。人家为什么叫我穆雷纳？
+- Like us ?   - Like us. Why am I Murena ?
+
+1227
+01:33:03,709 --> 01:33:07,001
+因为你是个坏蛋，用了一个和鳝鱼一样的名字？
+Because you're a bad guy, like the eel of the same name ?
+
+1228
+01:33:07,209 --> 01:33:12,292
+不，穆雷纳，就像二战时的意大利皇家海军的海神级潜艇
+No, Murena, like the old World War II Triton-class submarine.
+
+1229
+01:33:12,501 --> 01:33:15,709
+他是个海军工程师，白痴！
+He's a naval engineer, dickhead !
+
+1230
+01:33:15,876 --> 01:33:21,834
+这是家族传统，我祖父设计了龙骨
+It's a family tradition, my grandfather designed the keel.
+
+1231
+01:33:22,042 --> 01:33:27,834
+我擅长流体动力，之后我被踢出了大学校门
+I specialized in fluid dynamics, then I got kicked out of university.
+
+1232
+01:33:28,042 --> 01:33:29,709
+把那个给我
+Give me that.
+
+1233
+01:33:35,834 --> 01:33:36,709
+干杯
+Cheers.
+
+1234
+01:33:48,376 --> 01:33:51,292
+挺不错，放到车里去吧
+It's good, put it in the car,
+
+1235
+01:33:56,834 --> 01:34:02,709
+拿去。照顾好你们自己，我会随时跟你们联系。再见，小姑娘
+Here. Look after yourself, I'll be in touch. Bye, kid.
+
+1236
+01:34:14,792 --> 01:34:19,709
+你告诉过我要多积累点经验，我不再想当个乖宝宝了
+You told me to get some experience, I was too much of a good kid.
+
+1237
+01:34:19,834 --> 01:34:22,167
+我确实把建议听进去了！
+Talk about slavishly following advice !
+
+1238
+01:34:22,376 --> 01:34:26,917
+信使报的社会新闻第一页！书呆子帮派
+Page 1 of the city news in II Messaggero ! The Nerd Gang.
+
+1239
+01:34:27,126 --> 01:34:29,876
+接下来是共和报，我觉得有点摩尼教的味道
+Then La Repubblica which I think was a bit Manichean,
+
+1240
+01:34:30,084 --> 01:34:32,584
+他们把我们描述成一个研究生吸毒者的帮派，太扯了
+they made us out to be a gang of graduate junkies which isn't true,
+
+1241
+01:34:32,834 --> 01:34:35,376
+因为我们都有博士学位，而且只有一个人吸毒
+because we've all got doctorates and only one of us was using,
+
+1242
+01:34:35,584 --> 01:34:38,001
+同时他们还谈到了保镖的情况
+and then it was a bit suggestive with the escorts angle.
+
+1243
+01:34:38,209 --> 01:34:43,584
+重中之重的是，一篇大作，来自我读报，你能看到
+Last but not least, the masterpiece, Leggo, which you'll have seen,
+
+1244
+01:34:43,834 --> 01:34:46,834
+带有法布隆尼的社论，一个评论作家。我来念一下
+with an editorial by Fabbroni, a writer of some note. I'll read it.
+
+1245
+01:34:47,042 --> 01:34:49,042
+- 不，等等   - 我来念一下
+- No, wait.   - I'll read it.
+
+1246
+01:34:49,251 --> 01:34:53,751
+你在那夸夸其谈，让我头很痛。这故事编得漏洞百出
+When you talk, I get a headache. This story is full of holes.
+
+1247
+01:34:53,917 --> 01:34:57,709
+这桩交易中的100万去哪了？
+This million from the deal, where did it go ?
+
+1248
+01:34:58,126 --> 01:35:01,834
+哪也没去。根本就没有那100万。彼得罗把我们骗了
+To nobody. There was no million. Pietro cheated us,
+
+1249
+01:35:02,042 --> 01:35:05,251
+真正的交易是用10公斤药丸交换朱莉亚
+the deal was ten kilos of pills in exchange for Giulia.
+
+1250
+01:35:05,459 --> 01:35:08,167
+- 但那些药丸是假的啊？   - 它们是用糖做的
+- But the pills were fake ?   - They were made of sugar.
+
+1251
+01:35:08,376 --> 01:35:12,001
+是治疗精神病用的香槟，这要谢谢零号药丸
+It was the champagne that was psychotropic thanks to the zero pill.
+
+1252
+01:35:12,209 --> 01:35:15,209
+- 毛里齐奥，听我说   - 说吧，我现在很激动！
+- Maurizio, listen to me.   - Tell me, I'm all fired up!
+
+1253
+01:35:15,417 --> 01:35:19,001
+听我说！在一个特定的时间，他们会要你提供一杯饮料
+Listen to me ! At a certain point, they'll ask you for a drink.
+
+1254
+01:35:19,209 --> 01:35:22,001
+我们就只有这个，你必须把它放进饮料里。非常重要！
+This is all we have, you have to put it in the drink. It's important !
+
+1255
+01:35:22,209 --> 01:35:24,209
+我早就知道你是个中强手！
+I knew you were a real hot shot !
+
+1256
+01:35:24,417 --> 01:35:27,001
+毛里齐奥！他们是真正的坏蛋，他们会开枪的！
+Maurizio ! These are real bad guys, they'll shoot us !
+
+1257
+01:35:27,209 --> 01:35:28,459
+酷！
+Cool !
+
+1258
+01:35:28,709 --> 01:35:29,917
+不，不，这杯不能拿！
+No, no, not that one !
+
+1259
+01:35:40,917 --> 01:35:43,001
+很不错。放进车里吧
+It's good. Put it in the car.
+
+1260
+01:35:43,417 --> 01:35:44,334
+那个药剂师呢？
+And the pharmacist ?
+
+1261
+01:35:44,542 --> 01:35:48,751
+彼得罗需要他把阿尔贝托弄出来。我们不能把他一个人留在监狱里
+Pietro needed him to get Alberto out. We couldn't leave him in jail.
+
+1262
+01:35:48,917 --> 01:35:53,876
+- 闭嘴！   - 听我说，安静！听我说，听我说，听我说！
+Shut up ! Listen to me, quiet ! Listen to me, listen to me, listen to me !
+
+1263
+01:35:54,084 --> 01:35:57,917
+去找彼得罗，他们对帮派的事了如指掌，精神药剂，穆雷纳！
+Go to Pietro, they know everything about the gang, smart drugs, Murena !
+
+1264
+01:35:58,126 --> 01:36:01,084
+- 我们全都会被抓起来的！明白吗？   - 不懂   - 还不明白？
+They'll arrest us all ! Understand ? Niet ?
+
+1265
+01:36:01,292 --> 01:36:04,084
+这么说你打算去投案？
+So you're handing yourself in ?
+
+1266
+01:36:04,292 --> 01:36:09,876
+不，我去申请认罪宽恕。我来对我们做的一切负全责
+No, I'm plea bargaining. I accept responsibility for all we did,
+
+1267
+01:36:10,084 --> 01:36:14,376
+- 但你得放了其他人一马   - 我凭什么这么做呢？
+- but you have to let the others be.   - And why would I do that ?
+
+1268
+01:36:14,584 --> 01:36:20,876
+因为我会把穆雷纳交给你们。你们要做的就是在公路尽头放个路障
+Because I'll give you Murena. All you need is a road block on the Casilino.
+
+1269
+01:36:21,084 --> 01:36:23,834
+在卡车里，你们能找到足够判他10年的东西
+In the trunk, you'll find enough to put him away for ten years.
+
+1270
+01:36:24,042 --> 01:36:27,834
+<i>计划是在穆雷纳带着10公斤药的时候抓到他</i>
+<i>The plans was to let Murena get caught with 10 kilos.</i>
+
+1271
+01:36:28,042 --> 01:36:32,334
+- <i>但是你说那些是假药</i>   - <i>其实，还有B计划</i>
+<i>- But you said they were false.   - In fact, there was a plan B.</i>
+
+1272
+01:36:32,542 --> 01:36:38,584
+<i>正因为如此，我们必须得找到一个能让穆雷纳被捕的方法</i>
+<i>Because of that, we had to find a way to get Murena arrested,</i>
+
+1273
+01:36:38,834 --> 01:36:43,792
+<i>而绑架是最好的方法。那个药剂师什么都不会记得</i>
+<i>and kidnap was the best way. The pharmacist wouldn't remember a thing.</i>
+
+1274
+01:36:45,834 --> 01:36:47,501
+<i>其他人呢？</i>
+<i>What happened to the others ?</i>
+
+1275
+01:36:47,792 --> 01:36:52,834
+这是150平米的休息厅，是真正的珠宝
+This is lounge which with its 150 square meters is a jewel,
+
+1276
+01:36:53,001 --> 01:36:57,876
+在这你能拥有极佳的罗马市区视角！这就是那个露台
+which as you can see has a splendid view of Rome ! This is the terrace.
+
+1277
+01:36:58,084 --> 01:37:01,459
+<i>乔吉奥和马蒂亚欠了那家宾馆4万欧元</i>
+<i>Giorgio and Mattia owed 40,000 euros to the hotel</i>
+
+1278
+01:37:01,709 --> 01:37:03,459
+<i>而且只有一种办法去偿还</i>
+<i>and had only one way to pay.</i>
+
+1279
+01:37:03,709 --> 01:37:11,001
+对，它是有点挡事，不过那恐怕是承重柱，动不了
+Yes, it's a bit claustrophobic, but this is a bearing pillar, I'm afraid.
+
+1280
+01:37:11,209 --> 01:37:14,042
+<i>巴尔托洛梅奥。。。这桩婚姻应该是有效的</i>
+<i>Bartolomeo... The marriage turned out to be valid.</i>
+
+1281
+01:37:14,251 --> 01:37:17,834
+<i>主持婚礼的官员是真的，所以我们可以说他已经合法结婚了</i>
+<i>The council official was real, so let's say he's sorted.</i>
+
+1282
+01:37:18,042 --> 01:37:23,542
+要是打算出售一头骆驼，你必须怎么做？
+If someone wanted to sell a camel, what to do you have to do ?
+
+1283
+01:37:23,792 --> 01:37:27,709
+- 你又不是卖骆驼的   - 咱们走着瞧
+- You don't sell the camel.   - We'll see about that.
+
+1284
+01:37:29,709 --> 01:37:33,751
+<i>阿尔贝托正在康复之中。据说情况良好</i>
+<i>Alberto is in recovery. They say he's making progress.</i>
+
+1285
+01:37:34,834 --> 01:37:37,834
+我说的可不是经营一、两个街区的事，不是，不是
+I'm not talking about running one or two neighborhoods, no, no !
+
+1286
+01:37:38,001 --> 01:37:42,084
+不，我曾经是罗马之王！脚踏整个罗马，你明白吗？
+No, I was the King of Rome ! Rome was at my feet, you understand ?
+
+1287
+01:37:42,292 --> 01:37:44,209
+不，我是说真的！你笑什么？
+No, really! Why are you laughing ?
+
+1288
+01:37:44,417 --> 01:37:48,334
+各位，静一静！我们知道某些东西会导致困惑。。。
+Guys, please ! We know certain substances cause confusion...
+
+1289
+01:37:48,542 --> 01:37:52,834
+困惑，神父？你在质疑我几个月的犯罪行为吗？
+Confusion, Father ? You're doubting my months of criminal activity ?
+
+1290
+01:37:53,042 --> 01:37:59,459
+我有质疑你的神圣道路吗？拜托！。。。抱歉
+Do I challenge your spiritual path ? Excuse me ! Excuse me.
+
+1291
+01:38:14,876 --> 01:38:17,792
+- 事情办得怎样？   - 不错
+- How did it go ?   - Great.
+
+1292
+01:38:17,959 --> 01:38:20,042
+他真是个可爱的家伙
+He's a really lovely person.
+
+1293
+01:38:20,251 --> 01:38:24,251
+我把事情全都跟他说了，他很感兴趣。。。
+I told him the whole story, he listened with great interest...
+
+1294
+01:38:24,459 --> 01:38:27,459
+- 于是他决定用你了？   - 我跟他达成了君子协定
+- So he took you on ?   - I made a gentleman's agreement,
+
+1295
+01:38:27,709 --> 01:38:30,959
+跟他之间合作胜过其它合同千百倍
+which with someone like him is worth a thousand contracts.
+
+1296
+01:38:31,167 --> 01:38:35,917
+我得到了12到18个月的无薪实习期，然后看情况了
+I've got a 12-18 month unpaid apprenticeship, then we'll see.
+
+1297
+01:38:36,251 --> 01:38:38,209
+- 无薪   - 对
+- Unpaid.   - Yes.
+
+1298
+01:38:38,417 --> 01:38:43,917
+我想会从周一开始。对，按理说，我不能带着这狗
+I think I start Monday. Yes, in the sense, I can't keep the dog.
+
+1299
+01:38:44,126 --> 01:38:48,167
+我不能带着它去工作。我已经承担了被开除的风险
+I can't take it on site. I've already risked being fired,
+
+1300
+01:38:48,376 --> 01:38:51,709
+- 我已经旷了不少天的工   - 我们一起来处理吧
+- all those days off.   - We'll deal with this together,
+
+1301
+01:38:51,834 --> 01:38:54,501
+开个会，并且说明这是集体的责任
+have a meeting and point out it's a collective responsibility,
+
+1302
+01:38:54,751 --> 01:38:56,834
+我觉得我们最好是轮流来。。。
+I think we need some kind of turntable system...
+
+1303
+01:39:00,084 --> 01:39:08,167
+所以现在要让元素平衡，我们得添加。。。？添加。。。
+So now we balance the element with the addition of...? The addition...
+
+1304
+01:39:10,001 --> 01:39:14,709
+电子。各位，氧化还原反应，是这个公式第四步的关键
+Electrons. Guys, redox is at the heart of the 4th-year program.
+
+1305
+01:39:14,876 --> 01:39:18,501
+你们觉得怎样才能获得学位？
+How do you think you'll get your diploma ?
+
+1306
+01:39:18,751 --> 01:39:22,501
+你们中一部分人需要用它获得保释。。。我就不点名字了
+Some of you need it to get parole... no names, eh, Amed ?
+
+1307
+01:39:22,751 --> 01:39:28,334
+你们走吧，救命的下课铃响了！探视时间到！你们得去工作了
+On you go, saved by the bell ! Visiting time ! You need to work.
+
+1308
+01:39:28,542 --> 01:39:35,084
+斯巴达克，你起步很好，接着就停止不前了！怎么努力的，嗯！
+Spartaco, you started off well and then drew up ! What a struggle, eh !
+
+1309
+01:39:36,542 --> 01:39:40,876
+不过还不算坏。这个公式很难，我们到了氧化还原阶段
+But it's not bad. The program is hard, we're at redox,
+
+1310
+01:39:41,084 --> 01:39:46,459
+我教的这些都是北非人，他们天生就会数学
+I've got all these North Africans, they've got numbers in their blood.
+
+1311
+01:39:46,709 --> 01:39:48,501
+是不是啊？
+Isn't that right ?
+
+1312
+01:39:48,792 --> 01:39:53,209
+彼得罗，你可能6个月内就能出去了，通过缓刑
+Pietro, you might get out in six months, get probation.
+
+1313
+01:39:53,417 --> 01:39:55,792
+- 谁说的？   - 维托利奥告诉我的
+- Says who ?   - Vittorio told me.
+
+1314
+01:39:55,959 --> 01:40:01,126
+他知道些什么？他是个教会律师。和刑事案完全不沾边
+What does he know ? He's a canon lawyer. Penal's totally different.
+
+1315
+01:40:01,334 --> 01:40:06,542
+对，但是我们需要你的教师工资。同样为了孩子
+Yes, but we need your teacher's salary here. For the boy as well.
+
+1316
+01:40:06,792 --> 01:40:10,376
+宝贝，别担心，总会有办法的
+Baby, don't worry, there's always an answer.
+
+1317
+01:40:10,584 --> 01:40:14,959
+我头上这把达摩克利斯之剑正展现好的一面！
+I've got this sword of Damocles of good behavior hanging over me !
+
+1318
+01:40:15,167 --> 01:40:18,792
+我们就不能策划一下？
+Can't we arrange something ?
+
+1319
+01:40:18,959 --> 01:40:23,042
+我已经和阿尔巴尼亚人计划好了餐厅的骚乱
+I've organized a riot in the canteen with the Albanians.
+
+1320
+01:40:23,709 --> 01:40:28,792
+要是有人被捅伤了，我可能再得到一年减刑。了不起吧！
+If someone gets stabbed, I might get another year. That's something !
+
+1321
+01:40:30,084 --> 01:40:31,001
+不是吗？
+No?
+
+1322
+01:40:33,001 --> 01:40:36,001
+<i>玩命毒师</i>
+I CAN QUIT ANYTIME I WANT
+

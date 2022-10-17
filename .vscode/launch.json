@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "admin",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "/Users/chenyu/work/zimuzu/admin",
+            "env": {},
+            "args": []
+        },
+        {
+            "name": "appDebug",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "/Users/chenyu/work/zimuzu/api",
+            "env": {},
+            "args": []
+        }
+    ]
+}

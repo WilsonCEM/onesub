@@ -1,0 +1,1 @@
+apidoc -c ./apidoc.json -i . -o ./doc
